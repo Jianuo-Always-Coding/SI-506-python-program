@@ -1,0 +1,100 @@
+{
+  "abstract": "Ten years ago, psychologists proposed that a wide range of people would suffer anxiety and grief over climate. Skepticism about that idea is gone.",
+  "web_url": "https://www.nytimes.com/2022/02/06/health/climate-anxiety-therapy.html",
+  "snippet": "Ten years ago, psychologists proposed that a wide range of people would suffer anxiety and grief over climate. Skepticism about that idea is gone.",
+  "lead_paragraph": "To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.",
+  "source": "The New York Times",
+  "headline": {
+    "main": "Climate Change Enters the Therapy Room",
+    "kicker": null,
+    "content_kicker": null,
+    "print_headline": "Anxiety Over Climate Change Lands on the Therapist’s Couch",
+    "name": null,
+    "seo": null,
+    "sub": null
+  },
+  "keywords": [
+    {
+      "name": "subject",
+      "value": "Anxiety and Stress",
+      "rank": 1,
+      "major": "N"
+    },
+    {
+      "name": "subject",
+      "value": "Psychology and Psychologists",
+      "rank": 2,
+      "major": "N"
+    },
+    {
+      "name": "subject",
+      "value": "Global Warming",
+      "rank": 3,
+      "major": "N"
+    },
+    {
+      "name": "glocations",
+      "value": "Portland (Ore)",
+      "rank": 4,
+      "major": "N"
+    },
+    {
+      "name": "subject",
+      "value": "Therapy and Rehabilitation",
+      "rank": 5,
+      "major": "N"
+    },
+    {
+      "name": "subject",
+      "value": "Grief (Emotion)",
+      "rank": 6,
+      "major": "N"
+    },
+    {
+      "name": "subject",
+      "value": "Environment",
+      "rank": 7,
+      "major": "N"
+    },
+    {
+      "name": "subject",
+      "value": "audio-neutral-informative",
+      "rank": 8,
+      "major": "N"
+    },
+    {
+      "name": "subject",
+      "value": "audio-negative-sad",
+      "rank": 9,
+      "major": "N"
+    },
+    {
+      "name": "subject",
+      "value": "audio-neutral-immersive",
+      "rank": 10,
+      "major": "N"
+    }
+  ],
+  "pub_date": "2022-02-06T10:00:12+0000",
+  "document_type": "article",
+  "news_desk": "Science",
+  "section_name": "Health",
+  "byline": {
+    "original": "By Ellen Barry",
+    "person": [
+      {
+        "firstname": "Ellen",
+        "middlename": null,
+        "lastname": "Barry",
+        "qualifier": null,
+        "title": null,
+        "role": "reported",
+        "organization": "",
+        "rank": 1
+      }
+    ],
+    "organization": null
+  },
+  "type_of_material": "News",
+  "word_count": 1940
+}

@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Razor Crest",
+    "model": "ST-70 class Razor Crest M-111",
+    "starship_class": "gunship",
+    "manufacturer": null,
+    "cost_in_credits": null,
+    "length": 80,
+    "width": 54,
+    "height": 28,
+    "max_atmosphering_speed": null,
+    "crew": 1,
+    "passengers": 5,
+    "cargo_capacity": null,
+    "consumables": null,
+    "hyperdrive_rating": null,
+    "MGLT": null,
+    "armament": "2 x Mk 3e/W heavy laser cannons",
+    "url": "https://starwars.fandom.com/wiki/Razor_Crest"
+  },
+  {
+    "name": "Imperial transport",
+    "model": null,
+    "starship_class": "transport",
+    "manufacturer": null,
+    "cost_in_credits": null,
+    "length": null,
+    "width": null,
+    "height": null,
+    "max_atmosphering_speed": null,
+    "crew": 4,
+    "passengers": 36,
+    "cargo_capacity": null,
+    "consumables": null,
+    "hyperdrive_rating": null,
+    "MGLT": null,
+    "armament": "2 x twin laser cannons",
+    "url": "https://starwars.fandom.com/wiki/Imperial_transport"
+  }
+]

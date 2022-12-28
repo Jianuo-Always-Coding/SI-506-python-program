@@ -1,0 +1,18 @@
+{
+  "url": "https://starwars.fandom.com/wiki/Grogu",
+  "name": "Grogu",
+  "birth_year": "41BBY",
+  "height_cm": 34.0,
+  "mass_kg": null,
+  "homeworld": null,
+  "species": {
+    "url": "https://swapi.py4e.com/api/species/6/",
+    "name": "Yoda's species",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_lifespan": 900,
+    "average_height_cm": 66.0,
+    "language": "Galactic basic"
+  },
+  "force_sensitive": "True"
+}

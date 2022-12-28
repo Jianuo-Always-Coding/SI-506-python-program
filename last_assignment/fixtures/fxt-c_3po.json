@@ -1,0 +1,14 @@
+{
+  "url": "https://starwars.fandom.com/wiki/C-3PO/Legends",
+  "name": "C-3PO",
+  "model": "3PO-series protocol droid",
+  "manufacturer": "Cybot Galactica",
+  "create_date": {
+    "year": 112,
+    "era": "BBY"
+  },
+  "height_cm": 167.0,
+  "mass_kg": 75.0,
+  "equipment": null,
+  "instructions": null
+}

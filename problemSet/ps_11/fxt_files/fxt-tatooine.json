@@ -1,0 +1,18 @@
+{
+  "url": "https://swapi.py4e.com/api/planets/1/",
+  "name": "Tatooine",
+  "region": null,
+  "sector": null,
+  "suns": null,
+  "moons": null,
+  "orbital_period_days": 304.0,
+  "diameter_km": 10465,
+  "gravity_std": 1.0,
+  "climate": [
+    "arid"
+  ],
+  "terrain": [
+    "desert"
+  ],
+  "population": 200000
+}

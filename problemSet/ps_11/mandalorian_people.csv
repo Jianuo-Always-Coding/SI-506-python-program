@@ -1,0 +1,8 @@
+name,height,mass,hair_color,skin_color,eye_color,birth_year,gender,homeworld,species,force_sensitive,url
+Din Djarin,180,,brown,tan,brown,prior to 19BBY,male,Aq Vetina,https://swapi.py4e.com/api/species/1/,False,https://starwars.fandom.com/wiki/Din_Djarin
+Carasynthia Dune,173,,black,light,brown,,female,https://swapi.py4e.com/api/planets/2/,https://swapi.py4e.com/api/species/1/,False,https://starwars.fandom.com/wiki/Carasynthia_Dune
+Grogu,34,,white,green,brown,41BBY,male,,https://swapi.py4e.com/api/species/6/,True,https://starwars.fandom.com/wiki/Grogu
+Gideon,183,,"black, graying",dark,brown,,male,,https://swapi.py4e.com/api/species/1/,False,https://starwars.fandom.com/wiki/Gideon
+Greef Karga,188,,"black, graying",dark,brown,,male,,https://swapi.py4e.com/api/species/1/,False,https://starwars.fandom.com/wiki/Greef_Karga
+IG-11,219,,,gray and bronze,,9ABY,masculine programming,,https://swapi.py4e.com/api/species/2/,False,https://starwars.fandom.com/wiki/IG-11
+Kuiil,145,,white,light,green,,male,Arvala-7,Ugnaught,False,https://starwars.fandom.com/wiki/Greef_Karga

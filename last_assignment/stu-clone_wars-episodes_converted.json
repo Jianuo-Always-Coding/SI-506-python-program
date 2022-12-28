@@ -1,0 +1,641 @@
+[
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 1,
+    "series_episode_num": 1,
+    "season_episode_num": 1,
+    "episode_title": "Ambush",
+    "episode_director": "Dave Bullock",
+    "episode_writers": [
+      "Steven Melching"
+    ],
+    "episode_release_date": "October 3, 2008",
+    "episode_prod_code": 1.08,
+    "episode_us_viewers_mm": 3.99
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 1,
+    "series_episode_num": 2,
+    "season_episode_num": 2,
+    "episode_title": "Rising Malevolence",
+    "episode_director": "Dave Filoni",
+    "episode_writers": [
+      "Steven Melching"
+    ],
+    "episode_release_date": "October 3, 2008",
+    "episode_prod_code": 1.07,
+    "episode_us_viewers_mm": 4.92
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 1,
+    "series_episode_num": 3,
+    "season_episode_num": 3,
+    "episode_title": "Shadow of Malevolence",
+    "episode_director": "Brian Kalin O'Connell",
+    "episode_writers": [
+      "Steven Melching"
+    ],
+    "episode_release_date": "October 10, 2008",
+    "episode_prod_code": 1.09,
+    "episode_us_viewers_mm": 2.8
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 1,
+    "series_episode_num": 4,
+    "season_episode_num": 4,
+    "episode_title": "Destroy Malevolence",
+    "episode_director": "Brian Kalin O'Connell",
+    "episode_writers": [
+      "Steven Melching"
+    ],
+    "episode_release_date": "October 17, 2008",
+    "episode_prod_code": 1.11,
+    "episode_us_viewers_mm": null
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 1,
+    "series_episode_num": 5,
+    "season_episode_num": 5,
+    "episode_title": "Rookies",
+    "episode_director": "Justin Ridge",
+    "episode_writers": [
+      "Steven Melching"
+    ],
+    "episode_release_date": "October 24, 2008",
+    "episode_prod_code": 1.14,
+    "episode_us_viewers_mm": null
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 1,
+    "series_episode_num": 6,
+    "season_episode_num": 6,
+    "episode_title": "Downfall of a Droid",
+    "episode_director": "Rob Coleman",
+    "episode_writers": [
+      "George Krstic"
+    ],
+    "episode_release_date": "November 7, 2008",
+    "episode_prod_code": 1.02,
+    "episode_us_viewers_mm": null
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 1,
+    "series_episode_num": 7,
+    "season_episode_num": 7,
+    "episode_title": "Duel of the Droids",
+    "episode_director": "Rob Coleman",
+    "episode_writers": [
+      "Kevin Campbell",
+      "Henry Gilroy"
+    ],
+    "episode_release_date": "November 14, 2008",
+    "episode_prod_code": 1.06,
+    "episode_us_viewers_mm": null
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 1,
+    "series_episode_num": 8,
+    "season_episode_num": 8,
+    "episode_title": "Bombad Jedi",
+    "episode_director": "Jesse Yeh",
+    "episode_writers": [
+      "Kevin Rubio",
+      "Steven Melching",
+      "Henry Gilroy"
+    ],
+    "episode_release_date": "November 21, 2008",
+    "episode_prod_code": 1.05,
+    "episode_us_viewers_mm": 2.77
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 1,
+    "series_episode_num": 9,
+    "season_episode_num": 9,
+    "episode_title": "Cloak of Darkness",
+    "episode_director": "Dave Filoni",
+    "episode_writers": [
+      "Paul Dini"
+    ],
+    "episode_release_date": "December 5, 2008",
+    "episode_prod_code": 1.1,
+    "episode_us_viewers_mm": 1.95
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 1,
+    "series_episode_num": 10,
+    "season_episode_num": 10,
+    "episode_title": "Lair of Grievous",
+    "episode_director": "Atsushi Takeuchi",
+    "episode_writers": [
+      "Henry Gilroy"
+    ],
+    "episode_release_date": "December 12, 2008",
+    "episode_prod_code": 1.12,
+    "episode_us_viewers_mm": 2.14
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 1,
+    "series_episode_num": 11,
+    "season_episode_num": 11,
+    "episode_title": "Dooku Captured",
+    "episode_director": "Jesse Yeh",
+    "episode_writers": [
+      "Julie Siege"
+    ],
+    "episode_release_date": "January 2, 2009",
+    "episode_prod_code": 1.16,
+    "episode_us_viewers_mm": null
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 1,
+    "series_episode_num": 12,
+    "season_episode_num": 12,
+    "episode_title": "The Gungan General",
+    "episode_director": "Justin Ridge",
+    "episode_writers": [
+      "Julie Siege"
+    ],
+    "episode_release_date": "January 9, 2009",
+    "episode_prod_code": 1.2,
+    "episode_us_viewers_mm": 2.31
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 1,
+    "series_episode_num": 13,
+    "season_episode_num": 13,
+    "episode_title": "Jedi Crash",
+    "episode_director": "Rob Coleman",
+    "episode_writers": [
+      "Katie Lucas"
+    ],
+    "episode_release_date": "January 16, 2009",
+    "episode_prod_code": 1.22,
+    "episode_us_viewers_mm": 2.35
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 1,
+    "series_episode_num": 14,
+    "season_episode_num": 14,
+    "episode_title": "Defenders of Peace",
+    "episode_director": "Steward Lee",
+    "episode_writers": [
+      "Bill Canterbury"
+    ],
+    "episode_release_date": "January 23, 2009",
+    "episode_prod_code": 1.24,
+    "episode_us_viewers_mm": 2.17
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 1,
+    "series_episode_num": 15,
+    "season_episode_num": 15,
+    "episode_title": "Trespass",
+    "episode_director": "Brian Kalin O'Connell",
+    "episode_writers": [
+      "Steven Melching"
+    ],
+    "episode_release_date": "January 30, 2009",
+    "episode_prod_code": 1.25,
+    "episode_us_viewers_mm": 2.62
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 1,
+    "series_episode_num": 16,
+    "season_episode_num": 16,
+    "episode_title": "The Hidden Enemy",
+    "episode_director": "Steward Lee",
+    "episode_writers": [
+      "Drew Z. Greenberg"
+    ],
+    "episode_release_date": "February 6, 2009",
+    "episode_prod_code": 2.01,
+    "episode_us_viewers_mm": 2.51
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 1,
+    "series_episode_num": 17,
+    "season_episode_num": 17,
+    "episode_title": "Blue Shadow Virus",
+    "episode_director": "Giancarlo Volpe",
+    "episode_writers": [
+      "Craig Titley"
+    ],
+    "episode_release_date": "February 13, 2009",
+    "episode_prod_code": 1.26,
+    "episode_us_viewers_mm": 2.94
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 1,
+    "series_episode_num": 18,
+    "season_episode_num": 18,
+    "episode_title": "Mystery of a Thousand Moons",
+    "episode_director": "Jesse Yeh",
+    "episode_writers": [
+      "Brian Larsen"
+    ],
+    "episode_release_date": "February 13, 2009",
+    "episode_prod_code": 2.02,
+    "episode_us_viewers_mm": 2.11
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 1,
+    "series_episode_num": 19,
+    "season_episode_num": 19,
+    "episode_title": "Storm Over Ryloth",
+    "episode_director": "Brian Kalin O'Connell",
+    "episode_writers": [
+      "George Krstic",
+      "Scott Murphy",
+      "Henry Gilroy"
+    ],
+    "episode_release_date": "February 27, 2009",
+    "episode_prod_code": 1.15,
+    "episode_us_viewers_mm": 2.37
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 1,
+    "series_episode_num": 20,
+    "season_episode_num": 20,
+    "episode_title": "Innocents of Ryloth",
+    "episode_director": "Justin Ridge",
+    "episode_writers": [
+      "Randy Stradley",
+      "Henry Gilroy"
+    ],
+    "episode_release_date": "March 6, 2009",
+    "episode_prod_code": 1.17,
+    "episode_us_viewers_mm": 2.49
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 1,
+    "series_episode_num": 21,
+    "season_episode_num": 21,
+    "episode_title": "Liberty on Ryloth",
+    "episode_director": "Rob Coleman",
+    "episode_writers": [
+      "Henry Gilroy"
+    ],
+    "episode_release_date": "March 13, 2009",
+    "episode_prod_code": 1.19,
+    "episode_us_viewers_mm": 3.01
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 1,
+    "series_episode_num": 22,
+    "season_episode_num": 22,
+    "episode_title": "Hostage Crisis",
+    "episode_director": "Giancarlo Volpe",
+    "episode_writers": [
+      "Eoghan Mahony"
+    ],
+    "episode_release_date": "March 20, 2009",
+    "episode_prod_code": 2.04,
+    "episode_us_viewers_mm": 3.29
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 2,
+    "series_episode_num": 23,
+    "season_episode_num": 1,
+    "episode_title": "Holocron Heist",
+    "episode_director": "Justin Ridge",
+    "episode_writers": [
+      "Paul Dini"
+    ],
+    "episode_release_date": "October 2, 2009",
+    "episode_prod_code": 1.23,
+    "episode_us_viewers_mm": 2.58
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 2,
+    "series_episode_num": 24,
+    "season_episode_num": 2,
+    "episode_title": "Cargo of Doom",
+    "episode_director": "Rob Coleman",
+    "episode_writers": [
+      "George Krstic"
+    ],
+    "episode_release_date": "October 2, 2009",
+    "episode_prod_code": 1.13,
+    "episode_us_viewers_mm": 2.58
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 2,
+    "series_episode_num": 25,
+    "season_episode_num": 3,
+    "episode_title": "Children of the Force",
+    "episode_director": "Brian Kalin O'Connell",
+    "episode_writers": [
+      "Henry Gilroy",
+      "Wendy Meracle"
+    ],
+    "episode_release_date": "October 9, 2009",
+    "episode_prod_code": 2.03,
+    "episode_us_viewers_mm": 2.8
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 2,
+    "series_episode_num": 26,
+    "season_episode_num": 4,
+    "episode_title": "Senate Spy",
+    "episode_director": "Steward Lee",
+    "episode_writers": [
+      "Melinda Hsu"
+    ],
+    "episode_release_date": "October 16, 2009",
+    "episode_prod_code": 2.05,
+    "episode_us_viewers_mm": null
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 2,
+    "series_episode_num": 27,
+    "season_episode_num": 5,
+    "episode_title": "Landing at Point Rain",
+    "episode_director": "Brian Kalin O'Connell",
+    "episode_writers": [
+      "Brian Larsen"
+    ],
+    "episode_release_date": "November 6, 2009",
+    "episode_prod_code": 2.07,
+    "episode_us_viewers_mm": null
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 2,
+    "series_episode_num": 28,
+    "season_episode_num": 6,
+    "episode_title": "Weapons Factory",
+    "episode_director": "Giancarlo Volpe",
+    "episode_writers": [
+      "Brian Larsen"
+    ],
+    "episode_release_date": "November 13, 2009",
+    "episode_prod_code": 2.08,
+    "episode_us_viewers_mm": null
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 2,
+    "series_episode_num": 29,
+    "season_episode_num": 7,
+    "episode_title": "Legacy of Terror",
+    "episode_director": "Steward Lee",
+    "episode_writers": [
+      "Eoghan Mahony"
+    ],
+    "episode_release_date": "November 20, 2009",
+    "episode_prod_code": 2.09,
+    "episode_us_viewers_mm": null
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 2,
+    "series_episode_num": 30,
+    "season_episode_num": 8,
+    "episode_title": "Brain Invaders",
+    "episode_director": "Steward Lee",
+    "episode_writers": [
+      "Andrew Kreisberg"
+    ],
+    "episode_release_date": "December 4, 2009",
+    "episode_prod_code": 2.12,
+    "episode_us_viewers_mm": null
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 2,
+    "series_episode_num": 31,
+    "season_episode_num": 9,
+    "episode_title": "Grievous Intrigue",
+    "episode_director": "Giancarlo Volpe",
+    "episode_writers": [
+      "Ben Edlund"
+    ],
+    "episode_release_date": "January 1, 2010",
+    "episode_prod_code": 2.14,
+    "episode_us_viewers_mm": null
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 2,
+    "series_episode_num": 32,
+    "season_episode_num": 10,
+    "episode_title": "The Deserter",
+    "episode_director": "Robert Dalva",
+    "episode_writers": [
+      "Carl Ellsworth"
+    ],
+    "episode_release_date": "January 1, 2010",
+    "episode_prod_code": 2.06,
+    "episode_us_viewers_mm": null
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 2,
+    "series_episode_num": 33,
+    "season_episode_num": 11,
+    "episode_title": "Lightsaber Lost",
+    "episode_director": "Giancarlo Volpe",
+    "episode_writers": [
+      "Drew Z. Greenberg"
+    ],
+    "episode_release_date": "January 22, 2010",
+    "episode_prod_code": 2.11,
+    "episode_us_viewers_mm": null
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 2,
+    "series_episode_num": 34,
+    "season_episode_num": 12,
+    "episode_title": "The Mandalore Plot",
+    "episode_director": "Kyle Dunlevy",
+    "episode_writers": [
+      "Melinda Hsu"
+    ],
+    "episode_release_date": "January 29, 2010",
+    "episode_prod_code": 2.13,
+    "episode_us_viewers_mm": null
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 2,
+    "series_episode_num": 35,
+    "season_episode_num": 13,
+    "episode_title": "Voyage of Temptation",
+    "episode_director": "Brian Kalin O'Connell",
+    "episode_writers": [
+      "Paul Dini"
+    ],
+    "episode_release_date": "February 5, 2010",
+    "episode_prod_code": 1.21,
+    "episode_us_viewers_mm": null
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 2,
+    "series_episode_num": 36,
+    "season_episode_num": 14,
+    "episode_title": "Duchess of Mandalore",
+    "episode_director": "Brian Kalin O'Connell",
+    "episode_writers": [
+      "Drew Z. Greenberg"
+    ],
+    "episode_release_date": "February 12, 2010",
+    "episode_prod_code": 2.16,
+    "episode_us_viewers_mm": null
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 2,
+    "series_episode_num": 37,
+    "season_episode_num": 15,
+    "episode_title": "Senate Murders",
+    "episode_director": "Brian Kalin O'Connell",
+    "episode_writers": [
+      "Drew Z. Greenberg"
+    ],
+    "episode_release_date": "March 12, 2010",
+    "episode_prod_code": 2.1,
+    "episode_us_viewers_mm": null
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 2,
+    "series_episode_num": 38,
+    "season_episode_num": 16,
+    "episode_title": "Cat and Mouse",
+    "episode_director": "Kyle Dunlevy",
+    "episode_writers": [
+      "Brian Larsen"
+    ],
+    "episode_release_date": "March 20, 2010",
+    "episode_prod_code": 2.17,
+    "episode_us_viewers_mm": 2.02
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 2,
+    "series_episode_num": 39,
+    "season_episode_num": 17,
+    "episode_title": "Bounty Hunters",
+    "episode_director": "Steward Lee",
+    "episode_writers": [
+      "Carl Ellsworth"
+    ],
+    "episode_release_date": "March 27, 2010",
+    "episode_prod_code": 2.19,
+    "episode_us_viewers_mm": null
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 2,
+    "series_episode_num": 40,
+    "season_episode_num": 18,
+    "episode_title": "The Zillo Beast",
+    "episode_director": "Giancarlo Volpe",
+    "episode_writers": [
+      "Craig Titley"
+    ],
+    "episode_release_date": "April 3, 2010",
+    "episode_prod_code": 2.22,
+    "episode_us_viewers_mm": null
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 2,
+    "series_episode_num": 41,
+    "season_episode_num": 19,
+    "episode_title": "The Zillo Beast Strikes Back",
+    "episode_director": "Steward Lee",
+    "episode_writers": [
+      "Steven Melching"
+    ],
+    "episode_release_date": "April 10, 2010",
+    "episode_prod_code": 2.23,
+    "episode_us_viewers_mm": null
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 2,
+    "series_episode_num": 42,
+    "season_episode_num": 20,
+    "episode_title": "Death Trap",
+    "episode_director": "Steward Lee",
+    "episode_writers": [
+      "Doug Petrie"
+    ],
+    "episode_release_date": "April 17, 2010",
+    "episode_prod_code": 2.15,
+    "episode_us_viewers_mm": 2.85
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 2,
+    "series_episode_num": 43,
+    "season_episode_num": 21,
+    "episode_title": "R2 Come Home",
+    "episode_director": "Giancarlo Volpe",
+    "episode_writers": [
+      "Eoghan Mahony"
+    ],
+    "episode_release_date": "April 24, 2010",
+    "episode_prod_code": 2.18,
+    "episode_us_viewers_mm": 2.76
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 2,
+    "series_episode_num": 44,
+    "season_episode_num": 22,
+    "episode_title": "Lethal Trackdown",
+    "episode_director": "Dave Filoni",
+    "episode_writers": [
+      "Dave Filoni",
+      "Drew Z. Greenberg"
+    ],
+    "episode_release_date": "April 30, 2010",
+    "episode_prod_code": 2.2,
+    "episode_us_viewers_mm": 2.76
+  },
+  {
+    "series_title": "Star Wars: The Clone Wars",
+    "series_season_num": 2,
+    "series_episode_num": 45,
+    "season_episode_num": 23,
+    "episode_title": "Test Record",
+    "episode_director": "Anthony Whyte",
+    "episode_writers": [
+      "Anthony Whyte",
+      "Chris Teplovs"
+    ],
+    "episode_release_date": "May 7, 2010",
+    "episode_prod_code": 2.22,
+    "episode_us_viewers_mm": 4.92
+  }
+]

@@ -1,0 +1,37 @@
+ElectionDate,OfficeCode(Text),DistrictCode(Text),StatusCode,CountyCode,CountyName,OfficeDescription,PartyOrder,PartyName,PartyDescription,CandidateID,CandidateLastName,CandidateFirstName,CandidateMiddleName,CandidateFormerName,CandidateVotes,WriteIn(W)/Uncommitted(Z),Recount(*),Nominated(N)/Elected(E)
+8/2/2022,2,0,0,81,WASHTENAW,Governor 4 Year Term (1) Position,1,DEM,Democratic,518014,Whitmer,Gretchen,,,61144,,,N
+8/2/2022,2,0,0,81,WASHTENAW,Governor 4 Year Term (1) Position,2,REP,Republican,520065,Dixon,Tudor,M.,,10691,,,N
+8/2/2022,2,0,0,81,WASHTENAW,Governor 4 Year Term (1) Position,2,REP,Republican,519976,Kelley,Ryan,D.,,3031,,,
+8/2/2022,2,0,0,81,WASHTENAW,Governor 4 Year Term (1) Position,2,REP,Republican,520027,Rebandt,Ralph,,,971,,,
+8/2/2022,2,0,0,81,WASHTENAW,Governor 4 Year Term (1) Position,2,REP,Republican,520134,Rinke,Kevin,,,4133,,,
+8/2/2022,2,0,0,81,WASHTENAW,Governor 4 Year Term (1) Position,2,REP,Republican,520044,Soldano,Garrett,,,2524,,,
+8/2/2022,2,0,0,81,WASHTENAW,Governor 4 Year Term (1) Position,2,REP,Republican,520913,Adkisson,Elizabeth,Ann,,0,W,,
+8/2/2022,2,0,0,81,WASHTENAW,Governor 4 Year Term (1) Position,2,REP,Republican,520647,Blackburn,Justin,Paul,,0,W,,
+8/2/2022,2,0,0,81,WASHTENAW,Governor 4 Year Term (1) Position,2,REP,Republican,520093,Craig,James,Elmer,,865,W,,
+8/2/2022,6,600,0,58,MONROE,6th District Representative in Congress 2 Year Term (1) Position,1,DEM,Democratic,-1432,Dingell,Debbie,,,171,,,N
+8/2/2022,6,600,0,58,MONROE,6th District Representative in Congress 2 Year Term (1) Position,2,REP,Republican,-1463,Kolanagireddy,Hima,,,63,,,
+8/2/2022,6,600,0,58,MONROE,6th District Representative in Congress 2 Year Term (1) Position,2,REP,Republican,-1459,Williams,Whittney,,,88,,,N
+8/2/2022,6,600,0,63,OAKLAND,6th District Representative in Congress 2 Year Term (1) Position,1,DEM,Democratic,-1432,Dingell,Debbie,,,5604,,,N
+8/2/2022,6,600,0,63,OAKLAND,6th District Representative in Congress 2 Year Term (1) Position,2,REP,Republican,-1463,Kolanagireddy,Hima,,,2636,,,
+8/2/2022,6,600,0,63,OAKLAND,6th District Representative in Congress 2 Year Term (1) Position,2,REP,Republican,-1459,Williams,Whittney,,,2683,,,N
+8/2/2022,6,600,0,81,WASHTENAW,6th District Representative in Congress 2 Year Term (1) Position,1,DEM,Democratic,-1432,Dingell,Debbie,,,60296,,,N
+8/2/2022,6,600,0,81,WASHTENAW,6th District Representative in Congress 2 Year Term (1) Position,2,REP,Republican,-1463,Kolanagireddy,Hima,,,9819,,,
+8/2/2022,6,600,0,81,WASHTENAW,6th District Representative in Congress 2 Year Term (1) Position,2,REP,Republican,-1459,Williams,Whittney,,,10030,,,N
+8/2/2022,6,600,0,82,WAYNE,6th District Representative in Congress 2 Year Term (1) Position,1,DEM,Democratic,-1432,Dingell,Debbie,,,36788,,,N
+8/2/2022,6,600,0,82,WAYNE,6th District Representative in Congress 2 Year Term (1) Position,2,REP,Republican,-1463,Kolanagireddy,Hima,,,13853,,,
+8/2/2022,6,600,0,82,WAYNE,6th District Representative in Congress 2 Year Term (1) Position,2,REP,Republican,-1459,Williams,Whittney,,,17763,,,N
+8/2/2022,7,1500,0,46,LENAWEE,15th District State Senator 4 Year Term (1) Position,1,DEM,Democratic,518308,Irwin,Jeff,,,1157,,,N
+8/2/2022,7,1500,0,46,LENAWEE,15th District State Senator 4 Year Term (1) Position,2,REP,Republican,520764,Price,Scott,,,1247,,,N
+8/2/2022,7,1500,0,46,LENAWEE,15th District State Senator 4 Year Term (1) Position,2,REP,Republican,520768,Seelig,Wyckham,,,383,,,
+8/2/2022,7,1500,0,58,MONROE,15th District State Senator 4 Year Term (1) Position,1,DEM,Democratic,518308,Irwin,Jeff,,,167,,,N
+8/2/2022,7,1500,0,58,MONROE,15th District State Senator 4 Year Term (1) Position,2,REP,Republican,520764,Price,Scott,,,90,,,N
+8/2/2022,7,1500,0,58,MONROE,15th District State Senator 4 Year Term (1) Position,2,REP,Republican,520768,Seelig,Wyckham,,,41,,,
+8/2/2022,7,1500,0,81,WASHTENAW,15th District State Senator 4 Year Term (1) Position,1,DEM,Democratic,518308,Irwin,Jeff,,,35906,,,N
+8/2/2022,7,1500,0,81,WASHTENAW,15th District State Senator 4 Year Term (1) Position,2,REP,Republican,520764,Price,Scott,,,6916,,,N
+8/2/2022,7,1500,0,81,WASHTENAW,15th District State Senator 4 Year Term (1) Position,2,REP,Republican,520768,Seelig,Wyckham,,,2789,,,
+8/2/2022,8,2300,0,63,OAKLAND,23rd District Representative in State Legislature 2 Year Term (1) Position,1,DEM,Democratic,520072,Morgan,Jason,,,1167,,,N
+8/2/2022,8,2300,0,63,OAKLAND,23rd District Representative in State Legislature 2 Year Term (1) Position,2,REP,Republican,520771,Sharland,Richard,L.,,1430,,,N
+8/2/2022,8,2300,0,81,WASHTENAW,23rd District Representative in State Legislature 2 Year Term (1) Position,1,DEM,Democratic,520072,Morgan,Jason,,,5586,,,N
+8/2/2022,8,2300,0,81,WASHTENAW,23rd District Representative in State Legislature 2 Year Term (1) Position,2,REP,Republican,520771,Sharland,Richard,L.,,1682,,,N
+8/2/2022,8,2300,0,82,WAYNE,23rd District Representative in State Legislature 2 Year Term (1) Position,1,DEM,Democratic,520072,Morgan,Jason,,,1454,,,N
+8/2/2022,8,2300,0,82,WAYNE,23rd District Representative in State Legislature 2 Year Term (1) Position,2,REP,Republican,520771,Sharland,Richard,L.,,1502,,,N

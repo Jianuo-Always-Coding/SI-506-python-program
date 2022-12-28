@@ -1,0 +1,19 @@
+url,name,region,sector,system,grid_coordinates,suns,moons,rotation_period,orbital_period,diameter,atmosphere,climate,terrain,population,primary_languages
+https://starwars.fandom.com/wiki/Ahch-To,Ahch-To,Unknown Regions,,Ahch-To system,,2,1,,,,Type I (breathable),,"Oceans, Rocky islands",1,Galactic Basic
+https://starwars.fandom.com/wiki/Alderaan,Alderaan,Core Worlds,Alderaan sector,Alderaan system,M-10,1,0,18,364,12500,Type I (breathable),Temperate,"Forests, Mountains, Plains",2000000000,Galatic Basic
+https://starwars.fandom.com/wiki/Chandrila,Chandrila,Core Worlds,Bormea sector,Chandrila system,L-9,1,1,20,368,13500,Type I (breathable),Temperate,Rolling hills,1200000000,Galatic Basic
+https://starwars.fandom.com/wiki/Corellia,Corellia,Core Worlds,Corellian sector,Corellia system,M-11,1,2,25,329,11000,Type I (breathable),Temperate,"Forests, Jungles, Oceans, Industrial urban",3000000000,Galatic Basic
+https://starwars.fandom.com/wiki/D'Qar,D'Qar,Outer Rim Territories,Sanbra sector,Ileenium system,O-17,1,2,,415,10400,Type I (breathable),Temperate,"Jungles, Plains, Forested canopies",0,
+https://starwars.fandom.com/wiki/Hoth,Hoth,Outer Rim Territories,Anoat sector,Hoth System,K-18,1,3,,549,7200,Type I (breathable),Frigid,"Frozen ice plains, Glaciers, Oceans, Mountains",10,
+https://starwars.fandom.com/wiki/Ilum,Ilum,Unknown Regions,7G sector,Ilum system,G-7,1,0,66,301,660,Type I (breathable),Frigid,"Crystallized glaciers, Ice plains, Mountains",5200,
+https://starwars.fandom.com/wiki/Jakku,Jakku,Western Reaches Inner Rim,,Jakku system,I-13,1,2,26.8,352,6400,Type I (breathable),cold,desert,24000,"Galactic Basic, Hideo, Teedospeak, Uthuthma"
+https://starwars.fandom.com/wiki/Kashyyyk,Kashyyyk,Mid Rim,Mytaranor sector,Kashyyyk system,P-9,1,3,26,381,12765,Type I (breathable),Temperate,"Forests, Jungles, Mountains",56000000,Shyriiwoo
+https://starwars.fandom.com/wiki/Naboo,Naboo,Mid Rim Territories,Chommell sector,Naboo system,O-17,1,3,26,312,12120,Type I (breathable),Temperate,"Swamps, Hills, Plains, Cities, Mountains",4500000000,"Galactic Basic, Gunganese"
+https://starwars.fandom.com/wiki/Stewjon,Stewjon,,,Stewjon System,M-13,,,,,,Type I (breathable),,,,Galactic Basic
+https://starwars.fandom.com/wiki/Takodana,Takodana,Western Reaches Mid Rim,Tashtor sector,Takodana system,J-16,1,0,,215,12100,Type I (breathable),Temperate,"Plains, Seas, Temperate forest",900000,
+https://starwars.fandom.com/wiki/Tatooine,Tatooine,Outer Rim Territories,Arkanis sector,Tatoo system,R-16,2,3,34,304,10465,Type I (breathable),"Hot, Arid","Canyons, Desert, Mountains, Rocky bluffs",200000,"Bocce, Galactic Basic, Huttese, Jawaese, Tusken"
+https://starwars.fandom.com/wiki/Yavin_4,Yavin IV,Outer Rim Territories,Gordian Reach,Yavin system,P-6,,0,,4818,10200,Type I (breathable),"Temperate, Tropical",Jungles,,
+https://starwars.fandom.com/wiki/Dorin/Legends,Dorin,Expansion Region,Deadalis sector,Dorin system,J-8,1,1,22,409,13400,Type III,Temperate,"Mountains, Valleys, Plateaus",671000000,Kel Dor
+https://starwars.fandom.com/wiki/Dagobah,Dagobah,Outer Rim Territories,Sluis sector,Dagobah system,M-19,1,1,23,341,8900,Type I (breathable),Murky,"Swamp, Bogs, Jungles, Bayous",,
+https://starwars.fandom.com/wiki/Haruun_Kal,Haruun Kal,Mid Rim,Dustig sector,Al'Har system,M-17,1,,25.5,383,10120,Type II,Temperate,"Toxic cloudsea, Plateaus, Volcanoes, Jungles",705300,"Galactic Basic, Korunnal"
+https://starwars.fandom.com/wiki/Shili,Shili,Expansion Region,Shili system,Ehosiq sector,L-8,1,6,,,,Type I (breathable),Temperate,"Cities, Savannahs, Seas, Plains, Rainforest valleys, Mountains",,Togruta

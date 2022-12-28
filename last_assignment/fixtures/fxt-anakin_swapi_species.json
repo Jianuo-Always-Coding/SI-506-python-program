@@ -1,0 +1,9 @@
+{
+  "url": "https://swapi.py4e.com/api/species/1/",
+  "name": "Human",
+  "classification": "mammal",
+  "designation": "sentient",
+  "average_lifespan": 120,
+  "average_height_cm": 180.0,
+  "language": "Galactic Basic"
+}

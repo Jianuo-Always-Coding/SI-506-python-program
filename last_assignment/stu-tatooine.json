@@ -1,0 +1,24 @@
+{
+  "url": "https://starwars.fandom.com/wiki/Tatooine",
+  "name": "Tatooine",
+  "location": {
+    "region": "Outer Rim Territories",
+    "sector": "Arkanis sector"
+  },
+  "suns": 2,
+  "moons": 3,
+  "orbital_period_days": 304.0,
+  "diameter_km": 10465,
+  "gravity_std": 1.0,
+  "climate": [
+    "Hot",
+    "Arid"
+  ],
+  "terrain": [
+    "Canyons",
+    "Desert",
+    "Mountains",
+    "Rocky bluffs"
+  ],
+  "population": 200000
+}

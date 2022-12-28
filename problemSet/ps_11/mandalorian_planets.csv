@@ -1,0 +1,5 @@
+name,region,sector,suns,orbital_position,moons,class,atmosphere,rotation_period,orbital_period,diameter,climate,gravity,terrain,surface_water,population,url
+Arvala-7,,,1,7,,terrestrial,,,,,arid,,desert,,,https://starwars.fandom.com/wiki/Arvala-7
+Mandalore,Outer Rim Territories,Mandalore sector,1,5,2,terrestrial,type I but inhospitable,19,366,9200,hot and dry,1 standard,desert,,4000000,https://starwars.fandom.com/wiki/Mandalore
+Nevarro,Outer Rim Territories,Nevarro sector,1,,,terrestrial,breathable,,,,arid,,"ashen, rocky, volcanic",,,https://starwars.fandom.com/wiki/Nevarro
+Sorgan,Outer Rim Territories,,1,,2,terrestrial,breathable,,,,,,"coniferous forests, meadows, swamps, wetlands","lakes, ponds",,https://starwars.fandom.com/wiki/Sorgan

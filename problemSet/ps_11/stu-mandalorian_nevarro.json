@@ -1,0 +1,19 @@
+{
+  "name": "Nevarro",
+  "region": "Outer Rim Territories",
+  "sector": "Nevarro sector",
+  "suns": 1,
+  "orbital_position": null,
+  "moons": null,
+  "class": "terrestrial",
+  "atmosphere": "breathable",
+  "rotation_period": null,
+  "orbital_period": null,
+  "diameter": null,
+  "climate": "arid",
+  "gravity": null,
+  "terrain": "ashen, rocky, volcanic",
+  "surface_water": null,
+  "population": null,
+  "url": "https://starwars.fandom.com/wiki/Nevarro"
+}

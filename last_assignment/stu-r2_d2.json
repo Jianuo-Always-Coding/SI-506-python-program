@@ -1,0 +1,24 @@
+{
+  "url": "https://starwars.fandom.com/wiki/R2-D2",
+  "name": "R2-D2",
+  "model": "R2-series astromech droid",
+  "manufacturer": "Industrial Automaton",
+  "create_date": {
+    "year": 32,
+    "era": "BBY"
+  },
+  "height_cm": 108.0,
+  "mass_kg": 32.0,
+  "equipment": [
+    "Ascension cable",
+    "Buzz saw",
+    "Data probe",
+    "Electric pike",
+    "Fusion welder",
+    "Holoprojector",
+    "Power recharge coupler",
+    "Rocket booster",
+    "Water spout"
+  ],
+  "instructions": null
+}

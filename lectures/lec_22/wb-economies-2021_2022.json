@@ -1,0 +1,1746 @@
+[
+  {
+    "country_name": "Aruba",
+    "country_code": "ABW",
+    "region": "Latin America & Caribbean",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Afghanistan",
+    "country_code": "AFG",
+    "region": "South Asia",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Angola",
+    "country_code": "AGO",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Albania",
+    "country_code": "alb",
+    "region": "Europe & Central Asia",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Andorra",
+    "country_code": "AND",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "United Arab Emirates",
+    "country_code": "ARE",
+    "region": "Middle East & North Africa",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Argentina",
+    "country_code": "ARG",
+    "region": "Latin America & Caribbean",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Armenia",
+    "country_code": "ARM",
+    "region": "Europe & Central Asia",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "American Samoa",
+    "country_code": "ASM",
+    "region": "East Asia & Pacific",
+    "income_group": "Upper middle income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Antigua and Barbuda",
+    "country_code": "atg",
+    "region": "Latin America & Caribbean",
+    "income_group": "High income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Australia",
+    "country_code": "aus",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Austria",
+    "country_code": "AUT",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": "EMU"
+  },
+  {
+    "country_name": "Azerbaijan",
+    "country_code": "AZE",
+    "region": "Europe & Central Asia",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Burundi",
+    "country_code": "bdi",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Belgium",
+    "country_code": "BEL",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": "EMU"
+  },
+  {
+    "country_name": "Benin",
+    "country_code": "ben",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Burkina Faso",
+    "country_code": "BFA",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Bangladesh",
+    "country_code": "BGD",
+    "region": "South Asia",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Bulgaria",
+    "country_code": "BGR",
+    "region": "Europe & Central Asia",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Bahrain",
+    "country_code": "BHR",
+    "region": "Middle East & North Africa",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Bahamas, The",
+    "country_code": "BHS",
+    "region": "Latin America & Caribbean",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "country_code": "bih",
+    "region": "Europe & Central Asia",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Belarus",
+    "country_code": "BLR",
+    "region": "Europe & Central Asia",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Belize",
+    "country_code": "blz",
+    "region": "Latin America & Caribbean",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Bermuda",
+    "country_code": "BMU",
+    "region": "North America",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Bolivia",
+    "country_code": "bol",
+    "region": "Latin America & Caribbean",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Brazil",
+    "country_code": "BRA",
+    "region": "Latin America & Caribbean",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Barbados",
+    "country_code": "BRB",
+    "region": "Latin America & Caribbean",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Brunei Darussalam",
+    "country_code": "BRN",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Bhutan",
+    "country_code": "btn",
+    "region": "South Asia",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Botswana",
+    "country_code": "BWA",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Central African Republic",
+    "country_code": "CAF",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Canada",
+    "country_code": "can",
+    "region": "North America",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Switzerland",
+    "country_code": "che",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Channel Islands",
+    "country_code": "CHI",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Chile",
+    "country_code": "CHL",
+    "region": "Latin America & Caribbean",
+    "income_group": "High income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "China",
+    "country_code": "chn",
+    "region": "East Asia & Pacific",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Côte d'Ivoire",
+    "country_code": "civ",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Cameroon",
+    "country_code": "CMR",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "Blend",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Congo, Dem. Rep.",
+    "country_code": "COD",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Congo, Rep.",
+    "country_code": "COG",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "Blend",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Colombia",
+    "country_code": "col",
+    "region": "Latin America & Caribbean",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Comoros",
+    "country_code": "COM",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Cabo Verde",
+    "country_code": "cpv",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "Blend",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Costa Rica",
+    "country_code": "cri",
+    "region": "Latin America & Caribbean",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Cuba",
+    "country_code": "CUB",
+    "region": "Latin America & Caribbean",
+    "income_group": "Upper middle income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Curaçao",
+    "country_code": "cuw",
+    "region": "Latin America & Caribbean",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Cayman Islands",
+    "country_code": "CYM",
+    "region": "Latin America & Caribbean",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Cyprus",
+    "country_code": "CYP",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": "EMU"
+  },
+  {
+    "country_name": "Czech Republic",
+    "country_code": "cze",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Germany",
+    "country_code": "DEU",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": "EMU"
+  },
+  {
+    "country_name": "Djibouti",
+    "country_code": "dji",
+    "region": "Middle East & North Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Dominica",
+    "country_code": "DMA",
+    "region": "Latin America & Caribbean",
+    "income_group": "Upper middle income",
+    "lending_category": "Blend",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Denmark",
+    "country_code": "DNK",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Dominican Republic",
+    "country_code": "dom",
+    "region": "Latin America & Caribbean",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Algeria",
+    "country_code": "dza",
+    "region": "Middle East & North Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Ecuador",
+    "country_code": "ecu",
+    "region": "Latin America & Caribbean",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Egypt, Arab Rep.",
+    "country_code": "EGY",
+    "region": "Middle East & North Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Eritrea",
+    "country_code": "ERI",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Spain",
+    "country_code": "ESP",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": "EMU"
+  },
+  {
+    "country_name": "Estonia",
+    "country_code": "est",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": "EMU"
+  },
+  {
+    "country_name": "Ethiopia",
+    "country_code": "eth",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Finland",
+    "country_code": "fin",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": "EMU"
+  },
+  {
+    "country_name": "Fiji",
+    "country_code": "fji",
+    "region": "East Asia & Pacific",
+    "income_group": "Upper middle income",
+    "lending_category": "Blend",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "France",
+    "country_code": "fra",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": "EMU"
+  },
+  {
+    "country_name": "Faroe Islands",
+    "country_code": "FRO",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Micronesia, Fed. Sts.",
+    "country_code": "fsm",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Gabon",
+    "country_code": "gab",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "United Kingdom",
+    "country_code": "gbr",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Georgia",
+    "country_code": "GEO",
+    "region": "Europe & Central Asia",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Ghana",
+    "country_code": "gha",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Gibraltar",
+    "country_code": "GIB",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Guinea",
+    "country_code": "GIN",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Gambia, The",
+    "country_code": "GMB",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Guinea-Bissau",
+    "country_code": "GNB",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Equatorial Guinea",
+    "country_code": "GNQ",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Greece",
+    "country_code": "grc",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": "EMU"
+  },
+  {
+    "country_name": "Grenada",
+    "country_code": "grd",
+    "region": "Latin America & Caribbean",
+    "income_group": "Upper middle income",
+    "lending_category": "Blend",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Greenland",
+    "country_code": "GRL",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Guatemala",
+    "country_code": "gtm",
+    "region": "Latin America & Caribbean",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Guam",
+    "country_code": "GUM",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Guyana",
+    "country_code": "guy",
+    "region": "Latin America & Caribbean",
+    "income_group": "Upper middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Hong Kong SAR, China",
+    "country_code": "HKG",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Honduras",
+    "country_code": "hnd",
+    "region": "Latin America & Caribbean",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Croatia",
+    "country_code": "HRV",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Haiti",
+    "country_code": "HTI",
+    "region": "Latin America & Caribbean",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Hungary",
+    "country_code": "HUN",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Indonesia",
+    "country_code": "IDN",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Isle of Man",
+    "country_code": "IMN",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "India",
+    "country_code": "ind",
+    "region": "South Asia",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Ireland",
+    "country_code": "IRL",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": "EMU"
+  },
+  {
+    "country_name": "Iran, Islamic Rep.",
+    "country_code": "IRN",
+    "region": "Middle East & North Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Iraq",
+    "country_code": "IRQ",
+    "region": "Middle East & North Africa",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Iceland",
+    "country_code": "ISL",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Israel",
+    "country_code": "ISR",
+    "region": "Middle East & North Africa",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Italy",
+    "country_code": "ITA",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": "EMU"
+  },
+  {
+    "country_name": "Jamaica",
+    "country_code": "JAM",
+    "region": "Latin America & Caribbean",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Jordan",
+    "country_code": "jor",
+    "region": "Middle East & North Africa",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Japan",
+    "country_code": "JPN",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Kazakhstan",
+    "country_code": "KAZ",
+    "region": "Europe & Central Asia",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Kenya",
+    "country_code": "KEN",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "Blend",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Kyrgyz Republic",
+    "country_code": "KGZ",
+    "region": "Europe & Central Asia",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Cambodia",
+    "country_code": "KHM",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Kiribati",
+    "country_code": "kir",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "St. Kitts and Nevis",
+    "country_code": "KNA",
+    "region": "Latin America & Caribbean",
+    "income_group": "High income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Korea, Rep.",
+    "country_code": "KOR",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Kuwait",
+    "country_code": "kwt",
+    "region": "Middle East & North Africa",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Lao PDR",
+    "country_code": "lao",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Lebanon",
+    "country_code": "LBN",
+    "region": "Middle East & North Africa",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Liberia",
+    "country_code": "lbr",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Libya",
+    "country_code": "lby",
+    "region": "Middle East & North Africa",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "St. Lucia",
+    "country_code": "LCA",
+    "region": "Latin America & Caribbean",
+    "income_group": "Upper middle income",
+    "lending_category": "Blend",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Liechtenstein",
+    "country_code": "LIE",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Sri Lanka",
+    "country_code": "LKA",
+    "region": "South Asia",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Lesotho",
+    "country_code": "LSO",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Lithuania",
+    "country_code": "LTU",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": "EMU"
+  },
+  {
+    "country_name": "Luxembourg",
+    "country_code": "LUX",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": "EMU"
+  },
+  {
+    "country_name": "Latvia",
+    "country_code": "lva",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": "EMU"
+  },
+  {
+    "country_name": "Macao SAR, China",
+    "country_code": "mac",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "St. Martin (French part)",
+    "country_code": "maf",
+    "region": "Latin America & Caribbean",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Morocco",
+    "country_code": "MAR",
+    "region": "Middle East & North Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Monaco",
+    "country_code": "MCO",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Moldova",
+    "country_code": "mda",
+    "region": "Europe & Central Asia",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Madagascar",
+    "country_code": "MDG",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Maldives",
+    "country_code": "MDV",
+    "region": "South Asia",
+    "income_group": "Upper middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Mexico",
+    "country_code": "MEX",
+    "region": "Latin America & Caribbean",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Marshall Islands",
+    "country_code": "mhl",
+    "region": "East Asia & Pacific",
+    "income_group": "Upper middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "North Macedonia",
+    "country_code": "MKD",
+    "region": "Europe & Central Asia",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Mali",
+    "country_code": "mli",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Malta",
+    "country_code": "MLT",
+    "region": "Middle East & North Africa",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": "EMU"
+  },
+  {
+    "country_name": "Myanmar",
+    "country_code": "mmr",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Montenegro",
+    "country_code": "MNE",
+    "region": "Europe & Central Asia",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Mongolia",
+    "country_code": "MNG",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Northern Mariana Islands",
+    "country_code": "MNP",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Mozambique",
+    "country_code": "MOZ",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Mauritania",
+    "country_code": "MRT",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Mauritius",
+    "country_code": "MUS",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Malawi",
+    "country_code": "MWI",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Malaysia",
+    "country_code": "mys",
+    "region": "East Asia & Pacific",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Namibia",
+    "country_code": "nam",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "New Caledonia",
+    "country_code": "NCL",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Niger",
+    "country_code": "NER",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Nigeria",
+    "country_code": "NGA",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "Blend",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Nicaragua",
+    "country_code": "NIC",
+    "region": "Latin America & Caribbean",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Netherlands",
+    "country_code": "NLD",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": "EMU"
+  },
+  {
+    "country_name": "Norway",
+    "country_code": "nor",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Nepal",
+    "country_code": "npl",
+    "region": "South Asia",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Nauru",
+    "country_code": "NRU",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "New Zealand",
+    "country_code": "nzl",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Oman",
+    "country_code": "omn",
+    "region": "Middle East & North Africa",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Pakistan",
+    "country_code": "PAK",
+    "region": "South Asia",
+    "income_group": "Lower middle income",
+    "lending_category": "Blend",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Panama",
+    "country_code": "pan",
+    "region": "Latin America & Caribbean",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Peru",
+    "country_code": "per",
+    "region": "Latin America & Caribbean",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Philippines",
+    "country_code": "PHL",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Palau",
+    "country_code": "plw",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Papua New Guinea",
+    "country_code": "PNG",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "Blend",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Poland",
+    "country_code": "pol",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Puerto Rico",
+    "country_code": "PRI",
+    "region": "Latin America & Caribbean",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Korea, Dem. People's Rep.",
+    "country_code": "PRK",
+    "region": "East Asia & Pacific",
+    "income_group": "Low income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Portugal",
+    "country_code": "PRT",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": "EMU"
+  },
+  {
+    "country_name": "Paraguay",
+    "country_code": "PRY",
+    "region": "Latin America & Caribbean",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "West Bank and Gaza",
+    "country_code": "pse",
+    "region": "Middle East & North Africa",
+    "income_group": "Lower middle income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "French Polynesia",
+    "country_code": "pyf",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Qatar",
+    "country_code": "QAT",
+    "region": "Middle East & North Africa",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Romania",
+    "country_code": "ROU",
+    "region": "Europe & Central Asia",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Russian Federation",
+    "country_code": "rus",
+    "region": "Europe & Central Asia",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Rwanda",
+    "country_code": "rwa",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Saudi Arabia",
+    "country_code": "SAU",
+    "region": "Middle East & North Africa",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Sudan",
+    "country_code": "SDN",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Senegal",
+    "country_code": "sen",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Singapore",
+    "country_code": "SGP",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Solomon Islands",
+    "country_code": "SLB",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Sierra Leone",
+    "country_code": "SLE",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "El Salvador",
+    "country_code": "slv",
+    "region": "Latin America & Caribbean",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "San Marino",
+    "country_code": "smr",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Somalia",
+    "country_code": "SOM",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Serbia",
+    "country_code": "SRB",
+    "region": "Europe & Central Asia",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "South Sudan",
+    "country_code": "SSD",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "São Tomé and Principe",
+    "country_code": "STP",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Suriname",
+    "country_code": "sur",
+    "region": "Latin America & Caribbean",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Slovak Republic",
+    "country_code": "SVK",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": "EMU"
+  },
+  {
+    "country_name": "Slovenia",
+    "country_code": "SVN",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": "EMU"
+  },
+  {
+    "country_name": "Sweden",
+    "country_code": "swe",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Eswatini",
+    "country_code": "swz",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Sint Maarten (Dutch part)",
+    "country_code": "sxm",
+    "region": "Latin America & Caribbean",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Seychelles",
+    "country_code": "SYC",
+    "region": "Sub-Saharan Africa",
+    "income_group": "High income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Syrian Arab Republic",
+    "country_code": "SYR",
+    "region": "Middle East & North Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Turks and Caicos Islands",
+    "country_code": "tca",
+    "region": "Latin America & Caribbean",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Chad",
+    "country_code": "TCD",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Togo",
+    "country_code": "tgo",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Thailand",
+    "country_code": "THA",
+    "region": "East Asia & Pacific",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Tajikistan",
+    "country_code": "TJK",
+    "region": "Europe & Central Asia",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Turkmenistan",
+    "country_code": "TKM",
+    "region": "Europe & Central Asia",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Timor-Leste",
+    "country_code": "TLS",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "Blend",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Tonga",
+    "country_code": "TON",
+    "region": "East Asia & Pacific",
+    "income_group": "Upper middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Trinidad and Tobago",
+    "country_code": "tto",
+    "region": "Latin America & Caribbean",
+    "income_group": "High income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Tunisia",
+    "country_code": "TUN",
+    "region": "Middle East & North Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Turkey",
+    "country_code": "tur",
+    "region": "Europe & Central Asia",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Tuvalu",
+    "country_code": "TUV",
+    "region": "East Asia & Pacific",
+    "income_group": "Upper middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Taiwan, China",
+    "country_code": "TWN",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Tanzania",
+    "country_code": "TZA",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Uganda",
+    "country_code": "UGA",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Ukraine",
+    "country_code": "UKR",
+    "region": "Europe & Central Asia",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Uruguay",
+    "country_code": "URY",
+    "region": "Latin America & Caribbean",
+    "income_group": "High income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "United States",
+    "country_code": "USA",
+    "region": "North America",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Uzbekistan",
+    "country_code": "UZB",
+    "region": "Europe & Central Asia",
+    "income_group": "Lower middle income",
+    "lending_category": "Blend",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "St. Vincent and the Grenadines",
+    "country_code": "VCT",
+    "region": "Latin America & Caribbean",
+    "income_group": "Upper middle income",
+    "lending_category": "Blend",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Venezuela, RB",
+    "country_code": "VEN",
+    "region": "Latin America & Caribbean",
+    "income_group": "Unknown",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "British Virgin Islands",
+    "country_code": "VGB",
+    "region": "Latin America & Caribbean",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Virgin Islands (U.S.)",
+    "country_code": "VIR",
+    "region": "Latin America & Caribbean",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Vietnam",
+    "country_code": "VNM",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Vanuatu",
+    "country_code": "VUT",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Samoa",
+    "country_code": "WSM",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Kosovo",
+    "country_code": "XKX",
+    "region": "Europe & Central Asia",
+    "income_group": "Upper middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Yemen, Rep.",
+    "country_code": "YEM",
+    "region": "Middle East & North Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "South Africa",
+    "country_code": "ZAF",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Zambia",
+    "country_code": "ZMB",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Zimbabwe",
+    "country_code": "ZWE",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "Blend",
+    "emu_or_hipc": null
+  }
+]

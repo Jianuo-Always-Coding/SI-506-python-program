@@ -1,0 +1,19 @@
+{
+  "name": "Arvala-7",
+  "region": null,
+  "sector": null,
+  "suns": 1,
+  "orbital_position": 7,
+  "moons": null,
+  "class": "terrestrial",
+  "atmosphere": null,
+  "rotation_period": null,
+  "orbital_period": null,
+  "diameter": null,
+  "climate": "arid",
+  "gravity": null,
+  "terrain": "desert",
+  "surface_water": null,
+  "population": null,
+  "url": "https://starwars.fandom.com/wiki/Arvala-7"
+}

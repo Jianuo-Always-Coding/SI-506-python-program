@@ -1,0 +1,665 @@
+{
+  "https://swapi.py4e.com/api/planets/?search=tatooine": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "name": "Tatooine",
+        "rotation_period": "23",
+        "orbital_period": "304",
+        "diameter": "10465",
+        "climate": "arid",
+        "gravity": "1 standard",
+        "terrain": "desert",
+        "surface_water": "1",
+        "population": "200000",
+        "residents": [
+          "https://swapi.py4e.com/api/people/1/",
+          "https://swapi.py4e.com/api/people/2/",
+          "https://swapi.py4e.com/api/people/4/",
+          "https://swapi.py4e.com/api/people/6/",
+          "https://swapi.py4e.com/api/people/7/",
+          "https://swapi.py4e.com/api/people/8/",
+          "https://swapi.py4e.com/api/people/9/",
+          "https://swapi.py4e.com/api/people/11/",
+          "https://swapi.py4e.com/api/people/43/",
+          "https://swapi.py4e.com/api/people/62/"
+        ],
+        "films": [
+          "https://swapi.py4e.com/api/films/1/",
+          "https://swapi.py4e.com/api/films/3/",
+          "https://swapi.py4e.com/api/films/4/",
+          "https://swapi.py4e.com/api/films/5/",
+          "https://swapi.py4e.com/api/films/6/"
+        ],
+        "created": "2014-12-09T13:50:49.641000Z",
+        "edited": "2014-12-20T20:58:18.411000Z",
+        "url": "https://swapi.py4e.com/api/planets/1/"
+      }
+    ]
+  },
+  "https://swapi.py4e.com/api/people/": {
+    "count": 87,
+    "next": "https://swapi.py4e.com/api/people/?page=2",
+    "previous": null,
+    "results": [
+      {
+        "name": "Luke Skywalker",
+        "height": "172",
+        "mass": "77",
+        "hair_color": "blond",
+        "skin_color": "fair",
+        "eye_color": "blue",
+        "birth_year": "19BBY",
+        "gender": "male",
+        "homeworld": "https://swapi.py4e.com/api/planets/1/",
+        "films": [
+          "https://swapi.py4e.com/api/films/1/",
+          "https://swapi.py4e.com/api/films/2/",
+          "https://swapi.py4e.com/api/films/3/",
+          "https://swapi.py4e.com/api/films/6/",
+          "https://swapi.py4e.com/api/films/7/"
+        ],
+        "species": [
+          "https://swapi.py4e.com/api/species/1/"
+        ],
+        "vehicles": [
+          "https://swapi.py4e.com/api/vehicles/14/",
+          "https://swapi.py4e.com/api/vehicles/30/"
+        ],
+        "starships": [
+          "https://swapi.py4e.com/api/starships/12/",
+          "https://swapi.py4e.com/api/starships/22/"
+        ],
+        "created": "2014-12-09T13:50:51.644000Z",
+        "edited": "2014-12-20T21:17:56.891000Z",
+        "url": "https://swapi.py4e.com/api/people/1/"
+      },
+      {
+        "name": "C-3PO",
+        "height": "167",
+        "mass": "75",
+        "hair_color": "n/a",
+        "skin_color": "gold",
+        "eye_color": "yellow",
+        "birth_year": "112BBY",
+        "gender": "n/a",
+        "homeworld": "https://swapi.py4e.com/api/planets/1/",
+        "films": [
+          "https://swapi.py4e.com/api/films/1/",
+          "https://swapi.py4e.com/api/films/2/",
+          "https://swapi.py4e.com/api/films/3/",
+          "https://swapi.py4e.com/api/films/4/",
+          "https://swapi.py4e.com/api/films/5/",
+          "https://swapi.py4e.com/api/films/6/"
+        ],
+        "species": [
+          "https://swapi.py4e.com/api/species/2/"
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-10T15:10:51.357000Z",
+        "edited": "2014-12-20T21:17:50.309000Z",
+        "url": "https://swapi.py4e.com/api/people/2/"
+      },
+      {
+        "name": "R2-D2",
+        "height": "96",
+        "mass": "32",
+        "hair_color": "n/a",
+        "skin_color": "white, blue",
+        "eye_color": "red",
+        "birth_year": "33BBY",
+        "gender": "n/a",
+        "homeworld": "https://swapi.py4e.com/api/planets/8/",
+        "films": [
+          "https://swapi.py4e.com/api/films/1/",
+          "https://swapi.py4e.com/api/films/2/",
+          "https://swapi.py4e.com/api/films/3/",
+          "https://swapi.py4e.com/api/films/4/",
+          "https://swapi.py4e.com/api/films/5/",
+          "https://swapi.py4e.com/api/films/6/",
+          "https://swapi.py4e.com/api/films/7/"
+        ],
+        "species": [
+          "https://swapi.py4e.com/api/species/2/"
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-10T15:11:50.376000Z",
+        "edited": "2014-12-20T21:17:50.311000Z",
+        "url": "https://swapi.py4e.com/api/people/3/"
+      },
+      {
+        "name": "Darth Vader",
+        "height": "202",
+        "mass": "136",
+        "hair_color": "none",
+        "skin_color": "white",
+        "eye_color": "yellow",
+        "birth_year": "41.9BBY",
+        "gender": "male",
+        "homeworld": "https://swapi.py4e.com/api/planets/1/",
+        "films": [
+          "https://swapi.py4e.com/api/films/1/",
+          "https://swapi.py4e.com/api/films/2/",
+          "https://swapi.py4e.com/api/films/3/",
+          "https://swapi.py4e.com/api/films/6/"
+        ],
+        "species": [
+          "https://swapi.py4e.com/api/species/1/"
+        ],
+        "vehicles": [],
+        "starships": [
+          "https://swapi.py4e.com/api/starships/13/"
+        ],
+        "created": "2014-12-10T15:18:20.704000Z",
+        "edited": "2014-12-20T21:17:50.313000Z",
+        "url": "https://swapi.py4e.com/api/people/4/"
+      },
+      {
+        "name": "Leia Organa",
+        "height": "150",
+        "mass": "49",
+        "hair_color": "brown",
+        "skin_color": "light",
+        "eye_color": "brown",
+        "birth_year": "19BBY",
+        "gender": "female",
+        "homeworld": "https://swapi.py4e.com/api/planets/2/",
+        "films": [
+          "https://swapi.py4e.com/api/films/1/",
+          "https://swapi.py4e.com/api/films/2/",
+          "https://swapi.py4e.com/api/films/3/",
+          "https://swapi.py4e.com/api/films/6/",
+          "https://swapi.py4e.com/api/films/7/"
+        ],
+        "species": [
+          "https://swapi.py4e.com/api/species/1/"
+        ],
+        "vehicles": [
+          "https://swapi.py4e.com/api/vehicles/30/"
+        ],
+        "starships": [],
+        "created": "2014-12-10T15:20:09.791000Z",
+        "edited": "2014-12-20T21:17:50.315000Z",
+        "url": "https://swapi.py4e.com/api/people/5/"
+      },
+      {
+        "name": "Owen Lars",
+        "height": "178",
+        "mass": "120",
+        "hair_color": "brown, grey",
+        "skin_color": "light",
+        "eye_color": "blue",
+        "birth_year": "52BBY",
+        "gender": "male",
+        "homeworld": "https://swapi.py4e.com/api/planets/1/",
+        "films": [
+          "https://swapi.py4e.com/api/films/1/",
+          "https://swapi.py4e.com/api/films/5/",
+          "https://swapi.py4e.com/api/films/6/"
+        ],
+        "species": [
+          "https://swapi.py4e.com/api/species/1/"
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-10T15:52:14.024000Z",
+        "edited": "2014-12-20T21:17:50.317000Z",
+        "url": "https://swapi.py4e.com/api/people/6/"
+      },
+      {
+        "name": "Beru Whitesun lars",
+        "height": "165",
+        "mass": "75",
+        "hair_color": "brown",
+        "skin_color": "light",
+        "eye_color": "blue",
+        "birth_year": "47BBY",
+        "gender": "female",
+        "homeworld": "https://swapi.py4e.com/api/planets/1/",
+        "films": [
+          "https://swapi.py4e.com/api/films/1/",
+          "https://swapi.py4e.com/api/films/5/",
+          "https://swapi.py4e.com/api/films/6/"
+        ],
+        "species": [
+          "https://swapi.py4e.com/api/species/1/"
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-10T15:53:41.121000Z",
+        "edited": "2014-12-20T21:17:50.319000Z",
+        "url": "https://swapi.py4e.com/api/people/7/"
+      },
+      {
+        "name": "R5-D4",
+        "height": "97",
+        "mass": "32",
+        "hair_color": "n/a",
+        "skin_color": "white, red",
+        "eye_color": "red",
+        "birth_year": "unknown",
+        "gender": "n/a",
+        "homeworld": "https://swapi.py4e.com/api/planets/1/",
+        "films": [
+          "https://swapi.py4e.com/api/films/1/"
+        ],
+        "species": [
+          "https://swapi.py4e.com/api/species/2/"
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-10T15:57:50.959000Z",
+        "edited": "2014-12-20T21:17:50.321000Z",
+        "url": "https://swapi.py4e.com/api/people/8/"
+      },
+      {
+        "name": "Biggs Darklighter",
+        "height": "183",
+        "mass": "84",
+        "hair_color": "black",
+        "skin_color": "light",
+        "eye_color": "brown",
+        "birth_year": "24BBY",
+        "gender": "male",
+        "homeworld": "https://swapi.py4e.com/api/planets/1/",
+        "films": [
+          "https://swapi.py4e.com/api/films/1/"
+        ],
+        "species": [
+          "https://swapi.py4e.com/api/species/1/"
+        ],
+        "vehicles": [],
+        "starships": [
+          "https://swapi.py4e.com/api/starships/12/"
+        ],
+        "created": "2014-12-10T15:59:50.509000Z",
+        "edited": "2014-12-20T21:17:50.323000Z",
+        "url": "https://swapi.py4e.com/api/people/9/"
+      },
+      {
+        "name": "Obi-Wan Kenobi",
+        "height": "182",
+        "mass": "77",
+        "hair_color": "auburn, white",
+        "skin_color": "fair",
+        "eye_color": "blue-gray",
+        "birth_year": "57BBY",
+        "gender": "male",
+        "homeworld": "https://swapi.py4e.com/api/planets/20/",
+        "films": [
+          "https://swapi.py4e.com/api/films/1/",
+          "https://swapi.py4e.com/api/films/2/",
+          "https://swapi.py4e.com/api/films/3/",
+          "https://swapi.py4e.com/api/films/4/",
+          "https://swapi.py4e.com/api/films/5/",
+          "https://swapi.py4e.com/api/films/6/"
+        ],
+        "species": [
+          "https://swapi.py4e.com/api/species/1/"
+        ],
+        "vehicles": [
+          "https://swapi.py4e.com/api/vehicles/38/"
+        ],
+        "starships": [
+          "https://swapi.py4e.com/api/starships/48/",
+          "https://swapi.py4e.com/api/starships/59/",
+          "https://swapi.py4e.com/api/starships/64/",
+          "https://swapi.py4e.com/api/starships/65/",
+          "https://swapi.py4e.com/api/starships/74/"
+        ],
+        "created": "2014-12-10T16:16:29.192000Z",
+        "edited": "2014-12-20T21:17:50.325000Z",
+        "url": "https://swapi.py4e.com/api/people/10/"
+      }
+    ]
+  },
+  "https://swapi.py4e.com/api/species/?search=https%3a%2f%2fswapi.py4e.com%2fapi%2fspecies%2f1%2f": {
+    "count": 0,
+    "next": null,
+    "previous": null,
+    "results": []
+  },
+  "https://swapi.py4e.com/api/species/1/": {
+    "name": "Human",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_height": "180",
+    "skin_colors": "caucasian, black, asian, hispanic",
+    "hair_colors": "blonde, brown, black, red",
+    "eye_colors": "brown, blue, green, hazel, grey, amber",
+    "average_lifespan": "120",
+    "homeworld": "https://swapi.py4e.com/api/planets/9/",
+    "language": "Galactic Basic",
+    "people": [
+      "https://swapi.py4e.com/api/people/1/",
+      "https://swapi.py4e.com/api/people/4/",
+      "https://swapi.py4e.com/api/people/5/",
+      "https://swapi.py4e.com/api/people/6/",
+      "https://swapi.py4e.com/api/people/7/",
+      "https://swapi.py4e.com/api/people/9/",
+      "https://swapi.py4e.com/api/people/10/",
+      "https://swapi.py4e.com/api/people/11/",
+      "https://swapi.py4e.com/api/people/12/",
+      "https://swapi.py4e.com/api/people/14/",
+      "https://swapi.py4e.com/api/people/18/",
+      "https://swapi.py4e.com/api/people/21/",
+      "https://swapi.py4e.com/api/people/22/",
+      "https://swapi.py4e.com/api/people/25/",
+      "https://swapi.py4e.com/api/people/26/",
+      "https://swapi.py4e.com/api/people/28/",
+      "https://swapi.py4e.com/api/people/29/",
+      "https://swapi.py4e.com/api/people/32/",
+      "https://swapi.py4e.com/api/people/34/",
+      "https://swapi.py4e.com/api/people/35/",
+      "https://swapi.py4e.com/api/people/39/",
+      "https://swapi.py4e.com/api/people/42/",
+      "https://swapi.py4e.com/api/people/43/",
+      "https://swapi.py4e.com/api/people/51/",
+      "https://swapi.py4e.com/api/people/62/",
+      "https://swapi.py4e.com/api/people/66/",
+      "https://swapi.py4e.com/api/people/67/",
+      "https://swapi.py4e.com/api/people/68/",
+      "https://swapi.py4e.com/api/people/69/",
+      "https://swapi.py4e.com/api/people/74/",
+      "https://swapi.py4e.com/api/people/81/",
+      "https://swapi.py4e.com/api/people/84/",
+      "https://swapi.py4e.com/api/people/85/",
+      "https://swapi.py4e.com/api/people/86/",
+      "https://swapi.py4e.com/api/people/88/"
+    ],
+    "films": [
+      "https://swapi.py4e.com/api/films/1/",
+      "https://swapi.py4e.com/api/films/2/",
+      "https://swapi.py4e.com/api/films/3/",
+      "https://swapi.py4e.com/api/films/4/",
+      "https://swapi.py4e.com/api/films/5/",
+      "https://swapi.py4e.com/api/films/6/",
+      "https://swapi.py4e.com/api/films/7/"
+    ],
+    "created": "2014-12-10T13:52:11.567000Z",
+    "edited": "2014-12-20T21:36:42.136000Z",
+    "url": "https://swapi.py4e.com/api/species/1/"
+  },
+  "https://swapi.py4e.com/api/vehicles/": {
+    "count": 39,
+    "next": "https://swapi.py4e.com/api/vehicles/?page=2",
+    "previous": null,
+    "results": [
+      {
+        "name": "Sand Crawler",
+        "model": "Digger Crawler",
+        "manufacturer": "Corellia Mining Corporation",
+        "cost_in_credits": "150000",
+        "length": "36.8 ",
+        "max_atmosphering_speed": "30",
+        "crew": "46",
+        "passengers": "30",
+        "cargo_capacity": "50000",
+        "consumables": "2 months",
+        "vehicle_class": "wheeled",
+        "pilots": [],
+        "films": [
+          "https://swapi.py4e.com/api/films/1/",
+          "https://swapi.py4e.com/api/films/5/"
+        ],
+        "created": "2014-12-10T15:36:25.724000Z",
+        "edited": "2014-12-20T21:30:21.661000Z",
+        "url": "https://swapi.py4e.com/api/vehicles/4/"
+      },
+      {
+        "name": "T-16 skyhopper",
+        "model": "T-16 skyhopper",
+        "manufacturer": "Incom Corporation",
+        "cost_in_credits": "14500",
+        "length": "10.4 ",
+        "max_atmosphering_speed": "1200",
+        "crew": "1",
+        "passengers": "1",
+        "cargo_capacity": "50",
+        "consumables": "0",
+        "vehicle_class": "repulsorcraft",
+        "pilots": [],
+        "films": [
+          "https://swapi.py4e.com/api/films/1/"
+        ],
+        "created": "2014-12-10T16:01:52.434000Z",
+        "edited": "2014-12-20T21:30:21.665000Z",
+        "url": "https://swapi.py4e.com/api/vehicles/6/"
+      },
+      {
+        "name": "X-34 landspeeder",
+        "model": "X-34 landspeeder",
+        "manufacturer": "SoroSuub Corporation",
+        "cost_in_credits": "10550",
+        "length": "3.4 ",
+        "max_atmosphering_speed": "250",
+        "crew": "1",
+        "passengers": "1",
+        "cargo_capacity": "5",
+        "consumables": "unknown",
+        "vehicle_class": "repulsorcraft",
+        "pilots": [],
+        "films": [
+          "https://swapi.py4e.com/api/films/1/"
+        ],
+        "created": "2014-12-10T16:13:52.586000Z",
+        "edited": "2014-12-20T21:30:21.668000Z",
+        "url": "https://swapi.py4e.com/api/vehicles/7/"
+      },
+      {
+        "name": "TIE/LN starfighter",
+        "model": "Twin Ion Engine/Ln Starfighter",
+        "manufacturer": "Sienar Fleet Systems",
+        "cost_in_credits": "unknown",
+        "length": "6.4",
+        "max_atmosphering_speed": "1200",
+        "crew": "1",
+        "passengers": "0",
+        "cargo_capacity": "65",
+        "consumables": "2 days",
+        "vehicle_class": "starfighter",
+        "pilots": [],
+        "films": [
+          "https://swapi.py4e.com/api/films/1/",
+          "https://swapi.py4e.com/api/films/2/",
+          "https://swapi.py4e.com/api/films/3/"
+        ],
+        "created": "2014-12-10T16:33:52.860000Z",
+        "edited": "2014-12-20T21:30:21.670000Z",
+        "url": "https://swapi.py4e.com/api/vehicles/8/"
+      },
+      {
+        "name": "Snowspeeder",
+        "model": "t-47 airspeeder",
+        "manufacturer": "Incom corporation",
+        "cost_in_credits": "unknown",
+        "length": "4.5",
+        "max_atmosphering_speed": "650",
+        "crew": "2",
+        "passengers": "0",
+        "cargo_capacity": "10",
+        "consumables": "none",
+        "vehicle_class": "airspeeder",
+        "pilots": [
+          "https://swapi.py4e.com/api/people/1/",
+          "https://swapi.py4e.com/api/people/18/"
+        ],
+        "films": [
+          "https://swapi.py4e.com/api/films/2/"
+        ],
+        "created": "2014-12-15T12:22:12Z",
+        "edited": "2014-12-20T21:30:21.672000Z",
+        "url": "https://swapi.py4e.com/api/vehicles/14/"
+      },
+      {
+        "name": "TIE bomber",
+        "model": "TIE/sa bomber",
+        "manufacturer": "Sienar Fleet Systems",
+        "cost_in_credits": "unknown",
+        "length": "7.8",
+        "max_atmosphering_speed": "850",
+        "crew": "1",
+        "passengers": "0",
+        "cargo_capacity": "none",
+        "consumables": "2 days",
+        "vehicle_class": "space/planetary bomber",
+        "pilots": [],
+        "films": [
+          "https://swapi.py4e.com/api/films/2/",
+          "https://swapi.py4e.com/api/films/3/"
+        ],
+        "created": "2014-12-15T12:33:15.838000Z",
+        "edited": "2014-12-20T21:30:21.675000Z",
+        "url": "https://swapi.py4e.com/api/vehicles/16/"
+      },
+      {
+        "name": "AT-AT",
+        "model": "All Terrain Armored Transport",
+        "manufacturer": "Kuat Drive Yards, Imperial Department of Military Research",
+        "cost_in_credits": "unknown",
+        "length": "20",
+        "max_atmosphering_speed": "60",
+        "crew": "5",
+        "passengers": "40",
+        "cargo_capacity": "1000",
+        "consumables": "unknown",
+        "vehicle_class": "assault walker",
+        "pilots": [],
+        "films": [
+          "https://swapi.py4e.com/api/films/2/",
+          "https://swapi.py4e.com/api/films/3/"
+        ],
+        "created": "2014-12-15T12:38:25.937000Z",
+        "edited": "2014-12-20T21:30:21.677000Z",
+        "url": "https://swapi.py4e.com/api/vehicles/18/"
+      },
+      {
+        "name": "AT-ST",
+        "model": "All Terrain Scout Transport",
+        "manufacturer": "Kuat Drive Yards, Imperial Department of Military Research",
+        "cost_in_credits": "unknown",
+        "length": "2",
+        "max_atmosphering_speed": "90",
+        "crew": "2",
+        "passengers": "0",
+        "cargo_capacity": "200",
+        "consumables": "none",
+        "vehicle_class": "walker",
+        "pilots": [
+          "https://swapi.py4e.com/api/people/13/"
+        ],
+        "films": [
+          "https://swapi.py4e.com/api/films/2/",
+          "https://swapi.py4e.com/api/films/3/"
+        ],
+        "created": "2014-12-15T12:46:42.384000Z",
+        "edited": "2014-12-20T21:30:21.679000Z",
+        "url": "https://swapi.py4e.com/api/vehicles/19/"
+      },
+      {
+        "name": "Storm IV Twin-Pod cloud car",
+        "model": "Storm IV Twin-Pod",
+        "manufacturer": "Bespin Motors",
+        "cost_in_credits": "75000",
+        "length": "7",
+        "max_atmosphering_speed": "1500",
+        "crew": "2",
+        "passengers": "0",
+        "cargo_capacity": "10",
+        "consumables": "1 day",
+        "vehicle_class": "repulsorcraft",
+        "pilots": [],
+        "films": [
+          "https://swapi.py4e.com/api/films/2/"
+        ],
+        "created": "2014-12-15T12:58:50.530000Z",
+        "edited": "2014-12-20T21:30:21.681000Z",
+        "url": "https://swapi.py4e.com/api/vehicles/20/"
+      },
+      {
+        "name": "Sail barge",
+        "model": "Modified Luxury Sail Barge",
+        "manufacturer": "Ubrikkian Industries Custom Vehicle Division",
+        "cost_in_credits": "285000",
+        "length": "30",
+        "max_atmosphering_speed": "100",
+        "crew": "26",
+        "passengers": "500",
+        "cargo_capacity": "2000000",
+        "consumables": "Live food tanks",
+        "vehicle_class": "sail barge",
+        "pilots": [],
+        "films": [
+          "https://swapi.py4e.com/api/films/3/"
+        ],
+        "created": "2014-12-18T10:44:14.217000Z",
+        "edited": "2014-12-20T21:30:21.684000Z",
+        "url": "https://swapi.py4e.com/api/vehicles/24/"
+      }
+    ]
+  },
+  "https://swapi.py4e.com/api/species/?search=https%3a%2f%2fswapi.py4e.com%2fapi%2fspecies%2f6%2f": {
+    "count": 0,
+    "next": null,
+    "previous": null,
+    "results": []
+  },
+  "https://swapi.py4e.com/api/species/6/": {
+    "name": "Yoda's species",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_height": "66",
+    "skin_colors": "green, yellow",
+    "hair_colors": "brown, white",
+    "eye_colors": "brown, green, yellow",
+    "average_lifespan": "900",
+    "homeworld": "https://swapi.py4e.com/api/planets/28/",
+    "language": "Galactic basic",
+    "people": [
+      "https://swapi.py4e.com/api/people/20/"
+    ],
+    "films": [
+      "https://swapi.py4e.com/api/films/2/",
+      "https://swapi.py4e.com/api/films/3/",
+      "https://swapi.py4e.com/api/films/4/",
+      "https://swapi.py4e.com/api/films/5/",
+      "https://swapi.py4e.com/api/films/6/"
+    ],
+    "created": "2014-12-15T12:27:22.877000Z",
+    "edited": "2014-12-20T21:36:42.148000Z",
+    "url": "https://swapi.py4e.com/api/species/6/"
+  },
+  "https://swapi.py4e.com/api/planets/?search=https%3a%2f%2fswapi.py4e.com%2fapi%2fplanets%2f2%2f": {
+    "count": 0,
+    "next": null,
+    "previous": null,
+    "results": []
+  },
+  "https://swapi.py4e.com/api/planets/2/": {
+    "name": "Alderaan",
+    "rotation_period": "24",
+    "orbital_period": "364",
+    "diameter": "12500",
+    "climate": "temperate",
+    "gravity": "1 standard",
+    "terrain": "grasslands, mountains",
+    "surface_water": "40",
+    "population": "2000000000",
+    "residents": [
+      "https://swapi.py4e.com/api/people/5/",
+      "https://swapi.py4e.com/api/people/68/",
+      "https://swapi.py4e.com/api/people/81/"
+    ],
+    "films": [
+      "https://swapi.py4e.com/api/films/1/",
+      "https://swapi.py4e.com/api/films/6/"
+    ],
+    "created": "2014-12-10T11:35:48.479000Z",
+    "edited": "2014-12-20T20:58:18.420000Z",
+    "url": "https://swapi.py4e.com/api/planets/2/"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "url": "https://starwars.fandom.com/wiki/Dagobah",
+  "name": "Dagobah",
+  "region": "Outer Rim Territories",
+  "sector": "Sluis sector",
+  "system": "Dagobah system",
+  "grid_coordinates": "M-19",
+  "suns": "1",
+  "moons": "1",
+  "rotation_period": "23",
+  "orbital_period": "341",
+  "diameter": "8900",
+  "atmosphere": "Type I (breathable)",
+  "climate": "Murky",
+  "terrain": "Swamp, Bogs, Jungles, Bayous",
+  "population": "",
+  "primary_languages": ""
+}

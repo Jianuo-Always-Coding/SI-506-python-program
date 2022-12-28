@@ -1,0 +1,16 @@
+{
+  "url": "https://swapi.py4e.com/api/vehicles/4/",
+  "name": "Sand Crawler",
+  "model": "Digger Crawler",
+  "vehicle_class": "wheeled",
+  "manufacturer": "Corellia Mining Corporation",
+  "length_m": 36.8,
+  "max_atmosphering_speed": 30,
+  "armament": null,
+  "crew_size": 46,
+  "crew_members": null,
+  "max_passengers": 30,
+  "passengers_on_board": null,
+  "cargo_capacity_kg": 50000,
+  "consumables": "2 months"
+}

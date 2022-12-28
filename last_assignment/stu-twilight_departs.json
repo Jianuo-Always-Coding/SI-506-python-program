@@ -1,0 +1,191 @@
+{
+  "url": "https://starwars.fandom.com/wiki/Twilight",
+  "name": "Twilight",
+  "model": "G9 Rigger-class light freighter",
+  "starship_class": "Light freighter",
+  "manufacturer": "Corellian Engineering Corporation",
+  "length_m": 34.1,
+  "propulsion": {
+    "hyperdrive_rating": 3.0,
+    "max_megalight_hr": null,
+    "max_atmosphering_speed": 700
+  },
+  "crew": {
+    "crew_size": 2,
+    "crew_members": {
+      "pilot": {
+        "url": "https://swapi.py4e.com/api/people/11/",
+        "name": "Anakin Skywalker",
+        "birth_date": "41.9BBY",
+        "height_cm": 188.0,
+        "mass_kg": 84.0,
+        "homeworld": {
+          "url": "https://swapi.py4e.com/api/planets/1/",
+          "name": "Tatooine",
+          "location": {
+            "region": null,
+            "sector": null
+          },
+          "suns": null,
+          "moons": null,
+          "orbital_period_days": 304.0,
+          "diameter_km": 10465,
+          "gravity_std": 1.0,
+          "climate": [
+            "arid"
+          ],
+          "terrain": [
+            "desert"
+          ],
+          "population": 200000
+        },
+        "species": {
+          "url": "https://swapi.py4e.com/api/species/1/",
+          "name": "Human",
+          "classification": "mammal",
+          "designation": "sentient",
+          "average_lifespan": 120,
+          "average_height_cm": 180.0,
+          "language": "Galactic Basic"
+        },
+        "force_sensitive": null
+      },
+      "copilot": {
+        "url": "https://starwars.fandom.com/wiki/Obi-Wan_Kenobi",
+        "name": "Obi-Wan Kenobi",
+        "birth_date": {
+          "year": 57,
+          "era": "BBY"
+        },
+        "height_cm": 182.0,
+        "mass_kg": 77.0,
+        "homeworld": {
+          "url": "https://starwars.fandom.com/wiki/Stewjon",
+          "name": "Stewjon",
+          "location": {
+            "region": null,
+            "sector": null
+          },
+          "suns": null,
+          "moons": null,
+          "orbital_period_days": null,
+          "diameter_km": null,
+          "gravity_std": 1.0,
+          "climate": null,
+          "terrain": null,
+          "population": null
+        },
+        "species": {
+          "url": "https://swapi.py4e.com/api/species/1/",
+          "name": "Human",
+          "classification": "mammal",
+          "designation": "sentient",
+          "average_lifespan": 120,
+          "average_height_cm": 180.0,
+          "language": "Galactic Basic"
+        },
+        "force_sensitive": true
+      }
+    }
+  },
+  "passengers": {
+    "max_passengers": 6,
+    "on_board": [
+      {
+        "url": "https://starwars.fandom.com/wiki/Padm%C3%A9_Amidala",
+        "name": "Padmé Amidala",
+        "birth_date": {
+          "year": 46,
+          "era": "BBY"
+        },
+        "height_cm": 165.0,
+        "mass_kg": 45.0,
+        "homeworld": {
+          "url": "https://starwars.fandom.com/wiki/Naboo",
+          "name": "Naboo",
+          "location": {
+            "region": "Mid Rim Territories",
+            "sector": "Chommell sector"
+          },
+          "suns": 1,
+          "moons": 3,
+          "orbital_period_days": 312.0,
+          "diameter_km": 12120,
+          "gravity_std": 1.0,
+          "climate": [
+            "Temperate"
+          ],
+          "terrain": [
+            "Swamps",
+            "Hills",
+            "Plains",
+            "Cities",
+            "Mountains"
+          ],
+          "population": 4500000000
+        },
+        "species": {
+          "url": "https://swapi.py4e.com/api/species/1/",
+          "name": "Human",
+          "classification": "mammal",
+          "designation": "sentient",
+          "average_lifespan": 120,
+          "average_height_cm": 180.0,
+          "language": "Galactic Basic"
+        },
+        "force_sensitive": false
+      },
+      {
+        "url": "https://starwars.fandom.com/wiki/C-3PO/Legends",
+        "name": "C-3PO",
+        "model": "3PO-series protocol droid",
+        "manufacturer": "Cybot Galactica",
+        "create_date": {
+          "year": 112,
+          "era": "BBY"
+        },
+        "height_cm": 167.0,
+        "mass_kg": 75.0,
+        "equipment": null,
+        "instructions": null
+      },
+      {
+        "url": "https://starwars.fandom.com/wiki/R2-D2",
+        "name": "R2-D2",
+        "model": "R2-series astromech droid",
+        "manufacturer": "Industrial Automaton",
+        "create_date": {
+          "year": 32,
+          "era": "BBY"
+        },
+        "height_cm": 108.0,
+        "mass_kg": 32.0,
+        "equipment": [
+          "Ascension cable",
+          "Buzz saw",
+          "Data probe",
+          "Electric pike",
+          "Fusion welder",
+          "Holoprojector",
+          "Power recharge coupler",
+          "Rocket booster",
+          "Water spout"
+        ],
+        "instructions": [
+          "Power up the engines",
+          "Plot course for Naboo, Mid Rim Territories, Chommell sector",
+          "Plot course for Naboo, Mid Rim Territories, Chommell sector",
+          "Release the docking clamp",
+          "Release the docking clamp"
+        ]
+      }
+    ]
+  },
+  "cargo_capacity_kg": 70000,
+  "consumables": "1 month",
+  "armament": [
+    "3 x heavy blasters",
+    "1 x Rotating blaster cannon",
+    "Concussion missile launchers"
+  ]
+}

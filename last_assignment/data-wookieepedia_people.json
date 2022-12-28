@@ -1,0 +1,162 @@
+[
+  {
+    "url": "https://starwars.fandom.com/wiki/Chewbacca",
+    "name": "Chewbacca",
+    "birth_year": "200BBY",
+    "height": "230",
+    "mass": "112",
+    "homeworld": "Kashyyyk",
+    "species": "Wookiee",
+    "force_sensitive": false
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Anakin_Skywalker",
+    "name": "Anakin Skywalker",
+    "birth_year": "41BBY",
+    "height": "188",
+    "mass": "87",
+    "homeworld": "Tatooine",
+    "species": "Human",
+    "force_sensitive": true
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Finn",
+    "name": "Finn",
+    "birth_year": "11ABY",
+    "height": "178",
+    "mass": "73",
+    "homeworld": null,
+    "species": "Human",
+    "force_sensitive": false
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Han_Solo",
+    "name": "Han Solo",
+    "birth_year": "32BBY",
+    "height": "180",
+    "mass": "80",
+    "homeworld": "Corellia",
+    "species": "Human",
+    "force_sensitive": false
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Ben_Solo",
+    "name": "Kylo Ren",
+    "birth_year": "5ABY",
+    "height": "189",
+    "mass": "89",
+    "homeworld": "Chandrila",
+    "species": "Human",
+    "force_sensitive": true
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Leia_Organa_Solo",
+    "name": "Leia Organa",
+    "birth_year": "19BBY",
+    "height": "155",
+    "mass": "51",
+    "homeworld": "Alderaan",
+    "species": "Human",
+    "force_sensitive": true
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Luke_Skywalker",
+    "name": "Luke Skywalker",
+    "birth_year": "19BBY",
+    "height": "172",
+    "mass": "73",
+    "homeworld": "Tatooine",
+    "species": "Human",
+    "force_sensitive": true
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Lor_San_Tekka",
+    "name": "Lor San Tekka",
+    "birth_year": null,
+    "height": "185",
+    "mass": null,
+    "homeworld": "Jakku",
+    "species": "Human",
+    "force_sensitive": false
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Obi-Wan_Kenobi",
+    "name": "Obi-Wan Kenobi",
+    "birth_year": "57BBY",
+    "height": "182",
+    "mass": "77",
+    "homeworld": "Stewjon",
+    "species": "Human",
+    "force_sensitive": true
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Padm%C3%A9_Amidala",
+    "name": "Padmé Amidala",
+    "birth_year": "46BBY",
+    "height": "165",
+    "mass": "45",
+    "homeworld": "Naboo",
+    "species": "Human",
+    "force_sensitive": false
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Poe_Dameron",
+    "name": "Poe Dameron",
+    "birth_year": "2ABY",
+    "height": "172",
+    "mass": "80",
+    "homeworld": "Yavin IV",
+    "species": "Human",
+    "force_sensitive": false
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Rey_Skywalker",
+    "name": "Rey",
+    "birth_year": "15ABY",
+    "height": "170",
+    "mass": "54",
+    "homeworld": "Jakku",
+    "species": "Human",
+    "force_sensitive": true
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Shaak_Ti",
+    "name": "Shaak Ti",
+    "birth_year": null,
+    "height": "187",
+    "mass": "57",
+    "homeworld": "Shili",
+    "species": "Togruta",
+    "force_sensitive": true
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Mace_Windu",
+    "name": "Mace Windu",
+    "birth_year": "72BBY",
+    "height": "192",
+    "mass": "84",
+    "homeworld": "Haruun Kal",
+    "species": "Human",
+    "force_sensitive": true
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Plo_Koon/Legends",
+    "name": "Plo Koon",
+    "birth_year": null,
+    "height": "188",
+    "mass": "80",
+    "homeworld": "Dorin",
+    "species": "Kel Dor",
+    "force_sensitive": true
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Yoda",
+    "name": "Yoda",
+    "birth_year": "896BBY",
+    "height": "66",
+    "mass": "17",
+    "homeworld": "Dagobah",
+    "species": "Yoda's species",
+    "force_sensitive": true
+  }
+]

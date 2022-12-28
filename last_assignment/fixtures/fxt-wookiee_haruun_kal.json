@@ -1,0 +1,18 @@
+{
+  "url": "https://starwars.fandom.com/wiki/Haruun_Kal",
+  "name": "Haruun Kal",
+  "region": "Mid Rim",
+  "sector": "Dustig sector",
+  "system": "Al'Har system",
+  "grid_coordinates": "M-17",
+  "suns": "1",
+  "moons": "",
+  "rotation_period": "25.5",
+  "orbital_period": "383",
+  "diameter": "10120",
+  "atmosphere": "Type II",
+  "climate": "Temperate",
+  "terrain": "Toxic cloudsea, Plateaus, Volcanoes, Jungles",
+  "population": "705300",
+  "primary_languages": "Galactic Basic, Korunnal"
+}

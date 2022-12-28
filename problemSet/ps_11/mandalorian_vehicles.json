@@ -1,0 +1,16 @@
+[
+    {
+        "url": "https://starwars.fandom.com/wiki/Hovering_pram",
+        "vehicle_class": "hover-pram", 
+        "name": "Hovering pram", 
+        "model": null, 
+        "manufacturer": null, 
+        "length": null,  
+        "max_atmosphering_speed": null, 
+        "crew": null, 
+        "passengers": 1, 
+        "cargo_capacity": null, 
+        "consumables": null, 
+        "armament": null
+    }
+]

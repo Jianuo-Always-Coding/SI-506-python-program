@@ -1,0 +1,395 @@
+[
+  {
+    "url": "https://starwars.fandom.com/wiki/Yavin_4",
+    "name": "Yavin IV",
+    "location": {
+      "region": "Outer Rim Territories",
+      "sector": "Gordian Reach"
+    },
+    "suns": null,
+    "moons": 0,
+    "orbital_period_days": 4818.0,
+    "diameter_km": 10200,
+    "gravity_std": null,
+    "climate": [
+      "Temperate",
+      "Tropical"
+    ],
+    "terrain": [
+      "Jungles"
+    ],
+    "population": null
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Tatooine",
+    "name": "Tatooine",
+    "location": {
+      "region": "Outer Rim Territories",
+      "sector": "Arkanis sector"
+    },
+    "suns": 2,
+    "moons": 3,
+    "orbital_period_days": 304.0,
+    "diameter_km": 10465,
+    "gravity_std": null,
+    "climate": [
+      "Hot",
+      "Arid"
+    ],
+    "terrain": [
+      "Canyons",
+      "Desert",
+      "Mountains",
+      "Rocky bluffs"
+    ],
+    "population": 200000
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Takodana",
+    "name": "Takodana",
+    "location": {
+      "region": "Western Reaches Mid Rim",
+      "sector": "Tashtor sector"
+    },
+    "suns": 1,
+    "moons": 0,
+    "orbital_period_days": 215.0,
+    "diameter_km": 12100,
+    "gravity_std": null,
+    "climate": [
+      "Temperate"
+    ],
+    "terrain": [
+      "Plains",
+      "Seas",
+      "Temperate forest"
+    ],
+    "population": 900000
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Stewjon",
+    "name": "Stewjon",
+    "location": {
+      "region": null,
+      "sector": null
+    },
+    "suns": null,
+    "moons": null,
+    "orbital_period_days": null,
+    "diameter_km": null,
+    "gravity_std": null,
+    "climate": null,
+    "terrain": null,
+    "population": null
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Shili",
+    "name": "Shili",
+    "location": {
+      "region": "Expansion Region",
+      "sector": "Shili system"
+    },
+    "suns": 1,
+    "moons": 6,
+    "orbital_period_days": null,
+    "diameter_km": null,
+    "gravity_std": null,
+    "climate": [
+      "Temperate"
+    ],
+    "terrain": [
+      "Cities",
+      "Savannahs",
+      "Seas",
+      "Plains",
+      "Rainforest valleys",
+      "Mountains"
+    ],
+    "population": null
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Naboo",
+    "name": "Naboo",
+    "location": {
+      "region": "Mid Rim Territories",
+      "sector": "Chommell sector"
+    },
+    "suns": 1,
+    "moons": 3,
+    "orbital_period_days": 312.0,
+    "diameter_km": 12120,
+    "gravity_std": null,
+    "climate": [
+      "Temperate"
+    ],
+    "terrain": [
+      "Swamps",
+      "Hills",
+      "Plains",
+      "Cities",
+      "Mountains"
+    ],
+    "population": 4500000000
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Kashyyyk",
+    "name": "Kashyyyk",
+    "location": {
+      "region": "Mid Rim",
+      "sector": "Mytaranor sector"
+    },
+    "suns": 1,
+    "moons": 3,
+    "orbital_period_days": 381.0,
+    "diameter_km": 12765,
+    "gravity_std": null,
+    "climate": [
+      "Temperate"
+    ],
+    "terrain": [
+      "Forests",
+      "Jungles",
+      "Mountains"
+    ],
+    "population": 56000000
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Jakku",
+    "name": "Jakku",
+    "location": {
+      "region": "Western Reaches Inner Rim",
+      "sector": null
+    },
+    "suns": 1,
+    "moons": 2,
+    "orbital_period_days": 352.0,
+    "diameter_km": 6400,
+    "gravity_std": null,
+    "climate": [
+      "cold"
+    ],
+    "terrain": [
+      "desert"
+    ],
+    "population": 24000
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Ilum",
+    "name": "Ilum",
+    "location": {
+      "region": "Unknown Regions",
+      "sector": "7G sector"
+    },
+    "suns": 1,
+    "moons": 0,
+    "orbital_period_days": 301.0,
+    "diameter_km": 660,
+    "gravity_std": null,
+    "climate": [
+      "Frigid"
+    ],
+    "terrain": [
+      "Crystallized glaciers",
+      "Ice plains",
+      "Mountains"
+    ],
+    "population": 5200
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Hoth",
+    "name": "Hoth",
+    "location": {
+      "region": "Outer Rim Territories",
+      "sector": "Anoat sector"
+    },
+    "suns": 1,
+    "moons": 3,
+    "orbital_period_days": 549.0,
+    "diameter_km": 7200,
+    "gravity_std": null,
+    "climate": [
+      "Frigid"
+    ],
+    "terrain": [
+      "Frozen ice plains",
+      "Glaciers",
+      "Oceans",
+      "Mountains"
+    ],
+    "population": 10
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Haruun_Kal",
+    "name": "Haruun Kal",
+    "location": {
+      "region": "Mid Rim",
+      "sector": "Dustig sector"
+    },
+    "suns": 1,
+    "moons": null,
+    "orbital_period_days": 383.0,
+    "diameter_km": 10120,
+    "gravity_std": null,
+    "climate": [
+      "Temperate"
+    ],
+    "terrain": [
+      "Toxic cloudsea",
+      "Plateaus",
+      "Volcanoes",
+      "Jungles"
+    ],
+    "population": 705300
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Dorin/Legends",
+    "name": "Dorin",
+    "location": {
+      "region": "Expansion Region",
+      "sector": "Deadalis sector"
+    },
+    "suns": 1,
+    "moons": 1,
+    "orbital_period_days": 409.0,
+    "diameter_km": 13400,
+    "gravity_std": null,
+    "climate": [
+      "Temperate"
+    ],
+    "terrain": [
+      "Mountains",
+      "Valleys",
+      "Plateaus"
+    ],
+    "population": 671000000
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Dagobah",
+    "name": "Dagobah",
+    "location": {
+      "region": "Outer Rim Territories",
+      "sector": "Sluis sector"
+    },
+    "suns": 1,
+    "moons": 1,
+    "orbital_period_days": 341.0,
+    "diameter_km": 8900,
+    "gravity_std": null,
+    "climate": [
+      "Murky"
+    ],
+    "terrain": [
+      "Swamp",
+      "Bogs",
+      "Jungles",
+      "Bayous"
+    ],
+    "population": null
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/D'Qar",
+    "name": "D'Qar",
+    "location": {
+      "region": "Outer Rim Territories",
+      "sector": "Sanbra sector"
+    },
+    "suns": 1,
+    "moons": 2,
+    "orbital_period_days": 415.0,
+    "diameter_km": 10400,
+    "gravity_std": null,
+    "climate": [
+      "Temperate"
+    ],
+    "terrain": [
+      "Jungles",
+      "Plains",
+      "Forested canopies"
+    ],
+    "population": 0
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Corellia",
+    "name": "Corellia",
+    "location": {
+      "region": "Core Worlds",
+      "sector": "Corellian sector"
+    },
+    "suns": 1,
+    "moons": 2,
+    "orbital_period_days": 329.0,
+    "diameter_km": 11000,
+    "gravity_std": null,
+    "climate": [
+      "Temperate"
+    ],
+    "terrain": [
+      "Forests",
+      "Jungles",
+      "Oceans",
+      "Industrial urban"
+    ],
+    "population": 3000000000
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Chandrila",
+    "name": "Chandrila",
+    "location": {
+      "region": "Core Worlds",
+      "sector": "Bormea sector"
+    },
+    "suns": 1,
+    "moons": 1,
+    "orbital_period_days": 368.0,
+    "diameter_km": 13500,
+    "gravity_std": null,
+    "climate": [
+      "Temperate"
+    ],
+    "terrain": [
+      "Rolling hills"
+    ],
+    "population": 1200000000
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Alderaan",
+    "name": "Alderaan",
+    "location": {
+      "region": "Core Worlds",
+      "sector": "Alderaan sector"
+    },
+    "suns": 1,
+    "moons": 0,
+    "orbital_period_days": 364.0,
+    "diameter_km": 12500,
+    "gravity_std": null,
+    "climate": [
+      "Temperate"
+    ],
+    "terrain": [
+      "Forests",
+      "Mountains",
+      "Plains"
+    ],
+    "population": 2000000000
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Ahch-To",
+    "name": "Ahch-To",
+    "location": {
+      "region": "Unknown Regions",
+      "sector": null
+    },
+    "suns": 2,
+    "moons": 1,
+    "orbital_period_days": null,
+    "diameter_km": null,
+    "gravity_std": null,
+    "climate": null,
+    "terrain": [
+      "Oceans",
+      "Rocky islands"
+    ],
+    "population": 1
+  }
+]

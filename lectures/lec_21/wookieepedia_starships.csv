@@ -1,0 +1,6 @@
+starship_class,name,model,length,armament
+Assault starfighter,Y-wing,Koensayr BTL Y-wing,23.4,"2 x Taim & Bak IX4 or KX5 laser cannons,2 x light ArMek turreted SW-4 ion cannons,2 x Arakyd Flex Tube proton torpedo launchers (4 torpedoes each),Proton bombs"
+Medium transport,Rebel transport,Gallofree Yards GR-75 medium transport,90.0,4 x twin fire-linked laser cannon turrets
+Light freighter,Millennium Falcon,Corellian Engineering YT-1300fp light freighter,34.37,"2 x modified Corellian Engineering Corporation AG-2G quad laser cannons,1 x concealed BlasTech Ax-108 Ground Buzzer surface-defense blaster cannon,2 x Arakyd ST2 concussion missile tubes (4 missiles each)"
+Starfighter,X-wing,Incom T-65 X-wing,12.5,"4 x Taim & Bak KX9 or IX4 laser cannons,2 x Krupx MG7 proton torpedo launchers (3 torpedoes each)"
+Starfighter,X-wing,Incom-FreiTek T-70 X-wing,12.49,"4 x Taim & Bak KX12 laser cannons,2 x Krupx MG7-A torpedo launchers,8 x Miniaturized Krupx MG7-A proton torpedoes,4 x Ion bombs,1 x BlasTech Ax-190-B blaster cannon (undercarriage-mounted)"

@@ -1,0 +1,20 @@
+{
+  "url": "https://starwars.fandom.com/wiki/Razor_Crest",
+  "name": "Razor Crest",
+  "model": "ST-70 class Razor Crest M-111",
+  "starship_class": "gunship",
+  "manufacturer": null,
+  "length_m": 80.0,
+  "max_atmosphering_speed": null,
+  "hyperdrive_rating": null,
+  "top_speed_mglt": null,
+  "armament": [
+    "2 x Mk 3e/W heavy laser cannons"
+  ],
+  "crew_size": 1,
+  "crew_members": null,
+  "max_passengers": 5,
+  "passengers_on_board": null,
+  "cargo_capacity_kg": null,
+  "consumables": null
+}

@@ -1,0 +1,2650 @@
+[
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2022-09-03",
+    "published_date": "2022-09-18",
+    "published_date_description": "",
+    "next_published_date": "2022-09-25",
+    "previous_published_date": "2022-09-11",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1368069606",
+        "primary_isbn13": "9781368069601",
+        "publisher": "Disney",
+        "description": "Sally, the new Queen of Halloween Town, must save her town from a sleeping curse.",
+        "price": "24.99",
+        "title": "LONG LIVE THE PUMPKIN QUEEN",
+        "author": "Shea Ernshaw",
+        "contributor": "by Shea Ernshaw",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781368084383.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1368069606",
+            "isbn13": "9781368069601"
+          }
+        ],
+        "book_uri": "nyt://book/16b7f62f-3276-5e7c-b44b-316241855892"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593175905",
+        "primary_isbn13": "9780593175903",
+        "publisher": "Delacorte",
+        "description": "Brynn investigates the murder of her favorite teacher at Saint Ambrose School, Mr. Larkin.",
+        "price": "27.87",
+        "title": "NOTHING MORE TO TELL",
+        "author": "Karen M. McManus",
+        "contributor": "by Karen M. McManus",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593175903.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593175905",
+            "isbn13": "9780593175903"
+          },
+          {
+            "isbn10": "0593175921",
+            "isbn13": "9780593175927"
+          }
+        ],
+        "book_uri": "nyt://book/caa2c4eb-d1ae-5167-85cf-0e76b963b1d9"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1368076688",
+        "primary_isbn13": "9781368076685",
+        "publisher": "Disney",
+        "description": "An Illustrated Novelization that retells the story of the film.",
+        "price": "31.99",
+        "title": "HOCUS POCUS: The Illustrated Novelization",
+        "author": "A.W. Jantha.",
+        "contributor": "by A.W. Jantha. Illustrated by Gris Grimly",
+        "contributor_note": "Illustrated by Gris Grimly",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781368076685.jpg",
+        "book_image_width": 406,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1368076688",
+            "isbn13": "9781368076685"
+          }
+        ],
+        "book_uri": "nyt://book/787e086c-0908-5e85-a8fe-0b8ba8bd64eb"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "None",
+        "primary_isbn13": "9780316526609",
+        "publisher": "Little, Brown",
+        "description": "Signa Farrow enters an alliance with Death in order to find a killer.",
+        "price": "14.32",
+        "title": "BELLADONNA",
+        "author": "Adalyn Grace",
+        "contributor": "by Adalyn Grace",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316526609.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316158232",
+            "isbn13": "9780316158237"
+          }
+        ],
+        "book_uri": "nyt://book/ac917f45-ed4f-54ea-a03f-e41fac519c20"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1419760866",
+        "primary_isbn13": "9781419760860",
+        "publisher": "Amulet",
+        "description": "Every 100 years the island of Lightlark appears and a deadly competition called the Centennial takes place.",
+        "price": "11.99",
+        "title": "LIGHTLARK",
+        "author": "Alex Aster",
+        "contributor": "by Alex Aster",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781419760860.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1419760866",
+            "isbn13": "9781419760860"
+          }
+        ],
+        "book_uri": "nyt://book/d7869d2c-6a47-561b-8761-e4a51225b629"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593300955",
+        "primary_isbn13": "9780593300954",
+        "publisher": "Knopf",
+        "description": "Princess Shiori is on a dangerous mission to fulfill a deathbed promise.",
+        "price": "30.00",
+        "title": "THE DRAGON'S PROMISE",
+        "author": "Elizabeth Lim",
+        "contributor": "by Elizabeth Lim",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593300954.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593300955",
+            "isbn13": "9780593300954"
+          }
+        ],
+        "book_uri": "nyt://book/a13543e0-a20a-50df-809d-a600b3c80a14"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250789346",
+        "primary_isbn13": "9781250789341",
+        "publisher": "Tor Teen",
+        "description": "In this sequel to \"All of Us Villains,\" the deadly tournament continues.",
+        "price": "32.55",
+        "title": "ALL OF OUR DEMISE",
+        "author": "Amanda Foody and Christine Lynn Herman",
+        "contributor": "by Amanda Foody and Christine Lynn Herman",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250789341.jpg",
+        "book_image_width": 324,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250789346",
+            "isbn13": "9781250789341"
+          }
+        ],
+        "book_uri": "nyt://book/ac761594-e3f6-545d-96a0-889cbf4498ba"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 4,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1524714682",
+        "primary_isbn13": "9781524714680",
+        "publisher": "Delacorte",
+        "description": "For five students, a detour into detention ends in murder.",
+        "price": "14.95",
+        "title": "ONE OF US IS LYING",
+        "author": "Karen M. McManus",
+        "contributor": "by Karen M. McManus",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781524714680.jpg",
+        "book_image_width": 327,
+        "book_image_height": 495,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1524714682",
+            "isbn13": "9781524714680"
+          },
+          {
+            "isbn10": "1524714690",
+            "isbn13": "9781524714697"
+          },
+          {
+            "isbn10": "1432876856",
+            "isbn13": "9781432876852"
+          },
+          {
+            "isbn10": "0593565371",
+            "isbn13": "9780593565377"
+          }
+        ],
+        "book_uri": "nyt://book/68977997-3f85-5971-aca2-e80f543b2814"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 5,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "133875193X",
+        "primary_isbn13": "9781338751932",
+        "publisher": "Scholastic",
+        "description": "Georgia, a British teenager, works on accepting her aro-ace identity.",
+        "price": "20.90",
+        "title": "LOVELESS",
+        "author": "Alice Oseman",
+        "contributor": "by Alice Oseman",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781338840292.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "133875193X",
+            "isbn13": "9781338751932"
+          }
+        ],
+        "book_uri": "nyt://book/2fb21f03-6e85-52fa-bfbb-2876d028411a"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593485858",
+        "primary_isbn13": "9780593485859",
+        "publisher": "Delacorte",
+        "description": "This prequel to “We Were Liars” focuses on Cady's mother and aunts as teenagers in 1987.",
+        "price": "34.00",
+        "title": "FAMILY OF LIARS",
+        "author": "E. Lockhart",
+        "contributor": "by E. Lockhart",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593485859.jpg",
+        "book_image_width": 330,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593485858",
+            "isbn13": "9780593485859"
+          }
+        ],
+        "book_uri": "nyt://book/01c0e6f0-b195-539d-9d67-628bba2ed9bc"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2022-09-10",
+    "published_date": "2022-09-25",
+    "published_date_description": "",
+    "next_published_date": "2022-10-02",
+    "previous_published_date": "2022-09-18",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1368069606",
+        "primary_isbn13": "9781368069601",
+        "publisher": "Disney",
+        "description": "Sally, the new Queen of Halloween Town, must save her town from a sleeping curse.",
+        "price": "24.99",
+        "title": "LONG LIVE THE PUMPKIN QUEEN",
+        "author": "Shea Ernshaw",
+        "contributor": "by Shea Ernshaw",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781368084383.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1368069606",
+            "isbn13": "9781368069601"
+          }
+        ],
+        "book_uri": "nyt://book/16b7f62f-3276-5e7c-b44b-316241855892"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 3,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1368076688",
+        "primary_isbn13": "9781368076685",
+        "publisher": "Disney",
+        "description": "An Illustrated Novelization that retells the story of the film.",
+        "price": "31.99",
+        "title": "HOCUS POCUS: The Illustrated Novelization",
+        "author": "A.W. Jantha.",
+        "contributor": "by A.W. Jantha. Illustrated by Gris Grimly",
+        "contributor_note": "Illustrated by Gris Grimly",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781368076685.jpg",
+        "book_image_width": 406,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1368076688",
+            "isbn13": "9781368076685"
+          }
+        ],
+        "book_uri": "nyt://book/787e086c-0908-5e85-a8fe-0b8ba8bd64eb"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "None",
+        "primary_isbn13": "9781250887719",
+        "publisher": "Feiwel & Friends",
+        "description": "Every decade the Sunbearer Trials are held to determine who will light the Sun Stones and the loser is sacrificed to fuel them.",
+        "price": "15.97",
+        "title": "THE SUNBEARER TRIALS",
+        "author": "Aiden Thomas",
+        "contributor": "by Aiden Thomas",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250887719.jpg",
+        "book_image_width": 323,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250822130",
+            "isbn13": "9781250822130"
+          }
+        ],
+        "book_uri": "nyt://book/597b8944-b299-562d-b526-aa7c926b3bf1"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 5,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1419760866",
+        "primary_isbn13": "9781419760860",
+        "publisher": "Amulet",
+        "description": "Every 100 years the island of Lightlark appears and a deadly competition called the Centennial takes place.",
+        "price": "11.99",
+        "title": "LIGHTLARK",
+        "author": "Alex Aster",
+        "contributor": "by Alex Aster",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781419760860.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1419760866",
+            "isbn13": "9781419760860"
+          }
+        ],
+        "book_uri": "nyt://book/d7869d2c-6a47-561b-8761-e4a51225b629"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593175905",
+        "primary_isbn13": "9780593175903",
+        "publisher": "Delacorte",
+        "description": "Brynn investigates the murder of her favorite teacher at Saint Ambrose School, Mr. Larkin.",
+        "price": "27.87",
+        "title": "NOTHING MORE TO TELL",
+        "author": "Karen M. McManus",
+        "contributor": "by Karen M. McManus",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593175903.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593175905",
+            "isbn13": "9780593175903"
+          },
+          {
+            "isbn10": "0593175921",
+            "isbn13": "9780593175927"
+          }
+        ],
+        "book_uri": "nyt://book/caa2c4eb-d1ae-5167-85cf-0e76b963b1d9"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 4,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "None",
+        "primary_isbn13": "9780316526609",
+        "publisher": "Little, Brown",
+        "description": "Signa Farrow enters an alliance with Death in order to find a killer.",
+        "price": "14.32",
+        "title": "BELLADONNA",
+        "author": "Adalyn Grace",
+        "contributor": "by Adalyn Grace",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316526609.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316158232",
+            "isbn13": "9780316158237"
+          }
+        ],
+        "book_uri": "nyt://book/ac917f45-ed4f-54ea-a03f-e41fac519c20"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 8,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1524714682",
+        "primary_isbn13": "9781524714680",
+        "publisher": "Delacorte",
+        "description": "For five students, a detour into detention ends in murder.",
+        "price": "14.95",
+        "title": "ONE OF US IS LYING",
+        "author": "Karen M. McManus",
+        "contributor": "by Karen M. McManus",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781524714680.jpg",
+        "book_image_width": 327,
+        "book_image_height": 495,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1524714682",
+            "isbn13": "9781524714680"
+          },
+          {
+            "isbn10": "1524714690",
+            "isbn13": "9781524714697"
+          },
+          {
+            "isbn10": "1432876856",
+            "isbn13": "9781432876852"
+          },
+          {
+            "isbn10": "0593565371",
+            "isbn13": "9780593565377"
+          }
+        ],
+        "book_uri": "nyt://book/68977997-3f85-5971-aca2-e80f543b2814"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0063029146",
+        "primary_isbn13": "9780063029149",
+        "publisher": "Katherine Tegen",
+        "description": "A bullied biracial girl gets her revenge at her high school's first integrated prom.",
+        "price": "22.00",
+        "title": "THE WEIGHT OF BLOOD",
+        "author": "Tiffany D. Jackson",
+        "contributor": "by Tiffany D. Jackson",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780063029149.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0063029146",
+            "isbn13": "9780063029149"
+          }
+        ],
+        "book_uri": "nyt://book/dfa9c684-657a-556c-9fc7-9b209562ab6a"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 9,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "133875193X",
+        "primary_isbn13": "9781338751932",
+        "publisher": "Scholastic",
+        "description": "Georgia, a British teenager, works on accepting her aro-ace identity.",
+        "price": "20.90",
+        "title": "LOVELESS",
+        "author": "Alice Oseman",
+        "contributor": "by Alice Oseman",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781338840292.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "133875193X",
+            "isbn13": "9781338751932"
+          }
+        ],
+        "book_uri": "nyt://book/2fb21f03-6e85-52fa-bfbb-2876d028411a"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 10,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593485858",
+        "primary_isbn13": "9780593485859",
+        "publisher": "Delacorte",
+        "description": "This prequel to “We Were Liars” focuses on Cady's mother and aunts as teenagers in 1987.",
+        "price": "34.00",
+        "title": "FAMILY OF LIARS",
+        "author": "E. Lockhart",
+        "contributor": "by E. Lockhart",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593485859.jpg",
+        "book_image_width": 330,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593485858",
+            "isbn13": "9780593485859"
+          }
+        ],
+        "book_uri": "nyt://book/01c0e6f0-b195-539d-9d67-628bba2ed9bc"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2022-09-17",
+    "published_date": "2022-10-02",
+    "published_date_description": "",
+    "next_published_date": "2022-10-09",
+    "previous_published_date": "2022-09-25",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250268427",
+        "primary_isbn13": "9781250268426",
+        "publisher": "Flatiron",
+        "description": "After vowing to never trust the Prince of Hearts again, Evangeline finds that he may be the only one she can trust.",
+        "price": "15.99",
+        "title": "THE BALLAD OF NEVER AFTER",
+        "author": "Stephanie Garber",
+        "contributor": "by Stephanie Garber",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250268426.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250268427",
+            "isbn13": "9781250268426"
+          }
+        ],
+        "book_uri": "nyt://book/44948eab-60b3-5871-b6db-fa9c9f5c72a2"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1368069606",
+        "primary_isbn13": "9781368069601",
+        "publisher": "Disney",
+        "description": "Sally, the new Queen of Halloween Town, must save her town from a sleeping curse.",
+        "price": "24.99",
+        "title": "LONG LIVE THE PUMPKIN QUEEN",
+        "author": "Shea Ernshaw",
+        "contributor": "by Shea Ernshaw",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781368084383.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1368069606",
+            "isbn13": "9781368069601"
+          }
+        ],
+        "book_uri": "nyt://book/16b7f62f-3276-5e7c-b44b-316241855892"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1368076688",
+        "primary_isbn13": "9781368076685",
+        "publisher": "Disney",
+        "description": "An Illustrated Novelization that retells the story of the film.",
+        "price": "31.99",
+        "title": "HOCUS POCUS: The Illustrated Novelization",
+        "author": "A.W. Jantha.",
+        "contributor": "by A.W. Jantha. Illustrated by Gris Grimly",
+        "contributor_note": "Illustrated by Gris Grimly",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781368076685.jpg",
+        "book_image_width": 406,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1368076688",
+            "isbn13": "9781368076685"
+          }
+        ],
+        "book_uri": "nyt://book/787e086c-0908-5e85-a8fe-0b8ba8bd64eb"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "None",
+        "primary_isbn13": "9781250880192",
+        "publisher": "Flatiron",
+        "description": "Evangeline seeks the help of the Prince of Hearts when her love, Luc is bewitched.",
+        "price": "16.98",
+        "title": "ONCE UPON A BROKEN HEART",
+        "author": "Stephanie Garber",
+        "contributor": "by Stephanie Garber",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250268396.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250268397",
+            "isbn13": "9781250268396"
+          }
+        ],
+        "book_uri": "nyt://book/2aeec5d8-62f6-5628-884b-79e35b48d341"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "None",
+        "primary_isbn13": "9780316526609",
+        "publisher": "Little, Brown",
+        "description": "Signa Farrow enters an alliance with Death in order to find a killer.",
+        "price": "14.32",
+        "title": "BELLADONNA",
+        "author": "Adalyn Grace",
+        "contributor": "by Adalyn Grace",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316526609.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316158232",
+            "isbn13": "9780316158237"
+          }
+        ],
+        "book_uri": "nyt://book/ac917f45-ed4f-54ea-a03f-e41fac519c20"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 4,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1419760866",
+        "primary_isbn13": "9781419760860",
+        "publisher": "Amulet",
+        "description": "Every 100 years the island of Lightlark appears and a deadly competition called the Centennial takes place.",
+        "price": "11.99",
+        "title": "LIGHTLARK",
+        "author": "Alex Aster",
+        "contributor": "by Alex Aster",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781419760860.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1419760866",
+            "isbn13": "9781419760860"
+          }
+        ],
+        "book_uri": "nyt://book/d7869d2c-6a47-561b-8761-e4a51225b629"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 7,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1524714682",
+        "primary_isbn13": "9781524714680",
+        "publisher": "Delacorte",
+        "description": "For five students, a detour into detention ends in murder.",
+        "price": "14.95",
+        "title": "ONE OF US IS LYING",
+        "author": "Karen M. McManus",
+        "contributor": "by Karen M. McManus",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781524714680.jpg",
+        "book_image_width": 327,
+        "book_image_height": 495,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1524714682",
+            "isbn13": "9781524714680"
+          },
+          {
+            "isbn10": "1524714690",
+            "isbn13": "9781524714697"
+          },
+          {
+            "isbn10": "1432876856",
+            "isbn13": "9781432876852"
+          },
+          {
+            "isbn10": "0593565371",
+            "isbn13": "9780593565377"
+          }
+        ],
+        "book_uri": "nyt://book/68977997-3f85-5971-aca2-e80f543b2814"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 5,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593175905",
+        "primary_isbn13": "9780593175903",
+        "publisher": "Delacorte",
+        "description": "Brynn investigates the murder of her favorite teacher at Saint Ambrose School, Mr. Larkin.",
+        "price": "27.87",
+        "title": "NOTHING MORE TO TELL",
+        "author": "Karen M. McManus",
+        "contributor": "by Karen M. McManus",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593175903.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593175905",
+            "isbn13": "9780593175903"
+          },
+          {
+            "isbn10": "0593175921",
+            "isbn13": "9780593175927"
+          }
+        ],
+        "book_uri": "nyt://book/caa2c4eb-d1ae-5167-85cf-0e76b963b1d9"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 3,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "None",
+        "primary_isbn13": "9781250887719",
+        "publisher": "Feiwel & Friends",
+        "description": "Every decade the Sunbearer Trials are held to determine who will light the Sun Stones and the loser is sacrificed to fuel them.",
+        "price": "15.97",
+        "title": "THE SUNBEARER TRIALS",
+        "author": "Aiden Thomas",
+        "contributor": "by Aiden Thomas",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250887719.jpg",
+        "book_image_width": 323,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250822130",
+            "isbn13": "9781250822130"
+          }
+        ],
+        "book_uri": "nyt://book/597b8944-b299-562d-b526-aa7c926b3bf1"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 9,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "133875193X",
+        "primary_isbn13": "9781338751932",
+        "publisher": "Scholastic",
+        "description": "Georgia, a British teenager, works on accepting her aro-ace identity.",
+        "price": "20.90",
+        "title": "LOVELESS",
+        "author": "Alice Oseman",
+        "contributor": "by Alice Oseman",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781338840292.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "133875193X",
+            "isbn13": "9781338751932"
+          }
+        ],
+        "book_uri": "nyt://book/2fb21f03-6e85-52fa-bfbb-2876d028411a"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2022-09-24",
+    "published_date": "2022-10-09",
+    "published_date_description": "",
+    "next_published_date": "2022-10-16",
+    "previous_published_date": "2022-10-02",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1368069606",
+        "primary_isbn13": "9781368069601",
+        "publisher": "Disney",
+        "description": "Sally, the new Queen of Halloween Town, must save her town from a sleeping curse.",
+        "price": "24.99",
+        "title": "LONG LIVE THE PUMPKIN QUEEN",
+        "author": "Shea Ernshaw",
+        "contributor": "by Shea Ernshaw",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781368084383.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1368069606",
+            "isbn13": "9781368069601"
+          }
+        ],
+        "book_uri": "nyt://book/16b7f62f-3276-5e7c-b44b-316241855892"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 3,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1368076688",
+        "primary_isbn13": "9781368076685",
+        "publisher": "Disney",
+        "description": "An Illustrated Novelization that retells the story of the film.",
+        "price": "31.99",
+        "title": "HOCUS POCUS: The Illustrated Novelization",
+        "author": "A.W. Jantha.",
+        "contributor": "by A.W. Jantha. Illustrated by Gris Grimly",
+        "contributor_note": "Illustrated by Gris Grimly",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781368076685.jpg",
+        "book_image_width": 406,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1368076688",
+            "isbn13": "9781368076685"
+          }
+        ],
+        "book_uri": "nyt://book/787e086c-0908-5e85-a8fe-0b8ba8bd64eb"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1547610077",
+        "primary_isbn13": "9781547610075",
+        "publisher": "Bloomsbury",
+        "description": "Tessa and Corrick set out on a journey to find a new source of the lifesaving elixir Moonflower.",
+        "price": "19.96",
+        "title": "DEFEND THE DAWN",
+        "author": "Brigid Kemmerer",
+        "contributor": "by Brigid Kemmerer",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781547610075.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1547610077",
+            "isbn13": "9781547610075"
+          }
+        ],
+        "book_uri": "nyt://book/ef1e14a4-ba08-5b32-8895-9a5a79a8bcf9"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250268427",
+        "primary_isbn13": "9781250268426",
+        "publisher": "Flatiron",
+        "description": "After vowing to never trust the Prince of Hearts again, Evangeline finds that he may be the only one she can trust.",
+        "price": "15.99",
+        "title": "THE BALLAD OF NEVER AFTER",
+        "author": "Stephanie Garber",
+        "contributor": "by Stephanie Garber",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250268426.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250268427",
+            "isbn13": "9781250268426"
+          }
+        ],
+        "book_uri": "nyt://book/44948eab-60b3-5871-b6db-fa9c9f5c72a2"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0316411728",
+        "primary_isbn13": "9780316411721",
+        "publisher": "jimmy patterson",
+        "description": "The lives of two girls named Hannah from different time periods and locations, mysteriously intertwine.",
+        "price": "13.99",
+        "title": "THE GIRL IN THE CASTLE",
+        "author": "James Patterson and Emily Raymond",
+        "contributor": "by James Patterson and Emily Raymond",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316411721.jpg",
+        "book_image_width": 334,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316411728",
+            "isbn13": "9780316411721"
+          }
+        ],
+        "book_uri": "nyt://book/9f0e596a-8139-5979-af2e-4d8199bc9f1d"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 7,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1524714682",
+        "primary_isbn13": "9781524714680",
+        "publisher": "Delacorte",
+        "description": "For five students, a detour into detention ends in murder.",
+        "price": "14.95",
+        "title": "ONE OF US IS LYING",
+        "author": "Karen M. McManus",
+        "contributor": "by Karen M. McManus",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781524714680.jpg",
+        "book_image_width": 327,
+        "book_image_height": 495,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1524714682",
+            "isbn13": "9781524714680"
+          },
+          {
+            "isbn10": "1524714690",
+            "isbn13": "9781524714697"
+          },
+          {
+            "isbn10": "1432876856",
+            "isbn13": "9781432876852"
+          },
+          {
+            "isbn10": "0593565371",
+            "isbn13": "9780593565377"
+          }
+        ],
+        "book_uri": "nyt://book/68977997-3f85-5971-aca2-e80f543b2814"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 5,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "None",
+        "primary_isbn13": "9780316526609",
+        "publisher": "Little, Brown",
+        "description": "Signa Farrow enters an alliance with Death in order to find a killer.",
+        "price": "14.32",
+        "title": "BELLADONNA",
+        "author": "Adalyn Grace",
+        "contributor": "by Adalyn Grace",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316526609.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316158232",
+            "isbn13": "9780316158237"
+          }
+        ],
+        "book_uri": "nyt://book/ac917f45-ed4f-54ea-a03f-e41fac519c20"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 4,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "None",
+        "primary_isbn13": "9781250880192",
+        "publisher": "Flatiron",
+        "description": "Evangeline seeks the help of the Prince of Hearts when her love, Luc is bewitched.",
+        "price": "16.98",
+        "title": "ONCE UPON A BROKEN HEART",
+        "author": "Stephanie Garber",
+        "contributor": "by Stephanie Garber",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250268396.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250268397",
+            "isbn13": "9781250268396"
+          }
+        ],
+        "book_uri": "nyt://book/2aeec5d8-62f6-5628-884b-79e35b48d341"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 8,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593175905",
+        "primary_isbn13": "9780593175903",
+        "publisher": "Delacorte",
+        "description": "Brynn investigates the murder of her favorite teacher at Saint Ambrose School, Mr. Larkin.",
+        "price": "27.87",
+        "title": "NOTHING MORE TO TELL",
+        "author": "Karen M. McManus",
+        "contributor": "by Karen M. McManus",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593175903.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593175905",
+            "isbn13": "9780593175903"
+          },
+          {
+            "isbn10": "0593175921",
+            "isbn13": "9780593175927"
+          }
+        ],
+        "book_uri": "nyt://book/caa2c4eb-d1ae-5167-85cf-0e76b963b1d9"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1419760866",
+        "primary_isbn13": "9781419760860",
+        "publisher": "Amulet",
+        "description": "Every 100 years the island of Lightlark appears and a deadly competition called the Centennial takes place.",
+        "price": "11.99",
+        "title": "LIGHTLARK",
+        "author": "Alex Aster",
+        "contributor": "by Alex Aster",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781419760860.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1419760866",
+            "isbn13": "9781419760860"
+          }
+        ],
+        "book_uri": "nyt://book/d7869d2c-6a47-561b-8761-e4a51225b629"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2022-10-01",
+    "published_date": "2022-10-16",
+    "published_date_description": "",
+    "next_published_date": "2022-10-23",
+    "previous_published_date": "2022-10-09",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1368069606",
+        "primary_isbn13": "9781368069601",
+        "publisher": "Disney",
+        "description": "Sally, the new Queen of Halloween Town, must save her town from a sleeping curse.",
+        "price": "24.99",
+        "title": "LONG LIVE THE PUMPKIN QUEEN",
+        "author": "Shea Ernshaw",
+        "contributor": "by Shea Ernshaw",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781368084383.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1368069606",
+            "isbn13": "9781368069601"
+          }
+        ],
+        "book_uri": "nyt://book/16b7f62f-3276-5e7c-b44b-316241855892"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1368076688",
+        "primary_isbn13": "9781368076685",
+        "publisher": "Disney",
+        "description": "An Illustrated Novelization that retells the story of the film.",
+        "price": "31.99",
+        "title": "HOCUS POCUS: The Illustrated Novelization",
+        "author": "A.W. Jantha.",
+        "contributor": "by A.W. Jantha. Illustrated by Gris Grimly",
+        "contributor_note": "Illustrated by Gris Grimly",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781368076685.jpg",
+        "book_image_width": 406,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1368076688",
+            "isbn13": "9781368076685"
+          }
+        ],
+        "book_uri": "nyt://book/787e086c-0908-5e85-a8fe-0b8ba8bd64eb"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1665905581",
+        "primary_isbn13": "9781665905589",
+        "publisher": "Margaret K. McElderry",
+        "description": "After a string of murders in Shanghai, Rosalind and Orion infiltrate the Japanese government-funded Seagreen Press.",
+        "price": "29.99",
+        "title": "FOUL LADY FORTUNE",
+        "author": "Chloe Gong",
+        "contributor": "by Chloe Gong",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665905589.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1665905581",
+            "isbn13": "9781665905589"
+          }
+        ],
+        "book_uri": "nyt://book/329c1527-7aa4-5547-9d75-6da305e7019d"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 5,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0316411728",
+        "primary_isbn13": "9780316411721",
+        "publisher": "jimmy patterson",
+        "description": "The lives of two girls named Hannah from different time periods and locations, mysteriously intertwine.",
+        "price": "13.99",
+        "title": "THE GIRL IN THE CASTLE",
+        "author": "James Patterson and Emily Raymond",
+        "contributor": "by James Patterson and Emily Raymond",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316411721.jpg",
+        "book_image_width": 334,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316411728",
+            "isbn13": "9780316411721"
+          }
+        ],
+        "book_uri": "nyt://book/9f0e596a-8139-5979-af2e-4d8199bc9f1d"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 4,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250268427",
+        "primary_isbn13": "9781250268426",
+        "publisher": "Flatiron",
+        "description": "After vowing to never trust the Prince of Hearts again, Evangeline finds that he may be the only one she can trust.",
+        "price": "15.99",
+        "title": "THE BALLAD OF NEVER AFTER",
+        "author": "Stephanie Garber",
+        "contributor": "by Stephanie Garber",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250268426.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250268427",
+            "isbn13": "9781250268426"
+          }
+        ],
+        "book_uri": "nyt://book/44948eab-60b3-5871-b6db-fa9c9f5c72a2"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 7,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "None",
+        "primary_isbn13": "9780316526609",
+        "publisher": "Little, Brown",
+        "description": "Signa Farrow enters an alliance with Death in order to find a killer.",
+        "price": "14.32",
+        "title": "BELLADONNA",
+        "author": "Adalyn Grace",
+        "contributor": "by Adalyn Grace",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316526609.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316158232",
+            "isbn13": "9780316158237"
+          }
+        ],
+        "book_uri": "nyt://book/ac917f45-ed4f-54ea-a03f-e41fac519c20"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1524714682",
+        "primary_isbn13": "9781524714680",
+        "publisher": "Delacorte",
+        "description": "For five students, a detour into detention ends in murder.",
+        "price": "14.95",
+        "title": "ONE OF US IS LYING",
+        "author": "Karen M. McManus",
+        "contributor": "by Karen M. McManus",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781524714680.jpg",
+        "book_image_width": 327,
+        "book_image_height": 495,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1524714682",
+            "isbn13": "9781524714680"
+          },
+          {
+            "isbn10": "1524714690",
+            "isbn13": "9781524714697"
+          },
+          {
+            "isbn10": "1432876856",
+            "isbn13": "9781432876852"
+          },
+          {
+            "isbn10": "0593565371",
+            "isbn13": "9780593565377"
+          }
+        ],
+        "book_uri": "nyt://book/68977997-3f85-5971-aca2-e80f543b2814"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 10,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1419760866",
+        "primary_isbn13": "9781419760860",
+        "publisher": "Amulet",
+        "description": "Every 100 years the island of Lightlark appears and a deadly competition called the Centennial takes place.",
+        "price": "11.99",
+        "title": "LIGHTLARK",
+        "author": "Alex Aster",
+        "contributor": "by Alex Aster",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781419760860.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1419760866",
+            "isbn13": "9781419760860"
+          }
+        ],
+        "book_uri": "nyt://book/d7869d2c-6a47-561b-8761-e4a51225b629"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 9,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593175905",
+        "primary_isbn13": "9780593175903",
+        "publisher": "Delacorte",
+        "description": "Brynn investigates the murder of her favorite teacher at Saint Ambrose School, Mr. Larkin.",
+        "price": "27.87",
+        "title": "NOTHING MORE TO TELL",
+        "author": "Karen M. McManus",
+        "contributor": "by Karen M. McManus",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593175903.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593175905",
+            "isbn13": "9780593175903"
+          },
+          {
+            "isbn10": "0593175921",
+            "isbn13": "9780593175927"
+          }
+        ],
+        "book_uri": "nyt://book/caa2c4eb-d1ae-5167-85cf-0e76b963b1d9"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 8,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "None",
+        "primary_isbn13": "9781250880192",
+        "publisher": "Flatiron",
+        "description": "Evangeline seeks the help of the Prince of Hearts when her love, Luc is bewitched.",
+        "price": "16.98",
+        "title": "ONCE UPON A BROKEN HEART",
+        "author": "Stephanie Garber",
+        "contributor": "by Stephanie Garber",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250268396.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250268397",
+            "isbn13": "9781250268396"
+          }
+        ],
+        "book_uri": "nyt://book/2aeec5d8-62f6-5628-884b-79e35b48d341"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2022-10-08",
+    "published_date": "2022-10-23",
+    "published_date_description": "",
+    "next_published_date": "2022-10-30",
+    "previous_published_date": "2022-10-16",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0063240807",
+        "primary_isbn13": "9780063240803",
+        "publisher": "Quill Tree",
+        "description": "In this prequel to \"They Both Die at the End,\" Orion and Valentino attend the premier of Death-Cast in Times Square.",
+        "price": "31.05",
+        "title": "THE FIRST TO DIE AT THE END",
+        "author": "Adam Silvera",
+        "contributor": "by Adam Silvera",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780063240803.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0063240807",
+            "isbn13": "9780063240803"
+          }
+        ],
+        "book_uri": "nyt://book/0f81d9c3-b905-51f8-bba7-6f3c5610603c"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1368069606",
+        "primary_isbn13": "9781368069601",
+        "publisher": "Disney",
+        "description": "Sally, the new Queen of Halloween Town, must save her town from a sleeping curse.",
+        "price": "24.99",
+        "title": "LONG LIVE THE PUMPKIN QUEEN",
+        "author": "Shea Ernshaw",
+        "contributor": "by Shea Ernshaw",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781368084383.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1368069606",
+            "isbn13": "9781368069601"
+          }
+        ],
+        "book_uri": "nyt://book/16b7f62f-3276-5e7c-b44b-316241855892"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1368076688",
+        "primary_isbn13": "9781368076685",
+        "publisher": "Disney",
+        "description": "An Illustrated Novelization that retells the story of the film.",
+        "price": "31.99",
+        "title": "HOCUS POCUS: The Illustrated Novelization",
+        "author": "A.W. Jantha.",
+        "contributor": "by A.W. Jantha. Illustrated by Gris Grimly",
+        "contributor_note": "Illustrated by Gris Grimly",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781368076685.jpg",
+        "book_image_width": 406,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1368076688",
+            "isbn13": "9781368076685"
+          }
+        ],
+        "book_uri": "nyt://book/787e086c-0908-5e85-a8fe-0b8ba8bd64eb"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 3,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1665905581",
+        "primary_isbn13": "9781665905589",
+        "publisher": "Margaret K. McElderry",
+        "description": "After a string of murders in Shanghai, Rosalind and Orion infiltrate the Japanese government-funded Seagreen Press.",
+        "price": "29.99",
+        "title": "FOUL LADY FORTUNE",
+        "author": "Chloe Gong",
+        "contributor": "by Chloe Gong",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665905589.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1665905581",
+            "isbn13": "9781665905589"
+          }
+        ],
+        "book_uri": "nyt://book/329c1527-7aa4-5547-9d75-6da305e7019d"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 4,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0316411728",
+        "primary_isbn13": "9780316411721",
+        "publisher": "jimmy patterson",
+        "description": "The lives of two girls named Hannah from different time periods and locations, mysteriously intertwine.",
+        "price": "13.99",
+        "title": "THE GIRL IN THE CASTLE",
+        "author": "James Patterson and Emily Raymond",
+        "contributor": "by James Patterson and Emily Raymond",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316411721.jpg",
+        "book_image_width": 334,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316411728",
+            "isbn13": "9780316411721"
+          }
+        ],
+        "book_uri": "nyt://book/9f0e596a-8139-5979-af2e-4d8199bc9f1d"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 5,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250268427",
+        "primary_isbn13": "9781250268426",
+        "publisher": "Flatiron",
+        "description": "After vowing to never trust the Prince of Hearts again, Evangeline finds that he may be the only one she can trust.",
+        "price": "15.99",
+        "title": "THE BALLAD OF NEVER AFTER",
+        "author": "Stephanie Garber",
+        "contributor": "by Stephanie Garber",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250268426.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250268427",
+            "isbn13": "9781250268426"
+          }
+        ],
+        "book_uri": "nyt://book/44948eab-60b3-5871-b6db-fa9c9f5c72a2"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 7,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1524714682",
+        "primary_isbn13": "9781524714680",
+        "publisher": "Delacorte",
+        "description": "For five students, a detour into detention ends in murder.",
+        "price": "14.95",
+        "title": "ONE OF US IS LYING",
+        "author": "Karen M. McManus",
+        "contributor": "by Karen M. McManus",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781524714680.jpg",
+        "book_image_width": 327,
+        "book_image_height": 495,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1524714682",
+            "isbn13": "9781524714680"
+          },
+          {
+            "isbn10": "1524714690",
+            "isbn13": "9781524714697"
+          },
+          {
+            "isbn10": "1432876856",
+            "isbn13": "9781432876852"
+          },
+          {
+            "isbn10": "0593565371",
+            "isbn13": "9780593565377"
+          }
+        ],
+        "book_uri": "nyt://book/68977997-3f85-5971-aca2-e80f543b2814"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 9,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593175905",
+        "primary_isbn13": "9780593175903",
+        "publisher": "Delacorte",
+        "description": "Brynn investigates the murder of her favorite teacher at Saint Ambrose School, Mr. Larkin.",
+        "price": "27.87",
+        "title": "NOTHING MORE TO TELL",
+        "author": "Karen M. McManus",
+        "contributor": "by Karen M. McManus",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593175903.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593175905",
+            "isbn13": "9780593175903"
+          },
+          {
+            "isbn10": "0593175921",
+            "isbn13": "9780593175927"
+          }
+        ],
+        "book_uri": "nyt://book/caa2c4eb-d1ae-5167-85cf-0e76b963b1d9"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 8,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1419760866",
+        "primary_isbn13": "9781419760860",
+        "publisher": "Amulet",
+        "description": "Every 100 years the island of Lightlark appears and a deadly competition called the Centennial takes place.",
+        "price": "11.99",
+        "title": "LIGHTLARK",
+        "author": "Alex Aster",
+        "contributor": "by Alex Aster",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781419760860.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1419760866",
+            "isbn13": "9781419760860"
+          }
+        ],
+        "book_uri": "nyt://book/d7869d2c-6a47-561b-8761-e4a51225b629"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0525555285",
+        "primary_isbn13": "9780525555285",
+        "publisher": "Dutton",
+        "description": "In the summer of 2013, Aria discovers her sexuality in California's Bay Area.",
+        "price": "22.75",
+        "title": "A SCATTER OF LIGHT",
+        "author": "Malinda Lo",
+        "contributor": "by Malinda Lo",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780525555285.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0525555285",
+            "isbn13": "9780525555285"
+          }
+        ],
+        "book_uri": "nyt://book/47e8bb0b-b993-573d-b299-3f8f65ccdffd"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2022-10-15",
+    "published_date": "2022-10-30",
+    "published_date_description": "one_before_latest",
+    "next_published_date": "2022-11-06",
+    "previous_published_date": "2022-10-23",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0063240807",
+        "primary_isbn13": "9780063240803",
+        "publisher": "Quill Tree",
+        "description": "In this prequel to \"They Both Die at the End,\" Orion and Valentino attend the premier of Death-Cast in Times Square.",
+        "price": "31.05",
+        "title": "THE FIRST TO DIE AT THE END",
+        "author": "Adam Silvera",
+        "contributor": "by Adam Silvera",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780063240803.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0063240807",
+            "isbn13": "9780063240803"
+          }
+        ],
+        "book_uri": "nyt://book/0f81d9c3-b905-51f8-bba7-6f3c5610603c"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1368069606",
+        "primary_isbn13": "9781368069601",
+        "publisher": "Disney",
+        "description": "Sally, the new Queen of Halloween Town, must save her town from a sleeping curse.",
+        "price": "24.99",
+        "title": "LONG LIVE THE PUMPKIN QUEEN",
+        "author": "Shea Ernshaw",
+        "contributor": "by Shea Ernshaw",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781368084383.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1368069606",
+            "isbn13": "9781368069601"
+          }
+        ],
+        "book_uri": "nyt://book/16b7f62f-3276-5e7c-b44b-316241855892"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 3,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1368076688",
+        "primary_isbn13": "9781368076685",
+        "publisher": "Disney",
+        "description": "An Illustrated Novelization that retells the story of the film.",
+        "price": "31.99",
+        "title": "HOCUS POCUS: The Illustrated Novelization",
+        "author": "A.W. Jantha.",
+        "contributor": "by A.W. Jantha. Illustrated by Gris Grimly",
+        "contributor_note": "Illustrated by Gris Grimly",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781368076685.jpg",
+        "book_image_width": 406,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1368076688",
+            "isbn13": "9781368076685"
+          }
+        ],
+        "book_uri": "nyt://book/787e086c-0908-5e85-a8fe-0b8ba8bd64eb"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 5,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0316411728",
+        "primary_isbn13": "9780316411721",
+        "publisher": "jimmy patterson",
+        "description": "The lives of two girls named Hannah from different time periods and locations, mysteriously intertwine.",
+        "price": "13.99",
+        "title": "THE GIRL IN THE CASTLE",
+        "author": "James Patterson and Emily Raymond",
+        "contributor": "by James Patterson and Emily Raymond",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316411721.jpg",
+        "book_image_width": 334,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316411728",
+            "isbn13": "9780316411721"
+          }
+        ],
+        "book_uri": "nyt://book/9f0e596a-8139-5979-af2e-4d8199bc9f1d"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250268427",
+        "primary_isbn13": "9781250268426",
+        "publisher": "Flatiron",
+        "description": "After vowing to never trust the Prince of Hearts again, Evangeline finds that he may be the only one she can trust.",
+        "price": "15.99",
+        "title": "THE BALLAD OF NEVER AFTER",
+        "author": "Stephanie Garber",
+        "contributor": "by Stephanie Garber",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250268426.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250268427",
+            "isbn13": "9781250268426"
+          }
+        ],
+        "book_uri": "nyt://book/44948eab-60b3-5871-b6db-fa9c9f5c72a2"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 7,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1524714682",
+        "primary_isbn13": "9781524714680",
+        "publisher": "Delacorte",
+        "description": "For five students, a detour into detention ends in murder.",
+        "price": "14.95",
+        "title": "ONE OF US IS LYING",
+        "author": "Karen M. McManus",
+        "contributor": "by Karen M. McManus",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781524714680.jpg",
+        "book_image_width": 327,
+        "book_image_height": 495,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1524714682",
+            "isbn13": "9781524714680"
+          },
+          {
+            "isbn10": "1524714690",
+            "isbn13": "9781524714697"
+          },
+          {
+            "isbn10": "1432876856",
+            "isbn13": "9781432876852"
+          },
+          {
+            "isbn10": "0593565371",
+            "isbn13": "9780593565377"
+          }
+        ],
+        "book_uri": "nyt://book/68977997-3f85-5971-aca2-e80f543b2814"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 4,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1665905581",
+        "primary_isbn13": "9781665905589",
+        "publisher": "Margaret K. McElderry",
+        "description": "After a string of murders in Shanghai, Rosalind and Orion infiltrate the Japanese government-funded Seagreen Press.",
+        "price": "29.99",
+        "title": "FOUL LADY FORTUNE",
+        "author": "Chloe Gong",
+        "contributor": "by Chloe Gong",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665905589.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1665905581",
+            "isbn13": "9781665905589"
+          }
+        ],
+        "book_uri": "nyt://book/329c1527-7aa4-5547-9d75-6da305e7019d"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 8,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593175905",
+        "primary_isbn13": "9780593175903",
+        "publisher": "Delacorte",
+        "description": "Brynn investigates the murder of her favorite teacher at Saint Ambrose School, Mr. Larkin.",
+        "price": "27.87",
+        "title": "NOTHING MORE TO TELL",
+        "author": "Karen M. McManus",
+        "contributor": "by Karen M. McManus",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593175903.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593175905",
+            "isbn13": "9780593175903"
+          },
+          {
+            "isbn10": "0593175921",
+            "isbn13": "9780593175927"
+          }
+        ],
+        "book_uri": "nyt://book/caa2c4eb-d1ae-5167-85cf-0e76b963b1d9"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 9,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1419760866",
+        "primary_isbn13": "9781419760860",
+        "publisher": "Amulet",
+        "description": "Every 100 years the island of Lightlark appears and a deadly competition called the Centennial takes place.",
+        "price": "11.99",
+        "title": "LIGHTLARK",
+        "author": "Alex Aster",
+        "contributor": "by Alex Aster",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781419760860.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1419760866",
+            "isbn13": "9781419760860"
+          }
+        ],
+        "book_uri": "nyt://book/d7869d2c-6a47-561b-8761-e4a51225b629"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0316158232",
+        "primary_isbn13": "9780316158237",
+        "publisher": "Little, Brown",
+        "description": "Signa Farrow enters an alliance with Death in order to find a killer.",
+        "price": "14.32",
+        "title": "BELLADONNA",
+        "author": "Adalyn Grace",
+        "contributor": "by Adalyn Grace",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316526609.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316158232",
+            "isbn13": "9780316158237"
+          }
+        ],
+        "book_uri": "nyt://book/61f5fb2b-a2b9-5fff-a534-c6a92925d4e5"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2022-10-22",
+    "published_date": "2022-11-06",
+    "published_date_description": "latest",
+    "next_published_date": "",
+    "previous_published_date": "2022-10-30",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1368069606",
+        "primary_isbn13": "9781368069601",
+        "publisher": "Disney",
+        "description": "Sally, the new Queen of Halloween Town, must save her town from a sleeping curse.",
+        "price": "24.99",
+        "title": "LONG LIVE THE PUMPKIN QUEEN",
+        "author": "Shea Ernshaw",
+        "contributor": "by Shea Ernshaw",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781368084383.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1368069606",
+            "isbn13": "9781368069601"
+          }
+        ],
+        "book_uri": "nyt://book/16b7f62f-3276-5e7c-b44b-316241855892"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0063240807",
+        "primary_isbn13": "9780063240803",
+        "publisher": "Quill Tree",
+        "description": "In this prequel to \"They Both Die at the End,\" Orion and Valentino attend the premier of Death-Cast in Times Square.",
+        "price": "31.05",
+        "title": "THE FIRST TO DIE AT THE END",
+        "author": "Adam Silvera",
+        "contributor": "by Adam Silvera",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780063240803.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0063240807",
+            "isbn13": "9780063240803"
+          }
+        ],
+        "book_uri": "nyt://book/0f81d9c3-b905-51f8-bba7-6f3c5610603c"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1338830937",
+        "primary_isbn13": "9781338830934",
+        "publisher": "Scholastic",
+        "description": "Angel meets the front man of her favorite boy band, the Ark.",
+        "price": "13.94",
+        "title": "I WAS BORN FOR THIS",
+        "author": "Alice Oseman",
+        "contributor": "by Alice Oseman",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781338830934.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1338830937",
+            "isbn13": "9781338830934"
+          }
+        ],
+        "book_uri": "nyt://book/79677ce0-6de7-5a81-8fda-3aeed5c5a8d1"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 3,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1368076688",
+        "primary_isbn13": "9781368076685",
+        "publisher": "Disney",
+        "description": "An Illustrated Novelization that retells the story of the film.",
+        "price": "31.99",
+        "title": "HOCUS POCUS: The Illustrated Novelization",
+        "author": "A.W. Jantha.",
+        "contributor": "by A.W. Jantha. Illustrated by Gris Grimly",
+        "contributor_note": "Illustrated by Gris Grimly",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781368076685.jpg",
+        "book_image_width": 406,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1368076688",
+            "isbn13": "9781368076685"
+          }
+        ],
+        "book_uri": "nyt://book/787e086c-0908-5e85-a8fe-0b8ba8bd64eb"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 5,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250268427",
+        "primary_isbn13": "9781250268426",
+        "publisher": "Flatiron",
+        "description": "After vowing to never trust the Prince of Hearts again, Evangeline finds that he may be the only one she can trust.",
+        "price": "15.99",
+        "title": "THE BALLAD OF NEVER AFTER",
+        "author": "Stephanie Garber",
+        "contributor": "by Stephanie Garber",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250268426.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250268427",
+            "isbn13": "9781250268426"
+          }
+        ],
+        "book_uri": "nyt://book/44948eab-60b3-5871-b6db-fa9c9f5c72a2"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1524714682",
+        "primary_isbn13": "9781524714680",
+        "publisher": "Delacorte",
+        "description": "For five students, a detour into detention ends in murder.",
+        "price": "14.95",
+        "title": "ONE OF US IS LYING",
+        "author": "Karen M. McManus",
+        "contributor": "by Karen M. McManus",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781524714680.jpg",
+        "book_image_width": 327,
+        "book_image_height": 495,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1524714682",
+            "isbn13": "9781524714680"
+          },
+          {
+            "isbn10": "1524714690",
+            "isbn13": "9781524714697"
+          },
+          {
+            "isbn10": "1432876856",
+            "isbn13": "9781432876852"
+          },
+          {
+            "isbn10": "0593565371",
+            "isbn13": "9780593565377"
+          }
+        ],
+        "book_uri": "nyt://book/68977997-3f85-5971-aca2-e80f543b2814"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 4,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0316411728",
+        "primary_isbn13": "9780316411721",
+        "publisher": "jimmy patterson",
+        "description": "The lives of two girls named Hannah from different time periods and locations, mysteriously intertwine.",
+        "price": "13.99",
+        "title": "THE GIRL IN THE CASTLE",
+        "author": "James Patterson and Emily Raymond",
+        "contributor": "by James Patterson and Emily Raymond",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316411721.jpg",
+        "book_image_width": 334,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316411728",
+            "isbn13": "9780316411721"
+          }
+        ],
+        "book_uri": "nyt://book/9f0e596a-8139-5979-af2e-4d8199bc9f1d"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 9,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1419760866",
+        "primary_isbn13": "9781419760860",
+        "publisher": "Amulet",
+        "description": "Every 100 years the island of Lightlark appears and a deadly competition called the Centennial takes place.",
+        "price": "11.99",
+        "title": "LIGHTLARK",
+        "author": "Alex Aster",
+        "contributor": "by Alex Aster",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781419760860.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1419760866",
+            "isbn13": "9781419760860"
+          }
+        ],
+        "book_uri": "nyt://book/d7869d2c-6a47-561b-8761-e4a51225b629"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 7,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1665905581",
+        "primary_isbn13": "9781665905589",
+        "publisher": "Margaret K. McElderry",
+        "description": "After a string of murders in Shanghai, Rosalind and Orion infiltrate the Japanese government-funded Seagreen Press.",
+        "price": "29.99",
+        "title": "FOUL LADY FORTUNE",
+        "author": "Chloe Gong",
+        "contributor": "by Chloe Gong",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665905589.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1665905581",
+            "isbn13": "9781665905589"
+          }
+        ],
+        "book_uri": "nyt://book/329c1527-7aa4-5547-9d75-6da305e7019d"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 8,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593175905",
+        "primary_isbn13": "9780593175903",
+        "publisher": "Delacorte",
+        "description": "Brynn investigates the murder of her favorite teacher at Saint Ambrose School, Mr. Larkin.",
+        "price": "27.87",
+        "title": "NOTHING MORE TO TELL",
+        "author": "Karen M. McManus",
+        "contributor": "by Karen M. McManus",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593175903.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593175905",
+            "isbn13": "9780593175903"
+          },
+          {
+            "isbn10": "0593175921",
+            "isbn13": "9780593175927"
+          }
+        ],
+        "book_uri": "nyt://book/caa2c4eb-d1ae-5167-85cf-0e76b963b1d9"
+      }
+    ],
+    "corrections": []
+  }
+]

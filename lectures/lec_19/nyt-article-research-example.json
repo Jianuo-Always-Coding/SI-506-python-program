@@ -1,0 +1,118 @@
+{
+    "abstract": "The first full ichthyosaur fossil was thought lost to the ravages of World War II. But researchers recently identified a copy, then more started to emerge.",
+    "web_url": "https://www.nytimes.com/2022/11/01/science/ichthyosaur-fossil-discovery-cast-museum-destroyed.html",
+    "snippet": "The first full ichthyosaur fossil was thought lost to the ravages of World War II. But researchers recently identified a copy, then more started to emerge.",
+    "lead_paragraph": "In May 1941, the Royal College of Surgeons in London was bombed during a Nazi air raid. Among the specimens lost from its museum collection was a skeleton of an ichthyosaur — an extinct marine reptile that appeared millions of years before dinosaurs laid their first footprints on prehistoric soil.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "Shattered by Nazi Bombs, a Fossil’s Lost Copies Are Just Being Found",
+      "kicker": "Trilobites",
+      "content_kicker": null,
+      "print_headline": null,
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Paleontology",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fossils",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Museums",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fish and Other Marine Life",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reptiles",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Endangered and Extinct Species",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Royal College of Surgeons",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Peabody Museum",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Museum of Natural History (Berlin, Germany)",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "World War II (1939-45)",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Royal Society Open Science (Journal)",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 13,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "your-feed-science",
+        "rank": 14,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2022-11-01T23:01:10+0000",
+    "document_type": "article",
+    "news_desk": "Science",
+    "section_name": "Science",
+    "byline": {
+      "original": "By Gemma Conroy",
+      "person": [
+        {
+          "firstname": "Gemma",
+          "middlename": null,
+          "lastname": "Conroy",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "word_count": 890
+  }

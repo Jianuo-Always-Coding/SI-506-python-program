@@ -1,0 +1,39 @@
+{
+  "url": "https://starwars.fandom.com/wiki/Plo_Koon/Legends",
+  "name": "Plo Koon",
+  "birth_date": null,
+  "height_cm": 188.0,
+  "mass_kg": 80.0,
+  "homeworld": {
+    "url": "https://starwars.fandom.com/wiki/Dorin/Legends",
+    "name": "Dorin",
+    "location": {
+      "region": "Expansion Region",
+      "sector": "Deadalis sector"
+    },
+    "suns": 1,
+    "moons": 1,
+    "orbital_period_days": 409.0,
+    "diameter_km": 13400,
+    "gravity_std": 1.0,
+    "climate": [
+      "Temperate"
+    ],
+    "terrain": [
+      "Mountains",
+      "Valleys",
+      "Plateaus"
+    ],
+    "population": 671000000
+  },
+  "species": {
+    "url": "https://swapi.py4e.com/api/species/26/",
+    "name": "Kel Dor",
+    "classification": null,
+    "designation": "sentient",
+    "average_lifespan": 70,
+    "average_height_cm": 180.0,
+    "language": "Kel Dor"
+  },
+  "force_sensitive": true
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://starwars.fandom.com/wiki/Carasynthia_Dune",
+  "name": "Carasynthia Dune",
+  "birth_year": null,
+  "height_cm": 173.0,
+  "mass_kg": null,
+  "homeworld": {
+    "url": "https://swapi.py4e.com/api/planets/2/",
+    "name": "Alderaan",
+    "region": null,
+    "sector": null,
+    "suns": null,
+    "moons": null,
+    "orbital_period_days": 364.0,
+    "diameter_km": 12500,
+    "gravity_std": 1.0,
+    "climate": [
+      "temperate"
+    ],
+    "terrain": [
+      "grasslands",
+      "mountains"
+    ],
+    "population": 2000000000
+  },
+  "species": {
+    "url": "https://swapi.py4e.com/api/species/1/",
+    "name": "Human",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_lifespan": 120,
+    "average_height_cm": 180.0,
+    "language": "Galactic Basic"
+  },
+  "force_sensitive": "False"
+}

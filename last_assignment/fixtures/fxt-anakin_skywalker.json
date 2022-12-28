@@ -1,0 +1,44 @@
+{
+  "url": "https://starwars.fandom.com/wiki/Anakin_Skywalker",
+  "name": "Anakin Skywalker",
+  "birth_date": {
+    "year": 41,
+    "era": "BBY"
+  },
+  "height_cm": 188.0,
+  "mass_kg": 87.0,
+  "homeworld": {
+    "url": "https://starwars.fandom.com/wiki/Tatooine",
+    "name": "Tatooine",
+    "location": {
+      "region": "Outer Rim Territories",
+      "sector": "Arkanis sector"
+    },
+    "suns": 2,
+    "moons": 3,
+    "orbital_period_days": 304.0,
+    "diameter_km": 10465,
+    "gravity_std": 1.0,
+    "climate": [
+      "Hot",
+      "Arid"
+    ],
+    "terrain": [
+      "Canyons",
+      "Desert",
+      "Mountains",
+      "Rocky bluffs"
+    ],
+    "population": 200000
+  },
+  "species": {
+    "url": "https://swapi.py4e.com/api/species/1/",
+    "name": "Human",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_lifespan": 120,
+    "average_height_cm": 180.0,
+    "language": "Galactic Basic"
+  },
+  "force_sensitive": true
+}

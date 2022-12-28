@@ -1,0 +1,35 @@
+{
+  "url": "https://starwars.fandom.com/wiki/Greef_Karga",
+  "name": "Kuiil",
+  "birth_year": null,
+  "height_cm": 145.0,
+  "mass_kg": null,
+  "homeworld": {
+    "url": "https://starwars.fandom.com/wiki/Arvala-7",
+    "name": "Arvala-7",
+    "region": null,
+    "sector": null,
+    "suns": 1,
+    "moons": null,
+    "orbital_period_days": null,
+    "diameter_km": null,
+    "gravity_std": null,
+    "climate": [
+      "arid"
+    ],
+    "terrain": [
+      "desert"
+    ],
+    "population": null
+  },
+  "species": {
+    "url": "https://starwars.fandom.com/wiki/Ugnaught",
+    "name": "Ugnaught",
+    "classification": "porcine humanoids",
+    "designation": "sentient",
+    "average_lifespan": 200,
+    "average_height_cm": null,
+    "language": "Ugnaught"
+  },
+  "force_sensitive": "False"
+}

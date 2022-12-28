@@ -1,0 +1,31 @@
+{
+  "url": "https://starwars.fandom.com/wiki/Din_Djarin",
+  "name": "Din Djarin",
+  "birth_year": "prior to 19BBY",
+  "height_cm": 180.0,
+  "mass_kg": null,
+  "homeworld": {
+    "url": "https://starwars.fandom.com/wiki/Aq_Vetina",
+    "name": "Aq Vetina",
+    "region": null,
+    "sector": null,
+    "suns": null,
+    "moons": null,
+    "orbital_period_days": null,
+    "diameter_km": null,
+    "gravity_std": null,
+    "climate": null,
+    "terrain": null,
+    "population": null
+  },
+  "species": {
+    "url": "https://swapi.py4e.com/api/species/1/",
+    "name": "Human",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_lifespan": 120,
+    "average_height_cm": 180.0,
+    "language": "Galactic Basic"
+  },
+  "force_sensitive": "False"
+}

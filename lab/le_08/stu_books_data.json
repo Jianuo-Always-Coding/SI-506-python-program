@@ -1,0 +1,38 @@
+{
+  "books_with_illustrations": {
+    "Childrens Middle Grade Hardcover": [
+      "ODDER"
+    ],
+    "Picture Books": [
+      "I'M SO GLAD YOU WERE BORN",
+      "CREEPY CRAYON!",
+      "THE CRAYONS TRICK OR TREAT",
+      "THE BAD SEED PRESENTS: THE GOOD, THE BAD, AND THE SPOOKY"
+    ],
+    "Series Books": [
+      "DIARY OF A WIMPY KID"
+    ],
+    "Young Adult Hardcover": [
+      "HOCUS POCUS: The Illustrated Novelization"
+    ],
+    "Graphic Books and Manga": [
+      "JESSI'S SECRET LANGUAGE"
+    ],
+    "Middle Grade Paperback Monthly": [
+      "THE ONE AND ONLY IVAN"
+    ]
+  },
+  "frequent_publishers": [
+    "Atria",
+    "Grand Central",
+    "Random House",
+    "Simon & Schuster",
+    "Knopf",
+    "Scholastic",
+    "Simon & Schuster Audio"
+  ],
+  "max_times_best_selling": [
+    "WONDER",
+    "HARRY POTTER"
+  ]
+}

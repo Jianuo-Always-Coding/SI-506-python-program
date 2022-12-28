@@ -1,0 +1,1532 @@
+[
+  {
+    "abstract": "The new generation of spacecraft, expected to be in use beginning in 2015.",
+    "web_url": "https://www.nytimes.com/interactive/2008/12/29/science/space/CONSTELLATION.html",
+    "snippet": "The new generation of spacecraft, expected to be in use beginning in 2015.",
+    "lead_paragraph": "The new generation of spacecraft, expected to be in use beginning in 2015.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "A New Fleet of Spacecraft",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": null,
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Space",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Aeronautics and Space Administration",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-11-26T15:27:46+0000",
+    "document_type": "multimedia",
+    "news_desk": "Science",
+    "section_name": "Science",
+    "subsection_name": "Space & Cosmos",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "abstract": "Is time an illusion? Is there a universe, or multiverse? Finite or infinite? Will we ever know, and does it matter?",
+    "web_url": "https://www.nytimes.com/2013/07/02/science/space/timeless-questions-about-the-universe.html",
+    "snippet": "Is time an illusion? Is there a universe, or multiverse? Finite or infinite? Will we ever know, and does it matter?",
+    "lead_paragraph": "Niels Bohr, the Danish physicist and philosopher-king of quantum theory, once said that a great truth is a statement whose opposite is also a great truth. This pretty much captured the spirit of those elusive rules that govern the subatomic world, where light can be a wave — no, a particle — well, actually, whatever you need it to be for your particular experiment.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "A Quantum of Solace",
+      "kicker": "Out There",
+      "content_kicker": null,
+      "print_headline": "A Quantum of Solace",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Space",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Dark Energy (Astronomy)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Physics",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stars and Galaxies",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Philosophy",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Time",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Smolin, Lee",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-07-01T20:37:00+0000",
+    "document_type": "article",
+    "news_desk": "Science",
+    "section_name": "Science",
+    "subsection_name": "Space & Cosmos",
+    "byline": {
+      "original": "By Dennis Overbye",
+      "person": [
+        {
+          "firstname": "Dennis",
+          "middlename": null,
+          "lastname": "Overbye",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "word_count": 991
+  },
+  {
+    "abstract": "Known as Segue 2, the galaxy consists of just 1,000 stars.",
+    "web_url": "https://www.nytimes.com/2013/06/18/science/space/dwarf-galaxy-may-be-answer-to-predictions.html",
+    "snippet": "Known as Segue 2, the galaxy consists of just 1,000 stars.",
+    "lead_paragraph": "A dim, lightweight galaxy on the outskirts of the Milky Way may be the smallest in the known universe, astronomers say.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "Dwarf Galaxy May Be Answer to Predictions",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Astronomy: Dwarf Galaxy May Be Answer to Predictions",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Stars and Galaxies",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Astronomy and Astrophysics",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Space",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Dark Matter (Astronomy)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Astrophysical Journal",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-06-17T20:52:45+0000",
+    "document_type": "article",
+    "news_desk": "Science",
+    "section_name": "Science",
+    "subsection_name": "Space & Cosmos",
+    "byline": {
+      "original": "By Douglas Quenqua",
+      "person": [
+        {
+          "firstname": "Douglas",
+          "middlename": null,
+          "lastname": "Quenqua",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "word_count": 275
+  },
+  {
+    "abstract": "The hues assigned to distant cosmic bodies that are telescopically photographed in black and white are not just a matter of artistic license.",
+    "web_url": "https://www.nytimes.com/2013/06/18/science/space/depicting-the-colors-of-space.html",
+    "snippet": "The hues assigned to distant cosmic bodies that are telescopically photographed in black and white are not just a matter of artistic license.",
+    "lead_paragraph": "The Cat’s Eye Nebula — a dying star in the constellation Draco — may appear in images in psychedelic shades of pink and green or in soothing tones of beige and aquamarine. But scientists apply more than artistic license when it comes to assigning colors to distant cosmic bodies that are telescopically photographed.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "Depicting the Colors of Space",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Colors in Space",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Color",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Space",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Space Telescope Science Institute",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hubble Space Telescope",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Telescopes and Observatories",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-06-17T20:11:53+0000",
+    "document_type": "article",
+    "news_desk": "Science",
+    "section_name": "Science",
+    "subsection_name": "Space & Cosmos",
+    "byline": {
+      "original": "By Rachel Nuwer",
+      "person": [
+        {
+          "firstname": "Rachel",
+          "middlename": null,
+          "lastname": "Nuwer",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "word_count": 275
+  },
+  {
+    "abstract": "A new analysis of what a team of astronomers said was evidence of an Earth-mass planet orbiting Alpha Centauri B raises existential questions.",
+    "web_url": "https://www.nytimes.com/2013/06/11/science/space/scientists-cast-doubt-on-the-closest-exoplanet.html",
+    "snippet": "A new analysis of what a team of astronomers said was evidence of an Earth-mass planet orbiting Alpha Centauri B raises existential questions.",
+    "lead_paragraph": "Cosmic hearts started beating a little faster last fall when a team of European astronomers announced that they had found a planet with a mass comparable to Earth’s orbiting Alpha Centauri B, part of a triple star that is the Sun’s nearest neighbor, only 4.4 light years from here.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "Hold Off on the Alpha Centauri Trip",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Hold Off on the Alpha Centauri Trip",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Stars and Galaxies",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Space",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Extraterrestrial Life",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Solar System",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Planets",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Astrophysical Journal",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-06-10T20:07:16+0000",
+    "document_type": "article",
+    "news_desk": "Science",
+    "section_name": "Science",
+    "subsection_name": "Space & Cosmos",
+    "byline": {
+      "original": "By Dennis Overbye",
+      "person": [
+        {
+          "firstname": "Dennis",
+          "middlename": null,
+          "lastname": "Overbye",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "word_count": 870
+  },
+  {
+    "abstract": "Recent developments in health and science news. This week: reviving plants from the Little Ice Age, a crowdfunded space telescope and photographs of molecular change.",
+    "web_url": "https://www.nytimes.com/2013/06/04/science/ancient-plants-a-cosmic-fund-raiser-atoms-in-motion-and-more.html",
+    "snippet": "Recent developments in health and science news. This week: reviving plants from the Little Ice Age, a crowdfunded space telescope and photographs of molecular change.",
+    "lead_paragraph": "In science, popular ideas are often discarded once new evidence comes along, then revived in the face of still newer evidence. In the Observatory column this week, Douglas Quenqua reports on the long-running debate over whether the early winged creature Archaeopteryx ought to be considered a bird or a dinosaur. Paleontologists have gone back and forth on the issue, but the discovery of a dinosaur even older than Archaeopteryx has now given comfort to the bird camp.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "Ancient Plants, a Cosmic Fund-Raiser, Atoms in Motion and More",
+      "kicker": "The Week",
+      "content_kicker": null,
+      "print_headline": null,
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Physics",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mars (Planet)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Japan Earthquake and Tsunami (2011)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Ellesmere Island (Canada)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Flowers and Plants",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wind Power",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Space",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Planetary Resources",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Chemistry",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-06-03T22:00:28+0000",
+    "document_type": "article",
+    "news_desk": "Science",
+    "section_name": "Science",
+    "byline": {
+      "original": "By Kenneth Chang",
+      "person": [
+        {
+          "firstname": "Kenneth",
+          "middlename": null,
+          "lastname": "Chang",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Summary",
+    "word_count": 1019
+  },
+  {
+    "abstract": "Recent developments in health and science news. This week: roaches’ endless adaptation, a potato famine culprit and a chance to shoot an asteroid.",
+    "web_url": "https://www.nytimes.com/2013/05/28/science/3-d-help-for-breathing-vanishing-amphibians-and-more.html",
+    "snippet": "Recent developments in health and science news. This week: roaches’ endless adaptation, a potato famine culprit and a chance to shoot an asteroid.",
+    "lead_paragraph": "The road to Mars is long and fraught with danger. What it doesn’t have is restaurants. So a mechanical engineer, Anjan Contractor, has won a $125,000 grant from NASA to build a 3-D printer that can take the basic building blocks of food — oil, water, protein and tomato powders — and turn them into edible items like chocolate and pizza, the online magazine Quartz reported last week. ",
+    "source": "The New York Times",
+    "headline": {
+      "main": "3-D Help for Breathing, Vanishing Amphibians and More",
+      "kicker": "The Week",
+      "content_kicker": null,
+      "print_headline": null,
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Cockroaches",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "3-D Printers",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Frogs",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Potatoes",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Space",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Food and Drug Administration",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Aeronautics and Space Administration",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Contractor, Anjan",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-05-27T20:13:52+0000",
+    "document_type": "article",
+    "news_desk": "Science",
+    "section_name": "Science",
+    "byline": {
+      "original": "By Douglas Quenqua",
+      "person": [
+        {
+          "firstname": "Douglas",
+          "middlename": null,
+          "lastname": "Quenqua",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Summary",
+    "word_count": 1008
+  },
+  {
+    "abstract": "Reaction wheels are crucial in helping orient spacecraft like the Kepler telescope, which recently lost use of a second wheel, highlighting the challenges designers face.",
+    "web_url": "https://www.nytimes.com/2013/05/21/science/space/small-wheels-play-big-role-on-kepler-spacecraft.html",
+    "snippet": "Reaction wheels are crucial in helping orient spacecraft like the Kepler telescope, which recently lost use of a second wheel, highlighting the challenges designers face.",
+    "lead_paragraph": "Reaction wheels like the ones that NASA officials say have failed aboard the Kepler spacecraft, effectively ending its mission to detect potentially habitable planets outside the solar system, are simple devices, at least in concept. But making ones that can survive the rigors of a rocket launching and then spin for a long time to keep a spacecraft properly oriented — in Kepler’s case, to keep its telescope precisely pointed at the same field of stars — is difficult.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "Flywheel",
+      "kicker": "After The Fact",
+      "content_kicker": null,
+      "print_headline": "Flywheel",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Kepler Space Telescope",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Space",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Aeronautics and Space Administration",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-05-20T21:43:12+0000",
+    "document_type": "article",
+    "news_desk": "Science",
+    "section_name": "Science",
+    "subsection_name": "Space & Cosmos",
+    "byline": {
+      "original": "By Henry Fountain",
+      "person": [
+        {
+          "firstname": "Henry",
+          "middlename": null,
+          "lastname": "Fountain",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "word_count": 379
+  },
+  {
+    "abstract": "Recent developments in health and science news. This week: A Maya pyramid in Belize ruined by a construction crew, and evidence of scientific consensus on climate change.",
+    "web_url": "https://www.nytimes.com/2013/05/21/science/kepler-telescopes-troubles-a-maya-pyramid-in-ruins-and-more.html",
+    "snippet": "Recent developments in health and science news. This week: A Maya pyramid in Belize ruined by a construction crew, and evidence of scientific consensus on climate change.",
+    "lead_paragraph": "The Kepler Space Telescope is 40 million miles from Earth, which makes sending a repairman difficult. Unlike the Hubble telescope, which was designed to be serviced by astronauts, Kepler was meant to live far from Earth, well beyond a wrench’s reach. And its Pauline-like peril and uncertain future lent some drama to this week’s scientific doings. ",
+    "source": "The New York Times",
+    "headline": {
+      "main": "Kepler Telescope’s Troubles, a Maya Pyramid in Ruins and More",
+      "kicker": "The Week",
+      "content_kicker": null,
+      "print_headline": null,
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Kepler Space Telescope",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kingson, Jennifer A",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Fermi National Accelerator Laboratory",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Measles",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Space",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mayans",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Belize",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-05-20T21:18:13+0000",
+    "document_type": "article",
+    "news_desk": "Science",
+    "section_name": "Science",
+    "byline": {
+      "original": "By Jennifer A. Kingson",
+      "person": [
+        {
+          "firstname": "Jennifer",
+          "middlename": "A.",
+          "lastname": "Kingson",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Summary",
+    "word_count": 1044
+  },
+  {
+    "abstract": "Recent developments in health and science news.",
+    "web_url": "https://www.nytimes.com/2013/05/07/science/celebrating-the-web-an-atomic-movie-and-a-hurricane-over-saturn.html",
+    "snippet": "Recent developments in health and science news.",
+    "lead_paragraph": "So many piquant tidbits this week: We were able to see a revival of the world’s first Web site (which had no funny cat photos), watch the first movie starring tiny atoms, and view the first images of a surprisingly Earth-like hurricane swirling over Saturn.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "Celebrating the Web; an Atomic Movie; a Hurricane Over Saturn",
+      "kicker": "The Week",
+      "content_kicker": null,
+      "print_headline": null,
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Saturn (Planet)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kingson, Jennifer A",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "CERN",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "International Business Machines Corporation",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Space",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Berners-Lee, Tim",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cannibalism",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Physics",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-05-06T21:57:22+0000",
+    "document_type": "article",
+    "news_desk": "Science",
+    "section_name": "Science",
+    "byline": {
+      "original": "By Jennifer A. Kingson",
+      "person": [
+        {
+          "firstname": "Jennifer",
+          "middlename": "A.",
+          "lastname": "Kingson",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "word_count": 975
+  },
+  {
+    "abstract": "Recent developments in health and science news. This week: orbiting smartphones, Somali pirates and marathoners using painkillers.",
+    "web_url": "https://www.nytimes.com/2013/04/30/science/alexander-graham-bells-voice-animals-in-space-and-more.html",
+    "snippet": "Recent developments in health and science news. This week: orbiting smartphones, Somali pirates and marathoners using painkillers.",
+    "lead_paragraph": "“Hear my voice — Alexander Graham Bell,” the father of the telephone said on April 15, 1885, enunciating carefully, his voice recorded on a wax-and-cardboard disc at an experimental sound laboratory he ran in Washington. At the time, Bell was trying feverishly to develop audio technology that would best his archrival, Thomas Edison, who had recorded “Mary Had a Little Lamb” on embossed foil in 1877, according to the Smithsonian Institution, which owns a collection of Bell’s artifacts. ",
+    "source": "The New York Times",
+    "headline": {
+      "main": "Alexander Graham Bell’s Voice, Animals in Space and More",
+      "kicker": "The Week",
+      "content_kicker": null,
+      "print_headline": null,
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Kingson, Jennifer A",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Rocket Science and Propulsion",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Piracy at Sea",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Space",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Aeronautics and Space Administration",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bell, Alexander Graham",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Audio Recordings and Downloads",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-04-29T21:57:58+0000",
+    "document_type": "article",
+    "news_desk": "Science",
+    "section_name": "Science",
+    "byline": {
+      "original": "By Jennifer A. Kingson",
+      "person": [
+        {
+          "firstname": "Jennifer",
+          "middlename": "A.",
+          "lastname": "Kingson",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Summary",
+    "word_count": 873
+  },
+  {
+    "abstract": "Recent developments in health and science news. This week: a wet washcloth experiment in space, a resolution on drugs to ward off breast cancer, and seismic activity.",
+    "web_url": "https://www.nytimes.com/2013/04/23/science/a-bears-brain-surgery-babies-consciousness-and-more.html",
+    "snippet": "Recent developments in health and science news. This week: a wet washcloth experiment in space, a resolution on drugs to ward off breast cancer, and seismic activity.",
+    "lead_paragraph": "You’re up in space — weightless — with a wet washcloth. What will happen when you wring it out? ",
+    "source": "The New York Times",
+    "headline": {
+      "main": "A Bear’s Brain Surgery, Babies’ Consciousness and More",
+      "kicker": "The Week",
+      "content_kicker": null,
+      "print_headline": null,
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Kingson, Jennifer A",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Evolution (Biology)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Space Station",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bears",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Breast Cancer",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Earthquakes",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Space",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Canadian Space Agency",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Babies and Infants",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Brain",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-04-22T22:46:41+0000",
+    "document_type": "article",
+    "news_desk": "Science",
+    "section_name": "Science",
+    "byline": {
+      "original": "By Jennifer A. Kingson",
+      "person": [
+        {
+          "firstname": "Jennifer",
+          "middlename": "A.",
+          "lastname": "Kingson",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Summary",
+    "word_count": 1016
+  },
+  {
+    "abstract": "NASA’s Kepler mission has discovered more than 1,000 confirmed planets orbiting distant stars.",
+    "web_url": "https://www.nytimes.com/interactive/science/space/keplers-tally-of-planets.html",
+    "snippet": "NASA’s Kepler mission has discovered more than 1,000 confirmed planets orbiting distant stars.",
+    "lead_paragraph": "NASA’s Kepler mission has discovered more than 1,000 confirmed planets orbiting distant stars.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "Kepler’s Tally of Planets",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": null,
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Kepler Space Telescope",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Space",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Aeronautics and Space Administration",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Planets",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-04-18T18:00:55+0000",
+    "document_type": "multimedia",
+    "news_desk": "Science",
+    "section_name": "Science",
+    "subsection_name": "Space & Cosmos",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "abstract": "Recent developments in health and science news and a glance at what’s ahead.",
+    "web_url": "https://www.nytimes.com/2013/04/09/science/moving-an-asteroid-mapping-the-brain-and-more.html",
+    "snippet": "Recent developments in health and science news and a glance at what’s ahead.",
+    "lead_paragraph": "“Moving an asteroid is a huge idea,” according to scientists at the Keck Institute for Space Studies at the California Institute of Technology, who should know. “Never has a celestial object been moved by humans.” ",
+    "source": "The New York Times",
+    "headline": {
+      "main": "Moving an Asteroid, Mapping the Brain and More",
+      "kicker": "The Week",
+      "content_kicker": null,
+      "print_headline": null,
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Asteroids",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kingson, Jennifer A",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Avian Influenza",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Dark Matter (Astronomy)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Brain",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Space",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Aeronautics and Space Administration",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-04-08T22:07:28+0000",
+    "document_type": "article",
+    "news_desk": "Science",
+    "section_name": "Science",
+    "byline": {
+      "original": "By Jennifer A. Kingson",
+      "person": [
+        {
+          "firstname": "Jennifer",
+          "middlename": "A.",
+          "lastname": "Kingson",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Summary",
+    "word_count": 918
+  },
+  {
+    "abstract": "A look at coming events at the intersection of science and culture.",
+    "web_url": "https://www.nytimes.com/2013/04/09/science/finding-our-way-and-inventing-musical-instruments.html",
+    "snippet": "A look at coming events at the intersection of science and culture.",
+    "lead_paragraph": "MUSIC",
+    "source": "The New York Times",
+    "headline": {
+      "main": "Finding Our Way and Inventing Musical Instruments",
+      "kicker": "The Scan",
+      "content_kicker": null,
+      "print_headline": "Skeptical Look at Proposals to Cool the Planet",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Performance Art",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Musical Instruments",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Space",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Air and Space Museum",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Eagleman, David",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Hamilton, Clive",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-04-08T18:22:50+0000",
+    "document_type": "article",
+    "news_desk": "Science",
+    "section_name": "Science",
+    "byline": {
+      "original": "By Jascha Hoffman",
+      "person": [
+        {
+          "firstname": "Jascha",
+          "middlename": null,
+          "lastname": "Hoffman",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "word_count": 535
+  },
+  {
+    "abstract": "Astronomers said they might be on the verge of finding out what makes up the matter that gives shape to universe’s visible structures.",
+    "web_url": "https://www.nytimes.com/2013/04/04/science/space/new-clues-to-the-mystery-of-dark-matter.html",
+    "snippet": "Astronomers said they might be on the verge of finding out what makes up the matter that gives shape to universe’s visible structures.",
+    "lead_paragraph": "The dark side of the universe is whispering, but scientists are still not sure what it is saying.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "Tantalizing New Clues Into the Mysteries of Dark Matter",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Tantalizing New Clues Into the Mysteries of Dark Matter",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Dark Matter (Astronomy)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Space",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Astronomy and Astrophysics",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Ting, Samuel C C",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "CERN",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Aeronautics and Space Administration",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Space Station",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Physical Review Letters",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-04-03T15:06:19+0000",
+    "document_type": "article",
+    "news_desk": "Science",
+    "section_name": "Science",
+    "subsection_name": "Space & Cosmos",
+    "byline": {
+      "original": "By Dennis Overbye",
+      "person": [
+        {
+          "firstname": "Dennis",
+          "middlename": null,
+          "lastname": "Overbye",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "word_count": 1071
+  },
+  {
+    "abstract": "Scientists have gotten a much more accurate picture of the small asteroid that exploded near the Russian city of Chelyabinsk last month.",
+    "web_url": "https://www.nytimes.com/2013/03/26/science/space/in-asteroids-aftermath-a-sigh-of-relief.html",
+    "snippet": "Scientists have gotten a much more accurate picture of the small asteroid that exploded near the Russian city of Chelyabinsk last month.",
+    "lead_paragraph": "Using an eclectic mix of crowd-sourced video, information from Google Earth and data from nuclear test-ban sensors, scientists have gotten a much more accurate picture of the small asteroid that exploded near the Russian city of Chelyabinsk last month.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "A Clearer View of the Space Bullet That Grazed Russia",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In Asteroid’s Aftermath, a Sigh of Relief",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Meteors and Meteorites",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Asteroids",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Chelyabinsk (Russia)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Space",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "University of Western Ontario",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "University of Antioquia",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-03-25T18:36:08+0000",
+    "document_type": "article",
+    "news_desk": "Science",
+    "section_name": "Science",
+    "subsection_name": "Space & Cosmos",
+    "byline": {
+      "original": "By Henry Fountain",
+      "person": [
+        {
+          "firstname": "Henry",
+          "middlename": null,
+          "lastname": "Fountain",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "word_count": 1169
+  },
+  {
+    "abstract": "Pioneer 10 and 11 carry plaques intended to show where they came from and who made them, and other spacecraft contain information about Earth and humankind.",
+    "web_url": "https://www.nytimes.com/2013/03/26/science/space/do-spacecraft-carry-ids-of-their-earthly-origins.html",
+    "snippet": "Pioneer 10 and 11 carry plaques intended to show where they came from and who made them, and other spacecraft contain information about Earth and humankind.",
+    "lead_paragraph": "Q. Do the spacecraft we have sent to investigate the universe carry any identification of their human and earthly origin?",
+    "source": "The New York Times",
+    "headline": {
+      "main": "To Whom It May Concern",
+      "kicker": "Q & A",
+      "content_kicker": null,
+      "print_headline": "To Whom It May Concern",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Space",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Aeronautics and Space Administration",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Solar System",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Identification Devices",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-03-25T17:36:07+0000",
+    "document_type": "article",
+    "news_desk": "Science",
+    "section_name": "Science",
+    "subsection_name": "Space & Cosmos",
+    "byline": {
+      "original": "By C. Claiborne Ray",
+      "person": [
+        {
+          "firstname": "C.",
+          "middlename": "Claiborne",
+          "lastname": "Ray",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Question",
+    "word_count": 202
+  },
+  {
+    "abstract": "Test your knowledge of all things celestial in the first TierneyLab astronomy quiz.",
+    "web_url": "https://www.nytimes.com/interactive/2008/04/23/science/space/20080423_TIERNEYLABQUIZ.html",
+    "snippet": "Test your knowledge of all things celestial in the first TierneyLab astronomy quiz.",
+    "lead_paragraph": "Test your knowledge of all things celestial in the first TierneyLab astronomy quiz.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "Astronomy Quiz",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": null,
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Space",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Planets",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-03-22T08:53:43+0000",
+    "document_type": "multimedia",
+    "news_desk": "Science",
+    "section_name": "Science",
+    "subsection_name": "Space & Cosmos",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "abstract": "The Planck satellite has taken the most detailed images yet of the early universe.",
+    "web_url": "https://www.nytimes.com/interactive/2013/03/21/science/space/0321-universe.html",
+    "snippet": "The Planck satellite has taken the most detailed images yet of the early universe.",
+    "lead_paragraph": "The Planck satellite has taken the most detailed images yet of the early universe.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "Mapping the Early Universe",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": null,
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Solar System",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Space",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Satellites",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-03-21T19:48:56+0000",
+    "document_type": "multimedia",
+    "news_desk": "Science",
+    "section_name": "Science",
+    "subsection_name": "Space & Cosmos",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  }
+]

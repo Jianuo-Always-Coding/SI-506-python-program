@@ -1,0 +1,2 @@
+['We will rise from the golden hills of the West.', 'We will rise from the windswept Northeast where our forefathers first realized revolution.', 'We will rise from the lake-rimmed cities of the Midwestern states.', 'We will rise from the sun-baked South.']
+['That even as we grieved, we grew.', 'That even as we hurt, we hoped.', 'That even as we tired, we tried.']

@@ -1,0 +1,4506 @@
+[
+  {
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "bestsellers_date": "2022-09-03",
+    "published_date": "2022-09-18",
+    "published_date_description": "",
+    "next_published_date": "2022-09-25",
+    "previous_published_date": "2022-09-11",
+    "display_name": "Hardcover Fiction",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593158687",
+        "primary_isbn13": "9780593158685",
+        "publisher": "Ballantine",
+        "description": "A tennis player comes out of retirement and trains with her father to defend her record.",
+        "price": "0.00",
+        "title": "CARRIE SOTO IS BACK",
+        "author": "Taylor Jenkins Reid",
+        "contributor": "by Taylor Jenkins Reid",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593158685.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593158687",
+            "isbn13": "9780593158685"
+          },
+          {
+            "isbn10": "0593158695",
+            "isbn13": "9780593158692"
+          },
+          {
+            "isbn10": "0593632109",
+            "isbn13": "9780593632109"
+          }
+        ],
+        "book_uri": "nyt://book/6c803fcf-d473-561a-bff4-70afb1394a28"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0316413038",
+        "primary_isbn13": "9780316413039",
+        "publisher": "Mulholland",
+        "description": "The sixth book in the Cormoran Strike series. When a cartoonist is murdered, Cormoran and Robin go after a mysterious online figure known as Anomie.",
+        "price": "0.00",
+        "title": "THE INK BLACK HEART",
+        "author": "Robert Galbraith",
+        "contributor": "by Robert Galbraith",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316413039.jpg",
+        "book_image_width": 321,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316413038",
+            "isbn13": "9780316413039"
+          },
+          {
+            "isbn10": "0316473537",
+            "isbn13": "9780316473538"
+          },
+          {
+            "isbn10": "0316413232",
+            "isbn13": "9780316413237"
+          },
+          {
+            "isbn10": "1668600838",
+            "isbn13": "9781668600832"
+          },
+          {
+            "isbn10": "1668617676",
+            "isbn13": "9781668617670"
+          }
+        ],
+        "book_uri": "nyt://book/03c4a565-bbd1-5f64-900a-d52b6ac0342f"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250019869",
+        "primary_isbn13": "9781250019868",
+        "publisher": "St. Martin's",
+        "description": "When she takes over her deceased mother’s apartment, Zoey has strange encounters with her new neighbors.",
+        "price": "0.00",
+        "title": "OTHER BIRDS",
+        "author": "Sarah Addison Allen",
+        "contributor": "by Sarah Addison Allen",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250019868.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250019869",
+            "isbn13": "9781250019868"
+          },
+          {
+            "isbn10": "1250019885",
+            "isbn13": "9781250019882"
+          }
+        ],
+        "book_uri": "nyt://book/3f4e7a23-1038-5e29-a130-3b2c02639340"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 3,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593496477",
+        "primary_isbn13": "9780593496473",
+        "publisher": "Bantam",
+        "description": "A journalist who returns to her hometown vows to find a missing girl and solve a 20-year-old cold case.",
+        "price": "0.00",
+        "title": "ALL GOOD PEOPLE HERE",
+        "author": "Ashley Flowers with Alex Kiester",
+        "contributor": "by Ashley Flowers with Alex Kiester",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593496473.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593496477",
+            "isbn13": "9780593496473"
+          },
+          {
+            "isbn10": "0593496485",
+            "isbn13": "9780593496480"
+          }
+        ],
+        "book_uri": "nyt://book/bcd83101-adb5-5ef7-aa35-9514fbe16961"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250843936",
+        "primary_isbn13": "9781250843937",
+        "publisher": "Flatiron",
+        "description": "A family reunion on a tidal island turns deadly as the characters are isolated by a storm and killed one by one.",
+        "price": "0.00",
+        "title": "DAISY DARKER",
+        "author": "Alice Feeney",
+        "contributor": "by Alice Feeney",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250843937.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250843936",
+            "isbn13": "9781250843937"
+          }
+        ],
+        "book_uri": "nyt://book/858dfcf0-2bc9-5cf5-9f9d-489ae900418d"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1538719843",
+        "primary_isbn13": "9781538719848",
+        "publisher": "Grand Central",
+        "description": "When his ex-girlfriend turns up dead in his office building, an entry-level investment analyst delves into the halls of economic power.",
+        "price": "0.00",
+        "title": "THE 6:20 MAN",
+        "author": "David Baldacci",
+        "contributor": "by David Baldacci",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781538719848.jpg",
+        "book_image_width": 330,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1538719843",
+            "isbn13": "9781538719848"
+          },
+          {
+            "isbn10": "1538719886",
+            "isbn13": "9781538719886"
+          },
+          {
+            "isbn10": "1538719878",
+            "isbn13": "9781538719879"
+          },
+          {
+            "isbn10": "1549160664",
+            "isbn13": "9781549160660"
+          },
+          {
+            "isbn10": "1549160656",
+            "isbn13": "9781549160653"
+          },
+          {
+            "isbn10": "1668617048",
+            "isbn13": "9781668617045"
+          },
+          {
+            "isbn10": "1668617056",
+            "isbn13": "9781668617052"
+          }
+        ],
+        "book_uri": "nyt://book/e74242b1-8445-5b50-a286-0bbcc344c87a"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 9,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0316258679",
+        "primary_isbn13": "9780316258678",
+        "publisher": "Little, Brown",
+        "description": "The new general manager of a hotel far from its Gilded Age heyday deals with the complicated pasts of her guests and staff.",
+        "price": "0.00",
+        "title": "THE HOTEL NANTUCKET",
+        "author": "Elin Hilderbrand",
+        "contributor": "by Elin Hilderbrand",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316258678.jpg",
+        "book_image_width": 322,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316258679",
+            "isbn13": "9780316258678"
+          },
+          {
+            "isbn10": "0316445614",
+            "isbn13": "9780316445610"
+          },
+          {
+            "isbn10": "031625908X",
+            "isbn13": "9780316259088"
+          },
+          {
+            "isbn10": "1668602792",
+            "isbn13": "9781668602799"
+          },
+          {
+            "isbn10": "1668602806",
+            "isbn13": "9781668602805"
+          }
+        ],
+        "book_uri": "nyt://book/1786b486-adfa-5d2b-b3b0-78411312b0e6"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 10,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "038554734X",
+        "primary_isbn13": "9780385547345",
+        "publisher": "Doubleday",
+        "description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+        "price": "0.00",
+        "title": "LESSONS IN CHEMISTRY",
+        "author": "Bonnie Garmus",
+        "contributor": "by Bonnie Garmus",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+        "book_image_width": 328,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "038554734X",
+            "isbn13": "9780385547345"
+          },
+          {
+            "isbn10": "0593507533",
+            "isbn13": "9780593507537"
+          }
+        ],
+        "book_uri": "nyt://book/717e0ead-9782-567d-af27-d9a6cfb1856f"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "None",
+        "primary_isbn13": "9780063294189",
+        "publisher": "Harper Voyager",
+        "description": "In 1828, Robin Swift studies at Oxford University’s Royal Institute of Translation and faces a choice when Britain pursues a war with China.",
+        "price": "0.00",
+        "title": "BABEL",
+        "author": "R.F. Kuang",
+        "contributor": "by R.F. Kuang",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780063021426.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0063021420",
+            "isbn13": "9780063021426"
+          },
+          {
+            "isbn10": "0063021447",
+            "isbn13": "9780063021440"
+          }
+        ],
+        "book_uri": "nyt://book/ca521852-ee6c-554c-bca6-4befb4ba1721"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 12,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0525559477",
+        "primary_isbn13": "9780525559474",
+        "publisher": "Viking",
+        "description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+        "price": "0.00",
+        "title": "THE MIDNIGHT LIBRARY",
+        "author": "Matt Haig",
+        "contributor": "by Matt Haig",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0525559477",
+            "isbn13": "9780525559474"
+          },
+          {
+            "isbn10": "0525559485",
+            "isbn13": "9780525559481"
+          },
+          {
+            "isbn10": "0655697071",
+            "isbn13": "9780655697077"
+          }
+        ],
+        "book_uri": "nyt://book/60d0ee2d-3d05-50c9-a484-050d17a2308e"
+      },
+      {
+        "rank": 11,
+        "rank_last_week": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0062858114",
+        "primary_isbn13": "9780062858115",
+        "publisher": "Morrow",
+        "description": "U.S. Marshal Andrea Oliver goes to Longbill Beach to protect a judge and winds up investigating a cold case from 1982.",
+        "price": "0.00",
+        "title": "GIRL, FORGOTTEN",
+        "author": "Karin Slaughter",
+        "contributor": "by Karin Slaughter",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780062858115.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0062858114",
+            "isbn13": "9780062858115"
+          },
+          {
+            "isbn10": "006285903X",
+            "isbn13": "9780062859037"
+          }
+        ],
+        "book_uri": "nyt://book/12f71198-60ae-5a39-870e-bf3d227e7e8f"
+      },
+      {
+        "rank": 12,
+        "rank_last_week": 8,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1538752018",
+        "primary_isbn13": "9781538752012",
+        "publisher": "Grand Central",
+        "description": "A former football star falls for a state prosecutor at the same time he must decide whether to kill his ex-wife, who is on life support, to ensnare her attacker.",
+        "price": "0.00",
+        "title": "OVERKILL",
+        "author": "Sandra Brown",
+        "contributor": "by Sandra Brown",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781538752012.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1538752018",
+            "isbn13": "9781538752012"
+          },
+          {
+            "isbn10": "1538724405",
+            "isbn13": "9781538724408"
+          },
+          {
+            "isbn10": "153875200X",
+            "isbn13": "9781538752005"
+          }
+        ],
+        "book_uri": "nyt://book/0a694880-37d2-5b97-b48e-04b018db70e4"
+      },
+      {
+        "rank": 13,
+        "rank_last_week": 7,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "198482161X",
+        "primary_isbn13": "9781984821614",
+        "publisher": "Delacorte",
+        "description": "Parents of children who have gone missing on a dangerous peak in Montana form a search-and-rescue mission.",
+        "price": "0.00",
+        "title": "THE CHALLENGE",
+        "author": "Danielle Steel",
+        "contributor": "by Danielle Steel",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781984821614.jpg",
+        "book_image_width": 330,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "198482161X",
+            "isbn13": "9781984821614"
+          },
+          {
+            "isbn10": "1984821628",
+            "isbn13": "9781984821621"
+          },
+          {
+            "isbn10": "0593587812",
+            "isbn13": "9780593587812"
+          }
+        ],
+        "book_uri": "nyt://book/729074ff-160b-5b63-bfd8-320834f3fe77"
+      },
+      {
+        "rank": 14,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593321200",
+        "primary_isbn13": "9780593321201",
+        "publisher": "Knopf",
+        "description": "Two friends find their partnership challenged in the world of video game design.",
+        "price": "0.00",
+        "title": "TOMORROW, AND TOMORROW, AND TOMORROW",
+        "author": "Gabrielle Zevin",
+        "contributor": "by Gabrielle Zevin",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593321201.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593321200",
+            "isbn13": "9780593321201"
+          },
+          {
+            "isbn10": "0593321219",
+            "isbn13": "9780593321218"
+          }
+        ],
+        "book_uri": "nyt://book/bc07e3e3-e917-50bb-9439-70118335f40c"
+      },
+      {
+        "rank": 15,
+        "rank_last_week": 11,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0063252341",
+        "primary_isbn13": "9780063252349",
+        "publisher": "Morrow",
+        "description": "A mother who witnesses her son murder a stranger finds her days are going in reverse and seeks to use that to alter events.",
+        "price": "0.00",
+        "title": "WRONG PLACE WRONG TIME",
+        "author": "Gillian McAllister",
+        "contributor": "by Gillian McAllister",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780063252349.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0063252341",
+            "isbn13": "9780063252349"
+          }
+        ],
+        "book_uri": "nyt://book/1fd2c18f-6d48-5a0b-95e0-5b2060588b34"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "bestsellers_date": "2022-09-10",
+    "published_date": "2022-09-25",
+    "published_date_description": "",
+    "next_published_date": "2022-10-02",
+    "previous_published_date": "2022-09-18",
+    "display_name": "Hardcover Fiction",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1668002175",
+        "primary_isbn13": "9781668002179",
+        "publisher": "Scribner",
+        "description": "A high school kid inherits a shed that is a portal to another world where good and evil are at war.",
+        "price": "0.00",
+        "title": "FAIRY TALE",
+        "author": "Stephen King",
+        "contributor": "by Stephen King",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781668002179.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": ""
+          },
+          {
+            "isbn10": "1668002175",
+            "isbn13": "9781668002179"
+          },
+          {
+            "isbn10": "1668002183",
+            "isbn13": "9781668002186"
+          },
+          {
+            "isbn10": "1797145282",
+            "isbn13": "9781797145280"
+          }
+        ],
+        "book_uri": "nyt://book/1c203c2d-147d-5639-8e0c-009ba6f15698"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250278236",
+        "primary_isbn13": "9781250278234",
+        "publisher": "St. Martin's",
+        "description": "The 55th book of the In Death series. Eve Dallas is reminded of her past as she investigates a possible sex trafficking ring.",
+        "price": "0.00",
+        "title": "DESPERATION IN DEATH",
+        "author": "J.D. Robb",
+        "contributor": "by J.D. Robb",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250278234.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250278236",
+            "isbn13": "9781250278234"
+          },
+          {
+            "isbn10": "1250278244",
+            "isbn13": "9781250278241"
+          },
+          {
+            "isbn10": "1250859247",
+            "isbn13": "9781250859242"
+          },
+          {
+            "isbn10": "1250859530",
+            "isbn13": "9781250859532"
+          }
+        ],
+        "book_uri": "nyt://book/26268101-9366-5efe-a2a3-399268dbcdc4"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593158687",
+        "primary_isbn13": "9780593158685",
+        "publisher": "Ballantine",
+        "description": "A tennis player comes out of retirement and trains with her father to defend her record.",
+        "price": "0.00",
+        "title": "CARRIE SOTO IS BACK",
+        "author": "Taylor Jenkins Reid",
+        "contributor": "by Taylor Jenkins Reid",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593158685.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593158687",
+            "isbn13": "9780593158685"
+          },
+          {
+            "isbn10": "0593158695",
+            "isbn13": "9780593158692"
+          },
+          {
+            "isbn10": "0593632109",
+            "isbn13": "9780593632109"
+          }
+        ],
+        "book_uri": "nyt://book/6c803fcf-d473-561a-bff4-70afb1394a28"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 4,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593496477",
+        "primary_isbn13": "9780593496473",
+        "publisher": "Bantam",
+        "description": "A journalist who returns to her hometown vows to find a missing girl and solve a 20-year-old cold case.",
+        "price": "0.00",
+        "title": "ALL GOOD PEOPLE HERE",
+        "author": "Ashley Flowers with Alex Kiester",
+        "contributor": "by Ashley Flowers with Alex Kiester",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593496473.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593496477",
+            "isbn13": "9780593496473"
+          },
+          {
+            "isbn10": "0593496485",
+            "isbn13": "9780593496480"
+          }
+        ],
+        "book_uri": "nyt://book/bcd83101-adb5-5ef7-aa35-9514fbe16961"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "059332062X",
+        "primary_isbn13": "9780593320624",
+        "publisher": "Knopf",
+        "description": "In 1550s Florence, the future of the third daughter of the grand duke seems uncertain after she is thrust into a marriage.",
+        "price": "0.00",
+        "title": "THE MARRIAGE PORTRAIT",
+        "author": "Maggie O'Farrell",
+        "contributor": "by Maggie O'Farrell",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593320624.jpg",
+        "book_image_width": 338,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "059332062X",
+            "isbn13": "9780593320624"
+          }
+        ],
+        "book_uri": "nyt://book/e86b5482-50be-5b4b-9753-b5339622b880"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1538719843",
+        "primary_isbn13": "9781538719848",
+        "publisher": "Grand Central",
+        "description": "When his ex-girlfriend turns up dead in his office building, an entry-level investment analyst delves into the halls of economic power.",
+        "price": "0.00",
+        "title": "THE 6:20 MAN",
+        "author": "David Baldacci",
+        "contributor": "by David Baldacci",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781538719848.jpg",
+        "book_image_width": 330,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1538719843",
+            "isbn13": "9781538719848"
+          },
+          {
+            "isbn10": "1538719886",
+            "isbn13": "9781538719886"
+          },
+          {
+            "isbn10": "1538719878",
+            "isbn13": "9781538719879"
+          },
+          {
+            "isbn10": "1549160664",
+            "isbn13": "9781549160660"
+          },
+          {
+            "isbn10": "1549160656",
+            "isbn13": "9781549160653"
+          },
+          {
+            "isbn10": "1668617048",
+            "isbn13": "9781668617045"
+          },
+          {
+            "isbn10": "1668617056",
+            "isbn13": "9781668617052"
+          }
+        ],
+        "book_uri": "nyt://book/e74242b1-8445-5b50-a286-0bbcc344c87a"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593540646",
+        "primary_isbn13": "9780593540640",
+        "publisher": "Putnam",
+        "description": "The 16th book in the Oregon Files series. A criminal syndicate has a torpedo that could obliterate entire cities.",
+        "price": "0.00",
+        "title": "CLIVE CUSSLER'S HELLBURNER",
+        "author": "Mike Maden",
+        "contributor": "by Mike Maden",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593540640.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593540646",
+            "isbn13": "9780593540640"
+          },
+          {
+            "isbn10": "0593540654",
+            "isbn13": "9780593540657"
+          }
+        ],
+        "book_uri": "nyt://book/0ae55bd4-8a7d-5c39-bdd4-fc1b556d0d74"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593297288",
+        "primary_isbn13": "9780593297285",
+        "publisher": "Viking",
+        "description": "The 18th book in the Longmire series. Sheriff Longmire finds an adversary in himself.",
+        "price": "0.00",
+        "title": "HELL AND BACK",
+        "author": "Craig Johnson",
+        "contributor": "by Craig Johnson",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593297285.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593297288",
+            "isbn13": "9780593297285"
+          },
+          {
+            "isbn10": "0593297296",
+            "isbn13": "9780593297292"
+          }
+        ],
+        "book_uri": "nyt://book/dc5a67bb-a9ca-52cd-a2d8-dbf0bd91a492"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593200683",
+        "primary_isbn13": "9780593200681",
+        "publisher": "Berkley",
+        "description": "Four women who spent 40 years working as assassins have targets on their backs as they enter retirement.",
+        "price": "0.00",
+        "title": "KILLERS OF A CERTAIN AGE",
+        "author": "Deanna Raybourn",
+        "contributor": "by Deanna Raybourn",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593200681.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593200683",
+            "isbn13": "9780593200681"
+          }
+        ],
+        "book_uri": "nyt://book/e4c35c98-ea56-589b-a8ab-c9d6167cf1b6"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0316413038",
+        "primary_isbn13": "9780316413039",
+        "publisher": "Mulholland",
+        "description": "The sixth book in the Cormoran Strike series. When a cartoonist is murdered, Cormoran and Robin go after a mysterious online figure known as Anomie.",
+        "price": "0.00",
+        "title": "THE INK BLACK HEART",
+        "author": "Robert Galbraith",
+        "contributor": "by Robert Galbraith",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316413039.jpg",
+        "book_image_width": 321,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316413038",
+            "isbn13": "9780316413039"
+          },
+          {
+            "isbn10": "0316473537",
+            "isbn13": "9780316473538"
+          },
+          {
+            "isbn10": "0316413232",
+            "isbn13": "9780316413237"
+          },
+          {
+            "isbn10": "1668600838",
+            "isbn13": "9781668600832"
+          },
+          {
+            "isbn10": "1668617676",
+            "isbn13": "9781668617670"
+          }
+        ],
+        "book_uri": "nyt://book/03c4a565-bbd1-5f64-900a-d52b6ac0342f"
+      },
+      {
+        "rank": 11,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1501171348",
+        "primary_isbn13": "9781501171345",
+        "publisher": "Simon & Schuster",
+        "description": "Hannah Hall discovers truths about her missing husband and bonds with his daughter from a previous relationship.",
+        "price": "0.00",
+        "title": "THE LAST THING HE TOLD ME",
+        "author": "Laura Dave",
+        "contributor": "by Laura Dave",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781501171345.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1501171348",
+            "isbn13": "9781501171345"
+          },
+          {
+            "isbn10": "1501171364",
+            "isbn13": "9781501171369"
+          },
+          {
+            "isbn10": "1797124749",
+            "isbn13": "9781797124742"
+          },
+          {
+            "isbn10": "1638080992",
+            "isbn13": "9781638080992"
+          }
+        ],
+        "book_uri": "nyt://book/b38ae769-e873-5272-bb5a-c58a35162db1"
+      },
+      {
+        "rank": 12,
+        "rank_last_week": 3,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250019869",
+        "primary_isbn13": "9781250019868",
+        "publisher": "St. Martin's",
+        "description": "When she takes over her deceased mother’s apartment, Zoey has strange encounters with her new neighbors.",
+        "price": "0.00",
+        "title": "OTHER BIRDS",
+        "author": "Sarah Addison Allen",
+        "contributor": "by Sarah Addison Allen",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250019868.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250019869",
+            "isbn13": "9781250019868"
+          },
+          {
+            "isbn10": "1250019885",
+            "isbn13": "9781250019882"
+          }
+        ],
+        "book_uri": "nyt://book/3f4e7a23-1038-5e29-a130-3b2c02639340"
+      },
+      {
+        "rank": 13,
+        "rank_last_week": 8,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "038554734X",
+        "primary_isbn13": "9780385547345",
+        "publisher": "Doubleday",
+        "description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+        "price": "0.00",
+        "title": "LESSONS IN CHEMISTRY",
+        "author": "Bonnie Garmus",
+        "contributor": "by Bonnie Garmus",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+        "book_image_width": 328,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "038554734X",
+            "isbn13": "9780385547345"
+          },
+          {
+            "isbn10": "0593507533",
+            "isbn13": "9780593507537"
+          }
+        ],
+        "book_uri": "nyt://book/717e0ead-9782-567d-af27-d9a6cfb1856f"
+      },
+      {
+        "rank": 14,
+        "rank_last_week": 10,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0525559477",
+        "primary_isbn13": "9780525559474",
+        "publisher": "Viking",
+        "description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+        "price": "0.00",
+        "title": "THE MIDNIGHT LIBRARY",
+        "author": "Matt Haig",
+        "contributor": "by Matt Haig",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0525559477",
+            "isbn13": "9780525559474"
+          },
+          {
+            "isbn10": "0525559485",
+            "isbn13": "9780525559481"
+          },
+          {
+            "isbn10": "0655697071",
+            "isbn13": "9780655697077"
+          }
+        ],
+        "book_uri": "nyt://book/60d0ee2d-3d05-50c9-a484-050d17a2308e"
+      },
+      {
+        "rank": 15,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250204534",
+        "primary_isbn13": "9781250204530",
+        "publisher": "Minotaur",
+        "description": "The 10th book in the Vera Stanhope series. A member of a group of friends is found hanged after being fired because of potential misconduct.",
+        "price": "0.00",
+        "title": "THE RISING TIDE",
+        "author": "Ann Cleeves",
+        "contributor": "by Ann Cleeves",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250204530.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250204534",
+            "isbn13": "9781250204530"
+          }
+        ],
+        "book_uri": "nyt://book/3309ff2b-6c6c-55a2-ad3b-fd5d13280fa3"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "bestsellers_date": "2022-09-17",
+    "published_date": "2022-10-02",
+    "published_date_description": "",
+    "next_published_date": "2022-10-09",
+    "previous_published_date": "2022-09-25",
+    "display_name": "Hardcover Fiction",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1668002175",
+        "primary_isbn13": "9781668002179",
+        "publisher": "Scribner",
+        "description": "A high school kid inherits a shed that is a portal to another world where good and evil are at war.",
+        "price": "0.00",
+        "title": "FAIRY TALE",
+        "author": "Stephen King",
+        "contributor": "by Stephen King",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781668002179.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": ""
+          },
+          {
+            "isbn10": "1668002175",
+            "isbn13": "9781668002179"
+          },
+          {
+            "isbn10": "1668002183",
+            "isbn13": "9781668002186"
+          },
+          {
+            "isbn10": "1797145282",
+            "isbn13": "9781797145280"
+          }
+        ],
+        "book_uri": "nyt://book/1c203c2d-147d-5639-8e0c-009ba6f15698"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1638930147",
+        "primary_isbn13": "9781638930143",
+        "publisher": "Zando",
+        "description": "A forensic pathologist is on the trail of a serial killer in the Louisiana bayou.",
+        "price": "0.00",
+        "title": "THE BUTCHER AND THE WREN",
+        "author": "Alaina Urquhart",
+        "contributor": "by Alaina Urquhart",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781638930143.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1638930147",
+            "isbn13": "9781638930143"
+          }
+        ],
+        "book_uri": "nyt://book/5751d4ec-22c1-5b5a-af52-b81ac819258f"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1982164913",
+        "primary_isbn13": "9781982164911",
+        "publisher": "Atria/Emily Bestler",
+        "description": "The 21st book in the Mitch Rapp series. President Cook, a team of assassins and a killer known as Legion confront Rapp on different fronts.",
+        "price": "0.00",
+        "title": "VINCE FLYNN: OATH OF LOYALTY",
+        "author": "Kyle Mills",
+        "contributor": "by Kyle Mills",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781982164911.jpg",
+        "book_image_width": 327,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1982164913",
+            "isbn13": "9781982164911"
+          },
+          {
+            "isbn10": "198216493X",
+            "isbn13": "9781982164935"
+          }
+        ],
+        "book_uri": "nyt://book/c5e118a2-4181-5c35-9fee-c0c68a55854c"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250854113",
+        "primary_isbn13": "9781250854117",
+        "publisher": "Tordotcom",
+        "description": "Six months after waking up in a stranger’s body, Nona is torn between living an ordinary life or saving those around her from strange forces.",
+        "price": "0.00",
+        "title": "NONA THE NINTH",
+        "author": "Tamsyn Muir",
+        "contributor": "by Tamsyn Muir",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250854117.jpg",
+        "book_image_width": 324,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250854113",
+            "isbn13": "9781250854117"
+          },
+          {
+            "isbn10": "1250854121",
+            "isbn13": "9781250854124"
+          }
+        ],
+        "book_uri": "nyt://book/1b554b58-0f0f-555f-9298-cca4d2a7a050"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0316499633",
+        "primary_isbn13": "9780316499637",
+        "publisher": "Little, Brown",
+        "description": "President Keegan Barrett’s power grab tests the loyalties of two C.I.A. agents.",
+        "price": "0.00",
+        "title": "BLOWBACK",
+        "author": "James Patterson and Brendan DuBois",
+        "contributor": "by James Patterson and Brendan DuBois",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316499637.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316499633",
+            "isbn13": "9780316499637"
+          },
+          {
+            "isbn10": "031649965X",
+            "isbn13": "9780316499651"
+          },
+          {
+            "isbn10": "031647343X",
+            "isbn13": "9780316473439"
+          }
+        ],
+        "book_uri": "nyt://book/befe7f67-43f1-565e-b59f-6c9e3c22a089"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 4,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593496477",
+        "primary_isbn13": "9780593496473",
+        "publisher": "Bantam",
+        "description": "A journalist who returns to her hometown vows to find a missing girl and solve a 20-year-old cold case.",
+        "price": "0.00",
+        "title": "ALL GOOD PEOPLE HERE",
+        "author": "Ashley Flowers with Alex Kiester",
+        "contributor": "by Ashley Flowers with Alex Kiester",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593496473.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593496477",
+            "isbn13": "9780593496473"
+          },
+          {
+            "isbn10": "0593496485",
+            "isbn13": "9780593496480"
+          }
+        ],
+        "book_uri": "nyt://book/bcd83101-adb5-5ef7-aa35-9514fbe16961"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 3,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593158687",
+        "primary_isbn13": "9780593158685",
+        "publisher": "Ballantine",
+        "description": "A tennis player comes out of retirement and trains with her father to defend her record.",
+        "price": "0.00",
+        "title": "CARRIE SOTO IS BACK",
+        "author": "Taylor Jenkins Reid",
+        "contributor": "by Taylor Jenkins Reid",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593158685.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593158687",
+            "isbn13": "9780593158685"
+          },
+          {
+            "isbn10": "0593158695",
+            "isbn13": "9780593158692"
+          },
+          {
+            "isbn10": "0593632109",
+            "isbn13": "9780593632109"
+          }
+        ],
+        "book_uri": "nyt://book/6c803fcf-d473-561a-bff4-70afb1394a28"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1538719843",
+        "primary_isbn13": "9781538719848",
+        "publisher": "Grand Central",
+        "description": "When his ex-girlfriend turns up dead in his office building, an entry-level investment analyst delves into the halls of economic power.",
+        "price": "0.00",
+        "title": "THE 6:20 MAN",
+        "author": "David Baldacci",
+        "contributor": "by David Baldacci",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781538719848.jpg",
+        "book_image_width": 330,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1538719843",
+            "isbn13": "9781538719848"
+          },
+          {
+            "isbn10": "1538719886",
+            "isbn13": "9781538719886"
+          },
+          {
+            "isbn10": "1538719878",
+            "isbn13": "9781538719879"
+          },
+          {
+            "isbn10": "1549160664",
+            "isbn13": "9781549160660"
+          },
+          {
+            "isbn10": "1549160656",
+            "isbn13": "9781549160653"
+          },
+          {
+            "isbn10": "1668617048",
+            "isbn13": "9781668617045"
+          },
+          {
+            "isbn10": "1668617056",
+            "isbn13": "9781668617052"
+          }
+        ],
+        "book_uri": "nyt://book/e74242b1-8445-5b50-a286-0bbcc344c87a"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 13,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "038554734X",
+        "primary_isbn13": "9780385547345",
+        "publisher": "Doubleday",
+        "description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+        "price": "0.00",
+        "title": "LESSONS IN CHEMISTRY",
+        "author": "Bonnie Garmus",
+        "contributor": "by Bonnie Garmus",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+        "book_image_width": 328,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "038554734X",
+            "isbn13": "9780385547345"
+          },
+          {
+            "isbn10": "0593507533",
+            "isbn13": "9780593507537"
+          }
+        ],
+        "book_uri": "nyt://book/717e0ead-9782-567d-af27-d9a6cfb1856f"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 5,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "059332062X",
+        "primary_isbn13": "9780593320624",
+        "publisher": "Knopf",
+        "description": "In 1550s Florence, the future of the third daughter of the grand duke seems uncertain after she is thrust into a marriage.",
+        "price": "0.00",
+        "title": "THE MARRIAGE PORTRAIT",
+        "author": "Maggie O'Farrell",
+        "contributor": "by Maggie O'Farrell",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593320624.jpg",
+        "book_image_width": 338,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "059332062X",
+            "isbn13": "9780593320624"
+          }
+        ],
+        "book_uri": "nyt://book/e86b5482-50be-5b4b-9753-b5339622b880"
+      },
+      {
+        "rank": 11,
+        "rank_last_week": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250278236",
+        "primary_isbn13": "9781250278234",
+        "publisher": "St. Martin's",
+        "description": "The 55th book of the In Death series. Eve Dallas is reminded of her past as she investigates a possible sex trafficking ring.",
+        "price": "0.00",
+        "title": "DESPERATION IN DEATH",
+        "author": "J.D. Robb",
+        "contributor": "by J.D. Robb",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250278234.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250278236",
+            "isbn13": "9781250278234"
+          },
+          {
+            "isbn10": "1250278244",
+            "isbn13": "9781250278241"
+          },
+          {
+            "isbn10": "1250859247",
+            "isbn13": "9781250859242"
+          },
+          {
+            "isbn10": "1250859530",
+            "isbn13": "9781250859532"
+          }
+        ],
+        "book_uri": "nyt://book/26268101-9366-5efe-a2a3-399268dbcdc4"
+      },
+      {
+        "rank": 12,
+        "rank_last_week": 7,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593540646",
+        "primary_isbn13": "9780593540640",
+        "publisher": "Putnam",
+        "description": "The 16th book in the Oregon Files series. A criminal syndicate has a torpedo that could obliterate entire cities.",
+        "price": "0.00",
+        "title": "CLIVE CUSSLER'S HELLBURNER",
+        "author": "Mike Maden",
+        "contributor": "by Mike Maden",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593540640.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593540646",
+            "isbn13": "9780593540640"
+          },
+          {
+            "isbn10": "0593540654",
+            "isbn13": "9780593540657"
+          }
+        ],
+        "book_uri": "nyt://book/0ae55bd4-8a7d-5c39-bdd4-fc1b556d0d74"
+      },
+      {
+        "rank": 13,
+        "rank_last_week": 11,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1501171348",
+        "primary_isbn13": "9781501171345",
+        "publisher": "Simon & Schuster",
+        "description": "Hannah Hall discovers truths about her missing husband and bonds with his daughter from a previous relationship.",
+        "price": "0.00",
+        "title": "THE LAST THING HE TOLD ME",
+        "author": "Laura Dave",
+        "contributor": "by Laura Dave",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781501171345.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1501171348",
+            "isbn13": "9781501171345"
+          },
+          {
+            "isbn10": "1501171364",
+            "isbn13": "9781501171369"
+          },
+          {
+            "isbn10": "1797124749",
+            "isbn13": "9781797124742"
+          },
+          {
+            "isbn10": "1638080992",
+            "isbn13": "9781638080992"
+          }
+        ],
+        "book_uri": "nyt://book/b38ae769-e873-5272-bb5a-c58a35162db1"
+      },
+      {
+        "rank": 14,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593535200",
+        "primary_isbn13": "9780593535202",
+        "publisher": "Knopf",
+        "description": "Roland Baines looks back at his personal regrets and the historical upheavals in his lifetime.",
+        "price": "0.00",
+        "title": "LESSONS",
+        "author": "Ian McEwan",
+        "contributor": "by Ian McEwan",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593535202.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593535200",
+            "isbn13": "9780593535202"
+          }
+        ],
+        "book_uri": "nyt://book/eab64d1d-d5c8-52a4-9701-98108cab8cfe"
+      },
+      {
+        "rank": 15,
+        "rank_last_week": 14,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0525559477",
+        "primary_isbn13": "9780525559474",
+        "publisher": "Viking",
+        "description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+        "price": "0.00",
+        "title": "THE MIDNIGHT LIBRARY",
+        "author": "Matt Haig",
+        "contributor": "by Matt Haig",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0525559477",
+            "isbn13": "9780525559474"
+          },
+          {
+            "isbn10": "0525559485",
+            "isbn13": "9780525559481"
+          },
+          {
+            "isbn10": "0655697071",
+            "isbn13": "9780655697077"
+          }
+        ],
+        "book_uri": "nyt://book/60d0ee2d-3d05-50c9-a484-050d17a2308e"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "bestsellers_date": "2022-09-24",
+    "published_date": "2022-10-09",
+    "published_date_description": "",
+    "next_published_date": "2022-10-16",
+    "previous_published_date": "2022-10-02",
+    "display_name": "Hardcover Fiction",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "059344955X",
+        "primary_isbn13": "9780593449554",
+        "publisher": "Random House",
+        "description": "Musicians from different backgrounds are attracted to each other and a mother flees with her son from an abusive husband.",
+        "price": "0.00",
+        "title": "DREAMLAND",
+        "author": "Nicholas Sparks",
+        "contributor": "by Nicholas Sparks",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593449554.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "059344955X",
+            "isbn13": "9780593449554"
+          },
+          {
+            "isbn10": "0593449568",
+            "isbn13": "9780593449561"
+          },
+          {
+            "isbn10": "0593633237",
+            "isbn13": "9780593633236"
+          },
+          {
+            "isbn10": "0593633229",
+            "isbn13": "9780593633229"
+          }
+        ],
+        "book_uri": "nyt://book/61e3a1f0-08db-5240-9ee0-72308b3b9b9d"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1668002175",
+        "primary_isbn13": "9781668002179",
+        "publisher": "Scribner",
+        "description": "A high school kid inherits a shed that is a portal to another world where good and evil are at war.",
+        "price": "0.00",
+        "title": "FAIRY TALE",
+        "author": "Stephen King",
+        "contributor": "by Stephen King",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781668002179.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": ""
+          },
+          {
+            "isbn10": "1668002175",
+            "isbn13": "9781668002179"
+          },
+          {
+            "isbn10": "1668002183",
+            "isbn13": "9781668002186"
+          },
+          {
+            "isbn10": "1797145282",
+            "isbn13": "9781797145280"
+          }
+        ],
+        "book_uri": "nyt://book/1c203c2d-147d-5639-8e0c-009ba6f15698"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593299396",
+        "primary_isbn13": "9780593299395",
+        "publisher": "Pamela Dorman",
+        "description": "The third book in the Thursday Murder Club series. A decade-old cold case and a new foe spark the latest adventure.",
+        "price": "0.00",
+        "title": "THE BULLET THAT MISSED",
+        "author": "Richard Osman",
+        "contributor": "by Richard Osman",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593299395.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593299396",
+            "isbn13": "9780593299395"
+          },
+          {
+            "isbn10": "059329940X",
+            "isbn13": "9780593299401"
+          }
+        ],
+        "book_uri": "nyt://book/333e1ddb-f540-571e-ba19-5b68f8507e52"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 5,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0316499633",
+        "primary_isbn13": "9780316499637",
+        "publisher": "Little, Brown",
+        "description": "President Keegan Barrett’s power grab tests the loyalties of two C.I.A. agents.",
+        "price": "0.00",
+        "title": "BLOWBACK",
+        "author": "James Patterson and Brendan DuBois",
+        "contributor": "by James Patterson and Brendan DuBois",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316499637.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316499633",
+            "isbn13": "9780316499637"
+          },
+          {
+            "isbn10": "031649965X",
+            "isbn13": "9780316499651"
+          },
+          {
+            "isbn10": "031647343X",
+            "isbn13": "9780316473439"
+          }
+        ],
+        "book_uri": "nyt://book/befe7f67-43f1-565e-b59f-6c9e3c22a089"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593446062",
+        "primary_isbn13": "9780593446065",
+        "publisher": "Random House",
+        "description": "As the pandemic starts, Lucy Barton and her ex-husband go to a small town in Maine, where they confront their shared history.",
+        "price": "0.00",
+        "title": "LUCY BY THE SEA",
+        "author": "Elizabeth Strout",
+        "contributor": "by Elizabeth Strout",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593446065.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593446062",
+            "isbn13": "9780593446065"
+          },
+          {
+            "isbn10": "0593446070",
+            "isbn13": "9780593446072"
+          }
+        ],
+        "book_uri": "nyt://book/504b7c3d-6a49-5ffd-b0a3-f57faf5d0583"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1638930147",
+        "primary_isbn13": "9781638930143",
+        "publisher": "Zando",
+        "description": "A forensic pathologist is on the trail of a serial killer in the Louisiana bayou.",
+        "price": "0.00",
+        "title": "THE BUTCHER AND THE WREN",
+        "author": "Alaina Urquhart",
+        "contributor": "by Alaina Urquhart",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781638930143.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1638930147",
+            "isbn13": "9781638930143"
+          }
+        ],
+        "book_uri": "nyt://book/5751d4ec-22c1-5b5a-af52-b81ac819258f"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 3,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1982164913",
+        "primary_isbn13": "9781982164911",
+        "publisher": "Atria/Emily Bestler",
+        "description": "The 21st book in the Mitch Rapp series. President Cook, a team of assassins and a killer known as Legion confront Rapp on different fronts.",
+        "price": "0.00",
+        "title": "VINCE FLYNN: OATH OF LOYALTY",
+        "author": "Kyle Mills",
+        "contributor": "by Kyle Mills",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781982164911.jpg",
+        "book_image_width": 327,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1982164913",
+            "isbn13": "9781982164911"
+          },
+          {
+            "isbn10": "198216493X",
+            "isbn13": "9781982164935"
+          }
+        ],
+        "book_uri": "nyt://book/c5e118a2-4181-5c35-9fee-c0c68a55854c"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593496477",
+        "primary_isbn13": "9780593496473",
+        "publisher": "Bantam",
+        "description": "A journalist who returns to her hometown vows to find a missing girl and solve a 20-year-old cold case.",
+        "price": "0.00",
+        "title": "ALL GOOD PEOPLE HERE",
+        "author": "Ashley Flowers with Alex Kiester",
+        "contributor": "by Ashley Flowers with Alex Kiester",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593496473.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593496477",
+            "isbn13": "9780593496473"
+          },
+          {
+            "isbn10": "0593496485",
+            "isbn13": "9780593496480"
+          }
+        ],
+        "book_uri": "nyt://book/bcd83101-adb5-5ef7-aa35-9514fbe16961"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 7,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593158687",
+        "primary_isbn13": "9780593158685",
+        "publisher": "Ballantine",
+        "description": "A tennis player comes out of retirement and trains with her father to defend her record.",
+        "price": "0.00",
+        "title": "CARRIE SOTO IS BACK",
+        "author": "Taylor Jenkins Reid",
+        "contributor": "by Taylor Jenkins Reid",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593158685.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593158687",
+            "isbn13": "9780593158685"
+          },
+          {
+            "isbn10": "0593158695",
+            "isbn13": "9780593158692"
+          },
+          {
+            "isbn10": "0593632109",
+            "isbn13": "9780593632109"
+          }
+        ],
+        "book_uri": "nyt://book/6c803fcf-d473-561a-bff4-70afb1394a28"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0316498904",
+        "primary_isbn13": "9780316498906",
+        "publisher": "Little, Brown",
+        "description": "A follow-up to the Pulitzer Prize-winning novel “Less,” in which Arthur Less goes on a road trip across America.",
+        "price": "0.00",
+        "title": "LESS IS LOST",
+        "author": "Andrew Sean Greer",
+        "contributor": "by Andrew Sean Greer",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316498906.jpg",
+        "book_image_width": 322,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316498904",
+            "isbn13": "9780316498906"
+          },
+          {
+            "isbn10": "0316301396",
+            "isbn13": "9780316301398"
+          }
+        ],
+        "book_uri": "nyt://book/5a9a9d13-03c7-5469-a35a-f44f2a08979c"
+      },
+      {
+        "rank": 11,
+        "rank_last_week": 9,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "038554734X",
+        "primary_isbn13": "9780385547345",
+        "publisher": "Doubleday",
+        "description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+        "price": "0.00",
+        "title": "LESSONS IN CHEMISTRY",
+        "author": "Bonnie Garmus",
+        "contributor": "by Bonnie Garmus",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+        "book_image_width": 328,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "038554734X",
+            "isbn13": "9780385547345"
+          },
+          {
+            "isbn10": "0593507533",
+            "isbn13": "9780593507537"
+          }
+        ],
+        "book_uri": "nyt://book/717e0ead-9782-567d-af27-d9a6cfb1856f"
+      },
+      {
+        "rank": 12,
+        "rank_last_week": 8,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1538719843",
+        "primary_isbn13": "9781538719848",
+        "publisher": "Grand Central",
+        "description": "When his ex-girlfriend turns up dead in his office building, an entry-level investment analyst delves into the halls of economic power.",
+        "price": "0.00",
+        "title": "THE 6:20 MAN",
+        "author": "David Baldacci",
+        "contributor": "by David Baldacci",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781538719848.jpg",
+        "book_image_width": 330,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1538719843",
+            "isbn13": "9781538719848"
+          },
+          {
+            "isbn10": "1538719886",
+            "isbn13": "9781538719886"
+          },
+          {
+            "isbn10": "1538719878",
+            "isbn13": "9781538719879"
+          },
+          {
+            "isbn10": "1549160664",
+            "isbn13": "9781549160660"
+          },
+          {
+            "isbn10": "1549160656",
+            "isbn13": "9781549160653"
+          },
+          {
+            "isbn10": "1668617048",
+            "isbn13": "9781668617045"
+          },
+          {
+            "isbn10": "1668617056",
+            "isbn13": "9781668617052"
+          }
+        ],
+        "book_uri": "nyt://book/e74242b1-8445-5b50-a286-0bbcc344c87a"
+      },
+      {
+        "rank": 13,
+        "rank_last_week": 15,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0525559477",
+        "primary_isbn13": "9780525559474",
+        "publisher": "Viking",
+        "description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+        "price": "0.00",
+        "title": "THE MIDNIGHT LIBRARY",
+        "author": "Matt Haig",
+        "contributor": "by Matt Haig",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0525559477",
+            "isbn13": "9780525559474"
+          },
+          {
+            "isbn10": "0525559485",
+            "isbn13": "9780525559481"
+          },
+          {
+            "isbn10": "0655697071",
+            "isbn13": "9780655697077"
+          }
+        ],
+        "book_uri": "nyt://book/60d0ee2d-3d05-50c9-a484-050d17a2308e"
+      },
+      {
+        "rank": 14,
+        "rank_last_week": 10,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "059332062X",
+        "primary_isbn13": "9780593320624",
+        "publisher": "Knopf",
+        "description": "In 1550s Florence, the future of the third daughter of the grand duke seems uncertain after she is thrust into a marriage.",
+        "price": "0.00",
+        "title": "THE MARRIAGE PORTRAIT",
+        "author": "Maggie O'Farrell",
+        "contributor": "by Maggie O'Farrell",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593320624.jpg",
+        "book_image_width": 338,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "059332062X",
+            "isbn13": "9780593320624"
+          }
+        ],
+        "book_uri": "nyt://book/e86b5482-50be-5b4b-9753-b5339622b880"
+      },
+      {
+        "rank": 15,
+        "rank_last_week": 11,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250278236",
+        "primary_isbn13": "9781250278234",
+        "publisher": "St. Martin's",
+        "description": "The 55th book of the In Death series. Eve Dallas is reminded of her past as she investigates a possible sex trafficking ring.",
+        "price": "0.00",
+        "title": "DESPERATION IN DEATH",
+        "author": "J.D. Robb",
+        "contributor": "by J.D. Robb",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250278234.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250278236",
+            "isbn13": "9781250278234"
+          },
+          {
+            "isbn10": "1250278244",
+            "isbn13": "9781250278241"
+          },
+          {
+            "isbn10": "1250859247",
+            "isbn13": "9781250859242"
+          },
+          {
+            "isbn10": "1250859530",
+            "isbn13": "9781250859532"
+          }
+        ],
+        "book_uri": "nyt://book/26268101-9366-5efe-a2a3-399268dbcdc4"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "bestsellers_date": "2022-10-01",
+    "published_date": "2022-10-16",
+    "published_date_description": "",
+    "next_published_date": "2022-10-23",
+    "previous_published_date": "2022-10-09",
+    "display_name": "Hardcover Fiction",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1538739720",
+        "primary_isbn13": "9781538739723",
+        "publisher": "Grand Central",
+        "description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+        "price": "0.00",
+        "title": "VERITY",
+        "author": "Colleen Hoover",
+        "contributor": "by Colleen Hoover",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+        "book_image_width": 324,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1791392792",
+            "isbn13": "9781791392796"
+          },
+          {
+            "isbn10": "153872474X",
+            "isbn13": "9781538724743"
+          },
+          {
+            "isbn10": "1538724731",
+            "isbn13": "9781538724736"
+          },
+          {
+            "isbn10": "1538739720",
+            "isbn13": "9781538739723"
+          }
+        ],
+        "book_uri": "nyt://book/3604acc2-bfc6-541f-9220-6bd077b283ff"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1668002175",
+        "primary_isbn13": "9781668002179",
+        "publisher": "Scribner",
+        "description": "A high school kid inherits a shed that is a portal to another world where good and evil are at war.",
+        "price": "0.00",
+        "title": "FAIRY TALE",
+        "author": "Stephen King",
+        "contributor": "by Stephen King",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781668002179.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": ""
+          },
+          {
+            "isbn10": "1668002175",
+            "isbn13": "9781668002179"
+          },
+          {
+            "isbn10": "1668002183",
+            "isbn13": "9781668002186"
+          },
+          {
+            "isbn10": "1797145282",
+            "isbn13": "9781797145280"
+          }
+        ],
+        "book_uri": "nyt://book/1c203c2d-147d-5639-8e0c-009ba6f15698"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "059344955X",
+        "primary_isbn13": "9780593449554",
+        "publisher": "Random House",
+        "description": "Musicians from different backgrounds are attracted to each other and a mother flees with her son from an abusive husband.",
+        "price": "0.00",
+        "title": "DREAMLAND",
+        "author": "Nicholas Sparks",
+        "contributor": "by Nicholas Sparks",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593449554.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "059344955X",
+            "isbn13": "9780593449554"
+          },
+          {
+            "isbn10": "0593449568",
+            "isbn13": "9780593449561"
+          },
+          {
+            "isbn10": "0593633237",
+            "isbn13": "9780593633236"
+          },
+          {
+            "isbn10": "0593633229",
+            "isbn13": "9780593633229"
+          }
+        ],
+        "book_uri": "nyt://book/61e3a1f0-08db-5240-9ee0-72308b3b9b9d"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593158350",
+        "primary_isbn13": "9780593158357",
+        "publisher": "Del Rey",
+        "description": "The third book in the Scholomance series. Life after graduation turns out to be dangerous.",
+        "price": "0.00",
+        "title": "THE GOLDEN ENCLAVES",
+        "author": "Naomi Novik",
+        "contributor": "by Naomi Novik",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593158357.jpg",
+        "book_image_width": 334,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593158350",
+            "isbn13": "9780593158357"
+          },
+          {
+            "isbn10": "0593158369",
+            "isbn13": "9780593158364"
+          }
+        ],
+        "book_uri": "nyt://book/e1efddc7-29c4-540a-a550-9d33e0c5f108"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1982112794",
+        "primary_isbn13": "9781982112790",
+        "publisher": "Atria",
+        "description": "The third book in the Beartown series. Rivalries between two hockey-obsessed towns escalate into violence off the ice.",
+        "price": "0.00",
+        "title": "THE WINNERS",
+        "author": "Fredrik Backman",
+        "contributor": "by Fredrik Backman",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781982112790.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1982112794",
+            "isbn13": "9781982112790"
+          },
+          {
+            "isbn10": "1982112816",
+            "isbn13": "9781982112813"
+          }
+        ],
+        "book_uri": "nyt://book/6834b325-5cc2-5afb-8c3e-294d198a6ee7"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250766966",
+        "primary_isbn13": "9781250766960",
+        "publisher": "Minotaur",
+        "description": "The sixth book in the Cassie Dewell series. Cassie works two cases involving buried treasure and a con man.",
+        "price": "0.00",
+        "title": "TREASURE STATE",
+        "author": "C.J. Box",
+        "contributor": "by C.J. Box",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250766960.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250766966",
+            "isbn13": "9781250766960"
+          },
+          {
+            "isbn10": "1250768039",
+            "isbn13": "9781250768032"
+          }
+        ],
+        "book_uri": "nyt://book/658962a0-4d18-5327-83fd-5c4a74c77253"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 4,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0316499633",
+        "primary_isbn13": "9780316499637",
+        "publisher": "Little, Brown",
+        "description": "President Keegan Barrett’s power grab tests the loyalties of two C.I.A. agents.",
+        "price": "0.00",
+        "title": "BLOWBACK",
+        "author": "James Patterson and Brendan DuBois",
+        "contributor": "by James Patterson and Brendan DuBois",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316499637.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316499633",
+            "isbn13": "9780316499637"
+          },
+          {
+            "isbn10": "031649965X",
+            "isbn13": "9780316499651"
+          },
+          {
+            "isbn10": "031647343X",
+            "isbn13": "9780316473439"
+          }
+        ],
+        "book_uri": "nyt://book/befe7f67-43f1-565e-b59f-6c9e3c22a089"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 7,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1982164913",
+        "primary_isbn13": "9781982164911",
+        "publisher": "Atria/Emily Bestler",
+        "description": "The 21st book in the Mitch Rapp series. President Cook, a team of assassins and a killer known as Legion confront Rapp on different fronts.",
+        "price": "0.00",
+        "title": "VINCE FLYNN: OATH OF LOYALTY",
+        "author": "Kyle Mills",
+        "contributor": "by Kyle Mills",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781982164911.jpg",
+        "book_image_width": 327,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1982164913",
+            "isbn13": "9781982164911"
+          },
+          {
+            "isbn10": "198216493X",
+            "isbn13": "9781982164935"
+          }
+        ],
+        "book_uri": "nyt://book/c5e118a2-4181-5c35-9fee-c0c68a55854c"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1538706326",
+        "primary_isbn13": "9781538706329",
+        "publisher": "Grand Central",
+        "description": "A private investigator named Pinky helps an attorney try to clear a female police chief of sexual misconduct charges made by three male officers.",
+        "price": "0.00",
+        "title": "SUSPECT",
+        "author": "Scott Turow",
+        "contributor": "by Scott Turow",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781538706329.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1538706326",
+            "isbn13": "9781538706329"
+          },
+          {
+            "isbn10": "1538726580",
+            "isbn13": "9781538726587"
+          },
+          {
+            "isbn10": "1538706350",
+            "isbn13": "9781538706350"
+          }
+        ],
+        "book_uri": "nyt://book/562b6a85-ab94-5a9c-9107-fc4b61ac26b2"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1638930147",
+        "primary_isbn13": "9781638930143",
+        "publisher": "Zando",
+        "description": "A forensic pathologist is on the trail of a serial killer in the Louisiana bayou.",
+        "price": "0.00",
+        "title": "THE BUTCHER AND THE WREN",
+        "author": "Alaina Urquhart",
+        "contributor": "by Alaina Urquhart",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781638930143.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1638930147",
+            "isbn13": "9781638930143"
+          }
+        ],
+        "book_uri": "nyt://book/5751d4ec-22c1-5b5a-af52-b81ac819258f"
+      },
+      {
+        "rank": 11,
+        "rank_last_week": 8,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593496477",
+        "primary_isbn13": "9780593496473",
+        "publisher": "Bantam",
+        "description": "A journalist who returns to her hometown vows to find a missing girl and solve a 20-year-old cold case.",
+        "price": "0.00",
+        "title": "ALL GOOD PEOPLE HERE",
+        "author": "Ashley Flowers with Alex Kiester",
+        "contributor": "by Ashley Flowers with Alex Kiester",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593496473.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593496477",
+            "isbn13": "9780593496473"
+          },
+          {
+            "isbn10": "0593496485",
+            "isbn13": "9780593496480"
+          }
+        ],
+        "book_uri": "nyt://book/bcd83101-adb5-5ef7-aa35-9514fbe16961"
+      },
+      {
+        "rank": 12,
+        "rank_last_week": 11,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "038554734X",
+        "primary_isbn13": "9780385547345",
+        "publisher": "Doubleday",
+        "description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+        "price": "0.00",
+        "title": "LESSONS IN CHEMISTRY",
+        "author": "Bonnie Garmus",
+        "contributor": "by Bonnie Garmus",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+        "book_image_width": 328,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "038554734X",
+            "isbn13": "9780385547345"
+          },
+          {
+            "isbn10": "0593507533",
+            "isbn13": "9780593507537"
+          }
+        ],
+        "book_uri": "nyt://book/717e0ead-9782-567d-af27-d9a6cfb1856f"
+      },
+      {
+        "rank": 13,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0385547978",
+        "primary_isbn13": "9780385547970",
+        "publisher": "Doubleday",
+        "description": "In the nightlife world of 1926 London, Nellie Coker seeks to advance her six children.",
+        "price": "0.00",
+        "title": "SHRINES OF GAIETY",
+        "author": "Kate Atkinson",
+        "contributor": "by Kate Atkinson",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780385547970.jpg",
+        "book_image_width": 325,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0385547978",
+            "isbn13": "9780385547970"
+          }
+        ],
+        "book_uri": "nyt://book/3d9f01dd-3c3f-5674-89f1-0f9930c0ece3"
+      },
+      {
+        "rank": 14,
+        "rank_last_week": 5,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593446062",
+        "primary_isbn13": "9780593446065",
+        "publisher": "Random House",
+        "description": "As the pandemic starts, Lucy Barton and her ex-husband go to a small town in Maine, where they confront their shared history.",
+        "price": "0.00",
+        "title": "LUCY BY THE SEA",
+        "author": "Elizabeth Strout",
+        "contributor": "by Elizabeth Strout",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593446065.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593446062",
+            "isbn13": "9780593446065"
+          },
+          {
+            "isbn10": "0593446070",
+            "isbn13": "9780593446072"
+          }
+        ],
+        "book_uri": "nyt://book/504b7c3d-6a49-5ffd-b0a3-f57faf5d0583"
+      },
+      {
+        "rank": 15,
+        "rank_last_week": 9,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593158687",
+        "primary_isbn13": "9780593158685",
+        "publisher": "Ballantine",
+        "description": "A tennis player comes out of retirement and trains with her father to defend her record.",
+        "price": "0.00",
+        "title": "CARRIE SOTO IS BACK",
+        "author": "Taylor Jenkins Reid",
+        "contributor": "by Taylor Jenkins Reid",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593158685.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593158687",
+            "isbn13": "9780593158685"
+          },
+          {
+            "isbn10": "0593158695",
+            "isbn13": "9780593158692"
+          },
+          {
+            "isbn10": "0593632109",
+            "isbn13": "9780593632109"
+          }
+        ],
+        "book_uri": "nyt://book/6c803fcf-d473-561a-bff4-70afb1394a28"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "bestsellers_date": "2022-10-08",
+    "published_date": "2022-10-23",
+    "published_date_description": "",
+    "next_published_date": "2022-10-30",
+    "previous_published_date": "2022-10-16",
+    "display_name": "Hardcover Fiction",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1668002175",
+        "primary_isbn13": "9781668002179",
+        "publisher": "Scribner",
+        "description": "A high school kid inherits a shed that is a portal to another world where good and evil are at war.",
+        "price": "0.00",
+        "title": "FAIRY TALE",
+        "author": "Stephen King",
+        "contributor": "by Stephen King",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781668002179.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": ""
+          },
+          {
+            "isbn10": "1668002175",
+            "isbn13": "9781668002179"
+          },
+          {
+            "isbn10": "1668002183",
+            "isbn13": "9781668002186"
+          },
+          {
+            "isbn10": "1797145282",
+            "isbn13": "9781797145280"
+          }
+        ],
+        "book_uri": "nyt://book/1c203c2d-147d-5639-8e0c-009ba6f15698"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593422473",
+        "primary_isbn13": "9780593422472",
+        "publisher": "Putnam",
+        "description": "The 32nd book in the Prey series. Virgil Flowers and Lucas Davenport go after a group of vigilante killers.",
+        "price": "0.00",
+        "title": "RIGHTEOUS PREY",
+        "author": "John Sandford",
+        "contributor": "by John Sandford",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593422472.jpg",
+        "book_image_width": 332,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593422473",
+            "isbn13": "9780593422472"
+          },
+          {
+            "isbn10": "0593422481",
+            "isbn13": "9780593422489"
+          },
+          {
+            "isbn10": "059363263X",
+            "isbn13": "9780593632635"
+          }
+        ],
+        "book_uri": "nyt://book/4b6df594-5dfb-57b8-9f78-c40b632a54c6"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1984818384",
+        "primary_isbn13": "9781984818386",
+        "publisher": "Ballantine",
+        "description": "After returning to her hometown, Olivia McAfee’s son gets accused of killing his crush.",
+        "price": "0.00",
+        "title": "MAD HONEY",
+        "author": "Jodi Picoult and Jennifer Finney Boylan",
+        "contributor": "by Jodi Picoult and Jennifer Finney Boylan",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781984818386.jpg",
+        "book_image_width": 328,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1984818384",
+            "isbn13": "9781984818386"
+          },
+          {
+            "isbn10": "1984818392",
+            "isbn13": "9781984818393"
+          }
+        ],
+        "book_uri": "nyt://book/8af7bc3e-8c1e-5bb1-820c-06169fac15b1"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 3,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "059344955X",
+        "primary_isbn13": "9780593449554",
+        "publisher": "Random House",
+        "description": "Musicians from different backgrounds are attracted to each other and a mother flees with her son from an abusive husband.",
+        "price": "0.00",
+        "title": "DREAMLAND",
+        "author": "Nicholas Sparks",
+        "contributor": "by Nicholas Sparks",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593449554.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "059344955X",
+            "isbn13": "9780593449554"
+          },
+          {
+            "isbn10": "0593449568",
+            "isbn13": "9780593449561"
+          },
+          {
+            "isbn10": "0593633237",
+            "isbn13": "9780593633236"
+          },
+          {
+            "isbn10": "0593633229",
+            "isbn13": "9780593633229"
+          }
+        ],
+        "book_uri": "nyt://book/61e3a1f0-08db-5240-9ee0-72308b3b9b9d"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593492544",
+        "primary_isbn13": "9780593492543",
+        "publisher": "Penguin Press",
+        "description": "Twelve-year-old Bird Gardner goes on a quest to find his mother, a Chinese American poet whose work he was taught to disavow.",
+        "price": "0.00",
+        "title": "OUR MISSING HEARTS",
+        "author": "Celeste Ng",
+        "contributor": "by Celeste Ng",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593492543.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593492544",
+            "isbn13": "9780593492543"
+          }
+        ],
+        "book_uri": "nyt://book/2f2fce78-87d5-5355-9891-8abe4d77f407"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1538739720",
+        "primary_isbn13": "9781538739723",
+        "publisher": "Grand Central",
+        "description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+        "price": "0.00",
+        "title": "VERITY",
+        "author": "Colleen Hoover",
+        "contributor": "by Colleen Hoover",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+        "book_image_width": 324,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1791392792",
+            "isbn13": "9781791392796"
+          },
+          {
+            "isbn10": "153872474X",
+            "isbn13": "9781538724743"
+          },
+          {
+            "isbn10": "1538724731",
+            "isbn13": "9781538724736"
+          },
+          {
+            "isbn10": "1538739720",
+            "isbn13": "9781538739723"
+          }
+        ],
+        "book_uri": "nyt://book/3604acc2-bfc6-541f-9220-6bd077b283ff"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 5,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1982112794",
+        "primary_isbn13": "9781982112790",
+        "publisher": "Atria",
+        "description": "The third book in the Beartown series. Rivalries between two hockey-obsessed towns escalate into violence off the ice.",
+        "price": "0.00",
+        "title": "THE WINNERS",
+        "author": "Fredrik Backman",
+        "contributor": "by Fredrik Backman",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781982112790.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1982112794",
+            "isbn13": "9781982112790"
+          },
+          {
+            "isbn10": "1982112816",
+            "isbn13": "9781982112813"
+          }
+        ],
+        "book_uri": "nyt://book/6834b325-5cc2-5afb-8c3e-294d198a6ee7"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0316460915",
+        "primary_isbn13": "9780316460910",
+        "publisher": "Little, Brown",
+        "description": "A collection of nine stories set during summers in Nantucket.",
+        "price": "0.00",
+        "title": "ENDLESS SUMMER",
+        "author": "Elin Hilderbrand",
+        "contributor": "by Elin Hilderbrand",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316460910.jpg",
+        "book_image_width": 323,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316460915",
+            "isbn13": "9780316460910"
+          },
+          {
+            "isbn10": "0316474525",
+            "isbn13": "9780316474528"
+          },
+          {
+            "isbn10": "031646113X",
+            "isbn13": "9780316461139"
+          }
+        ],
+        "book_uri": "nyt://book/b7496b8e-b965-5f3d-974e-e8473c730e4c"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250766966",
+        "primary_isbn13": "9781250766960",
+        "publisher": "Minotaur",
+        "description": "The sixth book in the Cassie Dewell series. Cassie works two cases involving buried treasure and a con man.",
+        "price": "0.00",
+        "title": "TREASURE STATE",
+        "author": "C.J. Box",
+        "contributor": "by C.J. Box",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250766960.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250766966",
+            "isbn13": "9781250766960"
+          },
+          {
+            "isbn10": "1250768039",
+            "isbn13": "9781250768032"
+          }
+        ],
+        "book_uri": "nyt://book/658962a0-4d18-5327-83fd-5c4a74c77253"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 7,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0316499633",
+        "primary_isbn13": "9780316499637",
+        "publisher": "Little, Brown",
+        "description": "President Keegan Barrett’s power grab tests the loyalties of two C.I.A. agents.",
+        "price": "0.00",
+        "title": "BLOWBACK",
+        "author": "James Patterson and Brendan DuBois",
+        "contributor": "by James Patterson and Brendan DuBois",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316499637.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316499633",
+            "isbn13": "9780316499637"
+          },
+          {
+            "isbn10": "031649965X",
+            "isbn13": "9780316499651"
+          },
+          {
+            "isbn10": "031647343X",
+            "isbn13": "9780316473439"
+          }
+        ],
+        "book_uri": "nyt://book/befe7f67-43f1-565e-b59f-6c9e3c22a089"
+      },
+      {
+        "rank": 11,
+        "rank_last_week": 8,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1982164913",
+        "primary_isbn13": "9781982164911",
+        "publisher": "Atria/Emily Bestler",
+        "description": "The 21st book in the Mitch Rapp series. President Cook, a team of assassins and a killer known as Legion confront Rapp on different fronts.",
+        "price": "0.00",
+        "title": "VINCE FLYNN: OATH OF LOYALTY",
+        "author": "Kyle Mills",
+        "contributor": "by Kyle Mills",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781982164911.jpg",
+        "book_image_width": 327,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1982164913",
+            "isbn13": "9781982164911"
+          },
+          {
+            "isbn10": "198216493X",
+            "isbn13": "9781982164935"
+          }
+        ],
+        "book_uri": "nyt://book/c5e118a2-4181-5c35-9fee-c0c68a55854c"
+      },
+      {
+        "rank": 12,
+        "rank_last_week": 12,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "038554734X",
+        "primary_isbn13": "9780385547345",
+        "publisher": "Doubleday",
+        "description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+        "price": "0.00",
+        "title": "LESSONS IN CHEMISTRY",
+        "author": "Bonnie Garmus",
+        "contributor": "by Bonnie Garmus",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+        "book_image_width": 328,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "038554734X",
+            "isbn13": "9780385547345"
+          },
+          {
+            "isbn10": "0593507533",
+            "isbn13": "9780593507537"
+          }
+        ],
+        "book_uri": "nyt://book/717e0ead-9782-567d-af27-d9a6cfb1856f"
+      },
+      {
+        "rank": 13,
+        "rank_last_week": 11,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593496477",
+        "primary_isbn13": "9780593496473",
+        "publisher": "Bantam",
+        "description": "A journalist who returns to her hometown vows to find a missing girl and solve a 20-year-old cold case.",
+        "price": "0.00",
+        "title": "ALL GOOD PEOPLE HERE",
+        "author": "Ashley Flowers with Alex Kiester",
+        "contributor": "by Ashley Flowers with Alex Kiester",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593496473.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593496477",
+            "isbn13": "9780593496473"
+          },
+          {
+            "isbn10": "0593496485",
+            "isbn13": "9780593496480"
+          }
+        ],
+        "book_uri": "nyt://book/bcd83101-adb5-5ef7-aa35-9514fbe16961"
+      },
+      {
+        "rank": 14,
+        "rank_last_week": 10,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1638930147",
+        "primary_isbn13": "9781638930143",
+        "publisher": "Zando",
+        "description": "A forensic pathologist is on the trail of a serial killer in the Louisiana bayou.",
+        "price": "0.00",
+        "title": "THE BUTCHER AND THE WREN",
+        "author": "Alaina Urquhart",
+        "contributor": "by Alaina Urquhart",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781638930143.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1638930147",
+            "isbn13": "9781638930143"
+          }
+        ],
+        "book_uri": "nyt://book/5751d4ec-22c1-5b5a-af52-b81ac819258f"
+      },
+      {
+        "rank": 15,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593321707",
+        "primary_isbn13": "9780593321706",
+        "publisher": "Knopf",
+        "description": "In 1928, an orphan and her family create a theater from the rib cage of a whale, which should be the property of the king.",
+        "price": "0.00",
+        "title": "THE WHALEBONE THEATRE",
+        "author": "Joanna Quinn",
+        "contributor": "by Joanna Quinn",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593321706.jpg",
+        "book_image_width": 336,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593321707",
+            "isbn13": "9780593321706"
+          }
+        ],
+        "book_uri": "nyt://book/deca6d25-763c-5d2e-8ea2-0601faf4cfbe"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "bestsellers_date": "2022-10-15",
+    "published_date": "2022-10-30",
+    "published_date_description": "one_before_latest",
+    "next_published_date": "2022-11-06",
+    "previous_published_date": "2022-10-23",
+    "display_name": "Hardcover Fiction",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1538719827",
+        "primary_isbn13": "9781538719824",
+        "publisher": "Grand Central",
+        "description": "The seventh book in the Memory Man series. Decker works with a new partner to investigate a double homicide.",
+        "price": "0.00",
+        "title": "LONG SHADOWS",
+        "author": "David Baldacci",
+        "contributor": "by David Baldacci",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781538719824.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1538719827",
+            "isbn13": "9781538719824"
+          },
+          {
+            "isbn10": "1538739763",
+            "isbn13": "9781538739761"
+          },
+          {
+            "isbn10": "1538719819",
+            "isbn13": "9781538719817"
+          },
+          {
+            "isbn10": "1538719797",
+            "isbn13": "9781538719794"
+          }
+        ],
+        "book_uri": "nyt://book/b14c0c7a-c260-5808-b5db-b72e7a45772f"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1668002175",
+        "primary_isbn13": "9781668002179",
+        "publisher": "Scribner",
+        "description": "A high school kid inherits a shed that is a portal to another world where good and evil are at war.",
+        "price": "0.00",
+        "title": "FAIRY TALE",
+        "author": "Stephen King",
+        "contributor": "by Stephen King",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781668002179.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": ""
+          },
+          {
+            "isbn10": "1668002175",
+            "isbn13": "9781668002179"
+          },
+          {
+            "isbn10": "1668002183",
+            "isbn13": "9781668002186"
+          },
+          {
+            "isbn10": "1797145282",
+            "isbn13": "9781797145280"
+          }
+        ],
+        "book_uri": "nyt://book/1c203c2d-147d-5639-8e0c-009ba6f15698"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1501101781",
+        "primary_isbn13": "9781501101786",
+        "publisher": "Scribner",
+        "description": "The eighth book in the John Corey series. When a former lover offers him a job, Corey comes out of forced retirement to track a serial killer.",
+        "price": "0.00",
+        "title": "THE MAZE",
+        "author": "Nelson DeMille",
+        "contributor": "by Nelson DeMille",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781501101786.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1501101781",
+            "isbn13": "9781501101786"
+          },
+          {
+            "isbn10": "1501101803",
+            "isbn13": "9781501101809"
+          }
+        ],
+        "book_uri": "nyt://book/fb1cb6b6-eda1-5dbb-a053-c39f751edd55"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 4,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "059344955X",
+        "primary_isbn13": "9780593449554",
+        "publisher": "Random House",
+        "description": "Musicians from different backgrounds are attracted to each other and a mother flees with her son from an abusive husband.",
+        "price": "0.00",
+        "title": "DREAMLAND",
+        "author": "Nicholas Sparks",
+        "contributor": "by Nicholas Sparks",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593449554.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "059344955X",
+            "isbn13": "9780593449554"
+          },
+          {
+            "isbn10": "0593449568",
+            "isbn13": "9780593449561"
+          },
+          {
+            "isbn10": "0593633237",
+            "isbn13": "9780593633236"
+          },
+          {
+            "isbn10": "0593633229",
+            "isbn13": "9780593633229"
+          }
+        ],
+        "book_uri": "nyt://book/61e3a1f0-08db-5240-9ee0-72308b3b9b9d"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 3,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1984818384",
+        "primary_isbn13": "9781984818386",
+        "publisher": "Ballantine",
+        "description": "After returning to her hometown, Olivia McAfee’s son gets accused of killing his crush.",
+        "price": "0.00",
+        "title": "MAD HONEY",
+        "author": "Jodi Picoult and Jennifer Finney Boylan",
+        "contributor": "by Jodi Picoult and Jennifer Finney Boylan",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781984818386.jpg",
+        "book_image_width": 328,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1984818384",
+            "isbn13": "9781984818386"
+          },
+          {
+            "isbn10": "1984818392",
+            "isbn13": "9781984818393"
+          }
+        ],
+        "book_uri": "nyt://book/8af7bc3e-8c1e-5bb1-820c-06169fac15b1"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 5,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593492544",
+        "primary_isbn13": "9780593492543",
+        "publisher": "Penguin Press",
+        "description": "Twelve-year-old Bird Gardner goes on a quest to find his mother, a Chinese American poet whose work he was taught to disavow.",
+        "price": "0.00",
+        "title": "OUR MISSING HEARTS",
+        "author": "Celeste Ng",
+        "contributor": "by Celeste Ng",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593492543.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593492544",
+            "isbn13": "9780593492543"
+          }
+        ],
+        "book_uri": "nyt://book/2f2fce78-87d5-5355-9891-8abe4d77f407"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250856035",
+        "primary_isbn13": "9781250856036",
+        "publisher": "St. Martin's Griffin",
+        "description": "A staged friendship between the son of the president and his rival, the Prince of Wales, evolves into a secret and potentially dangerous romance.",
+        "price": "0.00",
+        "title": "RED, WHITE & ROYAL BLUE",
+        "author": "Casey McQuiston",
+        "contributor": "by Casey McQuiston",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250316776.jpg",
+        "book_image_width": 323,
+        "book_image_height": 495,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250316774",
+            "isbn13": "9781250316776"
+          },
+          {
+            "isbn10": "1250856035",
+            "isbn13": "9781250856036"
+          }
+        ],
+        "book_uri": "nyt://book/01e1f41d-81b0-5b38-95bc-d8a6b5432a2c"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1984821741",
+        "primary_isbn13": "9781984821744",
+        "publisher": "Delacorte",
+        "description": "Beginning at age 12, Iris Cooper endures a number of hardships in hopes of finding success as a singer.",
+        "price": "0.00",
+        "title": "THE HIGH NOTES",
+        "author": "Danielle Steel",
+        "contributor": "by Danielle Steel",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781984821744.jpg",
+        "book_image_width": 328,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1984821741",
+            "isbn13": "9781984821744"
+          },
+          {
+            "isbn10": "198482175X",
+            "isbn13": "9781984821751"
+          }
+        ],
+        "book_uri": "nyt://book/5284d6f3-ec4d-5cf8-90c3-4cbc2857c1bf"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593422473",
+        "primary_isbn13": "9780593422472",
+        "publisher": "Putnam",
+        "description": "The 32nd book in the Prey series. Virgil Flowers and Lucas Davenport go after a group of vigilante killers.",
+        "price": "0.00",
+        "title": "RIGHTEOUS PREY",
+        "author": "John Sandford",
+        "contributor": "by John Sandford",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593422472.jpg",
+        "book_image_width": 332,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593422473",
+            "isbn13": "9780593422472"
+          },
+          {
+            "isbn10": "0593422481",
+            "isbn13": "9780593422489"
+          },
+          {
+            "isbn10": "059363263X",
+            "isbn13": "9780593632635"
+          }
+        ],
+        "book_uri": "nyt://book/4b6df594-5dfb-57b8-9f78-c40b632a54c6"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1538739720",
+        "primary_isbn13": "9781538739723",
+        "publisher": "Grand Central",
+        "description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+        "price": "0.00",
+        "title": "VERITY",
+        "author": "Colleen Hoover",
+        "contributor": "by Colleen Hoover",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+        "book_image_width": 324,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1791392792",
+            "isbn13": "9781791392796"
+          },
+          {
+            "isbn10": "153872474X",
+            "isbn13": "9781538724743"
+          },
+          {
+            "isbn10": "1538724731",
+            "isbn13": "9781538724736"
+          },
+          {
+            "isbn10": "1538739720",
+            "isbn13": "9781538739723"
+          }
+        ],
+        "book_uri": "nyt://book/3604acc2-bfc6-541f-9220-6bd077b283ff"
+      },
+      {
+        "rank": 11,
+        "rank_last_week": 7,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1982112794",
+        "primary_isbn13": "9781982112790",
+        "publisher": "Atria",
+        "description": "The third book in the Beartown series. Rivalries between two hockey-obsessed towns escalate into violence off the ice.",
+        "price": "0.00",
+        "title": "THE WINNERS",
+        "author": "Fredrik Backman",
+        "contributor": "by Fredrik Backman",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781982112790.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1982112794",
+            "isbn13": "9781982112790"
+          },
+          {
+            "isbn10": "1982112816",
+            "isbn13": "9781982112813"
+          }
+        ],
+        "book_uri": "nyt://book/6834b325-5cc2-5afb-8c3e-294d198a6ee7"
+      },
+      {
+        "rank": 12,
+        "rank_last_week": 12,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "038554734X",
+        "primary_isbn13": "9780385547345",
+        "publisher": "Doubleday",
+        "description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+        "price": "0.00",
+        "title": "LESSONS IN CHEMISTRY",
+        "author": "Bonnie Garmus",
+        "contributor": "by Bonnie Garmus",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+        "book_image_width": 328,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "038554734X",
+            "isbn13": "9780385547345"
+          },
+          {
+            "isbn10": "0593507533",
+            "isbn13": "9780593507537"
+          }
+        ],
+        "book_uri": "nyt://book/717e0ead-9782-567d-af27-d9a6cfb1856f"
+      },
+      {
+        "rank": 13,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593540034",
+        "primary_isbn13": "9780593540039",
+        "publisher": "Putnam",
+        "description": "The 63rd book in the Stone Barrington series. Further adventures begin when a dead man turns up on Stone’s doorstep.",
+        "price": "0.00",
+        "title": "DISTANT THUNDER",
+        "author": "Stuart Woods",
+        "contributor": "by Stuart Woods",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593540039.jpg",
+        "book_image_width": 330,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593540034",
+            "isbn13": "9780593540039"
+          },
+          {
+            "isbn10": "0593540042",
+            "isbn13": "9780593540046"
+          }
+        ],
+        "book_uri": "nyt://book/50ac83e9-c636-5a0f-88e5-74768d923905"
+      },
+      {
+        "rank": 14,
+        "rank_last_week": 10,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0316499633",
+        "primary_isbn13": "9780316499637",
+        "publisher": "Little, Brown",
+        "description": "President Keegan Barrett’s power grab tests the loyalties of two C.I.A. agents.",
+        "price": "0.00",
+        "title": "BLOWBACK",
+        "author": "James Patterson and Brendan DuBois",
+        "contributor": "by James Patterson and Brendan DuBois",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316499637.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316499633",
+            "isbn13": "9780316499637"
+          },
+          {
+            "isbn10": "031649965X",
+            "isbn13": "9780316499651"
+          },
+          {
+            "isbn10": "031647343X",
+            "isbn13": "9780316473439"
+          }
+        ],
+        "book_uri": "nyt://book/befe7f67-43f1-565e-b59f-6c9e3c22a089"
+      },
+      {
+        "rank": 15,
+        "rank_last_week": 13,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593496477",
+        "primary_isbn13": "9780593496473",
+        "publisher": "Bantam",
+        "description": "A journalist who returns to her hometown vows to find a missing girl and solve a 20-year-old cold case.",
+        "price": "0.00",
+        "title": "ALL GOOD PEOPLE HERE",
+        "author": "Ashley Flowers with Alex Kiester",
+        "contributor": "by Ashley Flowers with Alex Kiester",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593496473.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593496477",
+            "isbn13": "9780593496473"
+          },
+          {
+            "isbn10": "0593496485",
+            "isbn13": "9780593496480"
+          }
+        ],
+        "book_uri": "nyt://book/bcd83101-adb5-5ef7-aa35-9514fbe16961"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "bestsellers_date": "2022-10-22",
+    "published_date": "2022-11-06",
+    "published_date_description": "latest",
+    "next_published_date": "",
+    "previous_published_date": "2022-10-30",
+    "display_name": "Hardcover Fiction",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0385548923",
+        "primary_isbn13": "9780385548922",
+        "publisher": "Doubleday",
+        "description": "Two childhood friends follow in their fathers’ footsteps, which puts them on opposite sides of the law.",
+        "price": "0.00",
+        "title": "THE BOYS FROM BILOXI",
+        "author": "John Grisham",
+        "contributor": "by John Grisham",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780385548922.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0385548923",
+            "isbn13": "9780385548922"
+          },
+          {
+            "isbn10": "0385548931",
+            "isbn13": "9780385548939"
+          }
+        ],
+        "book_uri": "nyt://book/b59f42c0-d9d0-5535-bf4b-21e5d04d3a46"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0063251922",
+        "primary_isbn13": "9780063251922",
+        "publisher": "Harper",
+        "description": "A reimagining of Charles Dickens’s “David Copperfield” set in the mountains of southern Appalachia.",
+        "price": "0.00",
+        "title": "DEMON COPPERHEAD",
+        "author": "Barbara Kingsolver",
+        "contributor": "by Barbara Kingsolver",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780063251922.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0063251922",
+            "isbn13": "9780063251922"
+          },
+          {
+            "isbn10": "006325199X",
+            "isbn13": "9780063251991"
+          }
+        ],
+        "book_uri": "nyt://book/dd6e4f9d-d082-552d-b888-7276a25b5aca"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1668002175",
+        "primary_isbn13": "9781668002179",
+        "publisher": "Scribner",
+        "description": "A high school kid inherits a shed that is a portal to another world where good and evil are at war.",
+        "price": "0.00",
+        "title": "FAIRY TALE",
+        "author": "Stephen King",
+        "contributor": "by Stephen King",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781668002179.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": ""
+          },
+          {
+            "isbn10": "1668002175",
+            "isbn13": "9781668002179"
+          },
+          {
+            "isbn10": "1668002183",
+            "isbn13": "9781668002186"
+          },
+          {
+            "isbn10": "1797145282",
+            "isbn13": "9781797145280"
+          }
+        ],
+        "book_uri": "nyt://book/1c203c2d-147d-5639-8e0c-009ba6f15698"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1538719827",
+        "primary_isbn13": "9781538719824",
+        "publisher": "Grand Central",
+        "description": "The seventh book in the Memory Man series. Decker works with a new partner to investigate a double homicide.",
+        "price": "0.00",
+        "title": "LONG SHADOWS",
+        "author": "David Baldacci",
+        "contributor": "by David Baldacci",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781538719824.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1538719827",
+            "isbn13": "9781538719824"
+          },
+          {
+            "isbn10": "1538739763",
+            "isbn13": "9781538739761"
+          },
+          {
+            "isbn10": "1538719819",
+            "isbn13": "9781538719817"
+          },
+          {
+            "isbn10": "1538719797",
+            "isbn13": "9781538719794"
+          }
+        ],
+        "book_uri": "nyt://book/b14c0c7a-c260-5808-b5db-b72e7a45772f"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 4,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "059344955X",
+        "primary_isbn13": "9780593449554",
+        "publisher": "Random House",
+        "description": "Musicians from different backgrounds are attracted to each other and a mother flees with her son from an abusive husband.",
+        "price": "0.00",
+        "title": "DREAMLAND",
+        "author": "Nicholas Sparks",
+        "contributor": "by Nicholas Sparks",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593449554.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "059344955X",
+            "isbn13": "9780593449554"
+          },
+          {
+            "isbn10": "0593449568",
+            "isbn13": "9780593449561"
+          },
+          {
+            "isbn10": "0593633237",
+            "isbn13": "9780593633236"
+          },
+          {
+            "isbn10": "0593633229",
+            "isbn13": "9780593633229"
+          }
+        ],
+        "book_uri": "nyt://book/61e3a1f0-08db-5240-9ee0-72308b3b9b9d"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 5,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1984818384",
+        "primary_isbn13": "9781984818386",
+        "publisher": "Ballantine",
+        "description": "After returning to her hometown, Olivia McAfee’s son gets accused of killing his crush.",
+        "price": "0.00",
+        "title": "MAD HONEY",
+        "author": "Jodi Picoult and Jennifer Finney Boylan",
+        "contributor": "by Jodi Picoult and Jennifer Finney Boylan",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781984818386.jpg",
+        "book_image_width": 328,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1984818384",
+            "isbn13": "9781984818386"
+          },
+          {
+            "isbn10": "1984818392",
+            "isbn13": "9781984818393"
+          }
+        ],
+        "book_uri": "nyt://book/8af7bc3e-8c1e-5bb1-820c-06169fac15b1"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 3,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1501101781",
+        "primary_isbn13": "9781501101786",
+        "publisher": "Scribner",
+        "description": "The eighth book in the John Corey series. When a former lover offers him a job, Corey comes out of forced retirement to track a serial killer.",
+        "price": "0.00",
+        "title": "THE MAZE",
+        "author": "Nelson DeMille",
+        "contributor": "by Nelson DeMille",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781501101786.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1501101781",
+            "isbn13": "9781501101786"
+          },
+          {
+            "isbn10": "1501101803",
+            "isbn13": "9781501101809"
+          }
+        ],
+        "book_uri": "nyt://book/fb1cb6b6-eda1-5dbb-a053-c39f751edd55"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 10,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1538739720",
+        "primary_isbn13": "9781538739723",
+        "publisher": "Grand Central",
+        "description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+        "price": "0.00",
+        "title": "VERITY",
+        "author": "Colleen Hoover",
+        "contributor": "by Colleen Hoover",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+        "book_image_width": 324,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1791392792",
+            "isbn13": "9781791392796"
+          },
+          {
+            "isbn10": "153872474X",
+            "isbn13": "9781538724743"
+          },
+          {
+            "isbn10": "1538724731",
+            "isbn13": "9781538724736"
+          },
+          {
+            "isbn10": "1538739720",
+            "isbn13": "9781538739723"
+          }
+        ],
+        "book_uri": "nyt://book/3604acc2-bfc6-541f-9220-6bd077b283ff"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593492544",
+        "primary_isbn13": "9780593492543",
+        "publisher": "Penguin Press",
+        "description": "Twelve-year-old Bird Gardner goes on a quest to find his mother, a Chinese American poet whose work he was taught to disavow.",
+        "price": "0.00",
+        "title": "OUR MISSING HEARTS",
+        "author": "Celeste Ng",
+        "contributor": "by Celeste Ng",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593492543.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593492544",
+            "isbn13": "9780593492543"
+          }
+        ],
+        "book_uri": "nyt://book/2f2fce78-87d5-5355-9891-8abe4d77f407"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0525509593",
+        "primary_isbn13": "9780525509592",
+        "publisher": "Random House",
+        "description": "A collection of nine short stories by the author of “Lincoln in the Bardo,” which won the Man Booker Prize.",
+        "price": "0.00",
+        "title": "LIBERATION DAY",
+        "author": "George Saunders",
+        "contributor": "by George Saunders",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780525509592.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0525509593",
+            "isbn13": "9780525509592"
+          }
+        ],
+        "book_uri": "nyt://book/9948a457-43ec-586b-89e3-0e969acd4e18"
+      },
+      {
+        "rank": 11,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1501189271",
+        "primary_isbn13": "9781501189272",
+        "publisher": "Simon & Schuster",
+        "description": "The son of a competitive slalom skier returns to the hotel in Aspen where he was conceived and encounters some ghosts.",
+        "price": "0.00",
+        "title": "THE LAST CHAIRLIFT",
+        "author": "John Irving",
+        "contributor": "by John Irving",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781501189272.jpg",
+        "book_image_width": 334,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1501189271",
+            "isbn13": "9781501189272"
+          }
+        ],
+        "book_uri": "nyt://book/f5065041-0f50-5e9b-b27d-67140f2e2798"
+      },
+      {
+        "rank": 12,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593500105",
+        "primary_isbn13": "9780593500101",
+        "publisher": "Ballantine",
+        "description": "A pastor and a bartender discover love when they switch jobs during the holidays.",
+        "price": "0.00",
+        "title": "THE CHRISTMAS SPIRIT",
+        "author": "Debbie Macomber",
+        "contributor": "by Debbie Macomber",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593500101.jpg",
+        "book_image_width": 342,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593500105",
+            "isbn13": "9780593500101"
+          }
+        ],
+        "book_uri": "nyt://book/531a7f67-df01-5677-807c-0ff5cc29dfc8"
+      },
+      {
+        "rank": 13,
+        "rank_last_week": 9,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593422473",
+        "primary_isbn13": "9780593422472",
+        "publisher": "Putnam",
+        "description": "The 32nd book in the Prey series. Virgil Flowers and Lucas Davenport go after a group of vigilante killers.",
+        "price": "0.00",
+        "title": "RIGHTEOUS PREY",
+        "author": "John Sandford",
+        "contributor": "by John Sandford",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593422472.jpg",
+        "book_image_width": 332,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593422473",
+            "isbn13": "9780593422472"
+          },
+          {
+            "isbn10": "0593422481",
+            "isbn13": "9780593422489"
+          },
+          {
+            "isbn10": "059363263X",
+            "isbn13": "9780593632635"
+          }
+        ],
+        "book_uri": "nyt://book/4b6df594-5dfb-57b8-9f78-c40b632a54c6"
+      },
+      {
+        "rank": 14,
+        "rank_last_week": 12,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "038554734X",
+        "primary_isbn13": "9780385547345",
+        "publisher": "Doubleday",
+        "description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+        "price": "0.00",
+        "title": "LESSONS IN CHEMISTRY",
+        "author": "Bonnie Garmus",
+        "contributor": "by Bonnie Garmus",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+        "book_image_width": 328,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "038554734X",
+            "isbn13": "9780385547345"
+          },
+          {
+            "isbn10": "0593507533",
+            "isbn13": "9780593507537"
+          }
+        ],
+        "book_uri": "nyt://book/717e0ead-9782-567d-af27-d9a6cfb1856f"
+      },
+      {
+        "rank": 15,
+        "rank_last_week": 11,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1982112794",
+        "primary_isbn13": "9781982112790",
+        "publisher": "Atria",
+        "description": "The third book in the Beartown series. Rivalries between two hockey-obsessed towns escalate into violence off the ice.",
+        "price": "0.00",
+        "title": "THE WINNERS",
+        "author": "Fredrik Backman",
+        "contributor": "by Fredrik Backman",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781982112790.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1982112794",
+            "isbn13": "9781982112790"
+          },
+          {
+            "isbn10": "1982112816",
+            "isbn13": "9781982112813"
+          }
+        ],
+        "book_uri": "nyt://book/6834b325-5cc2-5afb-8c3e-294d198a6ee7"
+      }
+    ],
+    "corrections": []
+  }
+]

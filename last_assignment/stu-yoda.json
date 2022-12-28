@@ -1,0 +1,43 @@
+{
+  "url": "https://starwars.fandom.com/wiki/Yoda",
+  "name": "Yoda",
+  "birth_date": {
+    "year": 896,
+    "era": "BBY"
+  },
+  "height_cm": 66.0,
+  "mass_kg": 17.0,
+  "homeworld": {
+    "url": "https://starwars.fandom.com/wiki/Dagobah",
+    "name": "Dagobah",
+    "location": {
+      "region": "Outer Rim Territories",
+      "sector": "Sluis sector"
+    },
+    "suns": 1,
+    "moons": 1,
+    "orbital_period_days": 341.0,
+    "diameter_km": 8900,
+    "gravity_std": null,
+    "climate": [
+      "Murky"
+    ],
+    "terrain": [
+      "Swamp",
+      "Bogs",
+      "Jungles",
+      "Bayous"
+    ],
+    "population": null
+  },
+  "species": {
+    "url": "https://swapi.py4e.com/api/species/6/",
+    "name": "Yoda's species",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_lifespan": 900,
+    "average_height_cm": 66.0,
+    "language": "Galactic basic"
+  },
+  "force_sensitive": true
+}

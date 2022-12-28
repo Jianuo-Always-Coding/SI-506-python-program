@@ -1,0 +1,76 @@
+{
+  "url": "https://starwars.fandom.com/wiki/Razor_Crest",
+  "name": "Razor Crest",
+  "model": "ST-70 class Razor Crest M-111",
+  "starship_class": "gunship",
+  "manufacturer": null,
+  "length_m": 80.0,
+  "max_atmosphering_speed": null,
+  "hyperdrive_rating": null,
+  "top_speed_mglt": null,
+  "armament": [
+    "2 x Mk 3e/W heavy laser cannons"
+  ],
+  "crew_size": 1,
+  "crew_members": null,
+  "max_passengers": 5,
+  "passengers_on_board": [
+    {
+      "url": "https://starwars.fandom.com/wiki/Din_Djarin",
+      "name": "Din Djarin",
+      "birth_year": "prior to 19BBY",
+      "height_cm": 180.0,
+      "mass_kg": null,
+      "homeworld": {
+        "url": "https://starwars.fandom.com/wiki/Aq_Vetina",
+        "name": "Aq Vetina",
+        "region": null,
+        "sector": null,
+        "suns": null,
+        "moons": null,
+        "orbital_period_days": null,
+        "diameter_km": null,
+        "gravity_std": null,
+        "climate": null,
+        "terrain": null,
+        "population": null
+      },
+      "species": {
+        "url": "https://swapi.py4e.com/api/species/1/",
+        "name": "Human",
+        "classification": "mammal",
+        "designation": "sentient",
+        "average_lifespan": 120,
+        "average_height_cm": 180.0,
+        "language": "Galactic Basic"
+      },
+      "force_sensitive": "False"
+    },
+    {
+      "url": "https://starwars.fandom.com/wiki/Grogu",
+      "name": "Grogu",
+      "birth_year": "41BBY",
+      "height_cm": 34.0,
+      "mass_kg": null,
+      "homeworld": null,
+      "species": {
+        "url": "https://swapi.py4e.com/api/species/6/",
+        "name": "Yoda's species",
+        "classification": "mammal",
+        "designation": "sentient",
+        "average_lifespan": 900,
+        "average_height_cm": 66.0,
+        "language": "Galactic basic"
+      },
+      "force_sensitive": "True"
+    }
+  ],
+  "cargo_capacity_kg": null,
+  "consumables": null,
+  "planets_visited": [
+    "Arvala-7",
+    "Nevarro",
+    "Sorgan",
+    "Tatooine"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://starwars.fandom.com/wiki/Twilight",
+  "name": "Twilight",
+  "model": "G9 Rigger-class light freighter",
+  "starship_class": "Light freighter",
+  "manufacturer": "Corellian Engineering Corporation",
+  "length_m": 34.1,
+  "propulsion": {
+    "hyperdrive_rating": 3.0,
+    "max_megalight_hr": null,
+    "max_atmosphering_speed": 700
+  },
+  "crew": {
+    "crew_size": 2,
+    "crew_members": null
+  },
+  "passengers": {
+    "max_passengers": 6,
+    "on_board": null
+  },
+  "cargo_capacity_kg": 70000,
+  "consumables": "1 month",
+  "armament": [
+    "3 x heavy blasters",
+    "1 x Rotating blaster cannon",
+    "Concussion missile launchers"
+  ]
+}

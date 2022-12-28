@@ -1,0 +1,1450 @@
+[
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2022-09-03",
+    "published_date": "2022-09-18",
+    "published_date_description": "",
+    "next_published_date": "2022-09-25",
+    "previous_published_date": "2022-09-11",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 2,
+        "publisher": "Disney",
+        "description": "Sally, the new Queen of Halloween Town, must save her town from a sleeping curse.",
+        "price": 24.99,
+        "title": "LONG LIVE THE PUMPKIN QUEEN",
+        "author": "Shea Ernshaw",
+        "isbns": [
+          {
+            "isbn10": "1368069606",
+            "isbn13": "9781368069601"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 0,
+        "publisher": "Delacorte",
+        "description": "Brynn investigates the murder of her favorite teacher at Saint Ambrose School, Mr. Larkin.",
+        "price": 27.87,
+        "title": "NOTHING MORE TO TELL",
+        "author": "Karen M. McManus",
+        "isbns": [
+          {
+            "isbn10": "0593175905",
+            "isbn13": "9780593175903"
+          },
+          {
+            "isbn10": "0593175921",
+            "isbn13": "9780593175927"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 0,
+        "publisher": "Disney",
+        "description": "An Illustrated Novelization that retells the story of the film.",
+        "price": 31.99,
+        "title": "HOCUS POCUS: The Illustrated Novelization",
+        "author": "A.W. Jantha.",
+        "isbns": [
+          {
+            "isbn10": "1368076688",
+            "isbn13": "9781368076685"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 0,
+        "publisher": "Little, Brown",
+        "description": "Signa Farrow enters an alliance with Death in order to find a killer.",
+        "price": 14.32,
+        "title": "BELLADONNA",
+        "author": "Adalyn Grace",
+        "isbns": [
+          {
+            "isbn10": "0316158232",
+            "isbn13": "9780316158237"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 1,
+        "publisher": "Amulet",
+        "description": "Every 100 years the island of Lightlark appears and a deadly competition called the Centennial takes place.",
+        "price": 11.99,
+        "title": "LIGHTLARK",
+        "author": "Alex Aster",
+        "isbns": [
+          {
+            "isbn10": "1419760866",
+            "isbn13": "9781419760860"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 0,
+        "publisher": "Knopf",
+        "description": "Princess Shiori is on a dangerous mission to fulfill a deathbed promise.",
+        "price": 30.0,
+        "title": "THE DRAGON'S PROMISE",
+        "author": "Elizabeth Lim",
+        "isbns": [
+          {
+            "isbn10": "0593300955",
+            "isbn13": "9780593300954"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 0,
+        "publisher": "Tor Teen",
+        "description": "In this sequel to \"All of Us Villains,\" the deadly tournament continues.",
+        "price": 32.55,
+        "title": "ALL OF OUR DEMISE",
+        "author": "Amanda Foody and Christine Lynn Herman",
+        "isbns": [
+          {
+            "isbn10": "1250789346",
+            "isbn13": "9781250789341"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 4,
+        "publisher": "Delacorte",
+        "description": "For five students, a detour into detention ends in murder.",
+        "price": 14.95,
+        "title": "ONE OF US IS LYING",
+        "author": "Karen M. McManus",
+        "isbns": [
+          {
+            "isbn10": "1524714682",
+            "isbn13": "9781524714680"
+          },
+          {
+            "isbn10": "1524714690",
+            "isbn13": "9781524714697"
+          },
+          {
+            "isbn10": "1432876856",
+            "isbn13": "9781432876852"
+          },
+          {
+            "isbn10": "0593565371",
+            "isbn13": "9780593565377"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 5,
+        "publisher": "Scholastic",
+        "description": "Georgia, a British teenager, works on accepting her aro-ace identity.",
+        "price": 20.9,
+        "title": "LOVELESS",
+        "author": "Alice Oseman",
+        "isbns": [
+          {
+            "isbn10": "133875193X",
+            "isbn13": "9781338751932"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 6,
+        "publisher": "Delacorte",
+        "description": "This prequel to \u201cWe Were Liars\u201d focuses on Cady's mother and aunts as teenagers in 1987.",
+        "price": 34.0,
+        "title": "FAMILY OF LIARS",
+        "author": "E. Lockhart",
+        "isbns": [
+          {
+            "isbn10": "0593485858",
+            "isbn13": "9780593485859"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2022-09-10",
+    "published_date": "2022-09-25",
+    "published_date_description": "",
+    "next_published_date": "2022-10-02",
+    "previous_published_date": "2022-09-18",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 1,
+        "publisher": "Disney",
+        "description": "Sally, the new Queen of Halloween Town, must save her town from a sleeping curse.",
+        "price": 24.99,
+        "title": "LONG LIVE THE PUMPKIN QUEEN",
+        "author": "Shea Ernshaw",
+        "isbns": [
+          {
+            "isbn10": "1368069606",
+            "isbn13": "9781368069601"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 3,
+        "publisher": "Disney",
+        "description": "An Illustrated Novelization that retells the story of the film.",
+        "price": 31.99,
+        "title": "HOCUS POCUS: The Illustrated Novelization",
+        "author": "A.W. Jantha.",
+        "isbns": [
+          {
+            "isbn10": "1368076688",
+            "isbn13": "9781368076685"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 0,
+        "publisher": "Feiwel & Friends",
+        "description": "Every decade the Sunbearer Trials are held to determine who will light the Sun Stones and the loser is sacrificed to fuel them.",
+        "price": 15.97,
+        "title": "THE SUNBEARER TRIALS",
+        "author": "Aiden Thomas",
+        "isbns": [
+          {
+            "isbn10": "1250822130",
+            "isbn13": "9781250822130"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 5,
+        "publisher": "Amulet",
+        "description": "Every 100 years the island of Lightlark appears and a deadly competition called the Centennial takes place.",
+        "price": 11.99,
+        "title": "LIGHTLARK",
+        "author": "Alex Aster",
+        "isbns": [
+          {
+            "isbn10": "1419760866",
+            "isbn13": "9781419760860"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 2,
+        "publisher": "Delacorte",
+        "description": "Brynn investigates the murder of her favorite teacher at Saint Ambrose School, Mr. Larkin.",
+        "price": 27.87,
+        "title": "NOTHING MORE TO TELL",
+        "author": "Karen M. McManus",
+        "isbns": [
+          {
+            "isbn10": "0593175905",
+            "isbn13": "9780593175903"
+          },
+          {
+            "isbn10": "0593175921",
+            "isbn13": "9780593175927"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 4,
+        "publisher": "Little, Brown",
+        "description": "Signa Farrow enters an alliance with Death in order to find a killer.",
+        "price": 14.32,
+        "title": "BELLADONNA",
+        "author": "Adalyn Grace",
+        "isbns": [
+          {
+            "isbn10": "0316158232",
+            "isbn13": "9780316158237"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 8,
+        "publisher": "Delacorte",
+        "description": "For five students, a detour into detention ends in murder.",
+        "price": 14.95,
+        "title": "ONE OF US IS LYING",
+        "author": "Karen M. McManus",
+        "isbns": [
+          {
+            "isbn10": "1524714682",
+            "isbn13": "9781524714680"
+          },
+          {
+            "isbn10": "1524714690",
+            "isbn13": "9781524714697"
+          },
+          {
+            "isbn10": "1432876856",
+            "isbn13": "9781432876852"
+          },
+          {
+            "isbn10": "0593565371",
+            "isbn13": "9780593565377"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 0,
+        "publisher": "Katherine Tegen",
+        "description": "A bullied biracial girl gets her revenge at her high school's first integrated prom.",
+        "price": 22.0,
+        "title": "THE WEIGHT OF BLOOD",
+        "author": "Tiffany D. Jackson",
+        "isbns": [
+          {
+            "isbn10": "0063029146",
+            "isbn13": "9780063029149"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 9,
+        "publisher": "Scholastic",
+        "description": "Georgia, a British teenager, works on accepting her aro-ace identity.",
+        "price": 20.9,
+        "title": "LOVELESS",
+        "author": "Alice Oseman",
+        "isbns": [
+          {
+            "isbn10": "133875193X",
+            "isbn13": "9781338751932"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 10,
+        "publisher": "Delacorte",
+        "description": "This prequel to \u201cWe Were Liars\u201d focuses on Cady's mother and aunts as teenagers in 1987.",
+        "price": 34.0,
+        "title": "FAMILY OF LIARS",
+        "author": "E. Lockhart",
+        "isbns": [
+          {
+            "isbn10": "0593485858",
+            "isbn13": "9780593485859"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2022-09-17",
+    "published_date": "2022-10-02",
+    "published_date_description": "",
+    "next_published_date": "2022-10-09",
+    "previous_published_date": "2022-09-25",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 0,
+        "publisher": "Flatiron",
+        "description": "After vowing to never trust the Prince of Hearts again, Evangeline finds that he may be the only one she can trust.",
+        "price": 15.99,
+        "title": "THE BALLAD OF NEVER AFTER",
+        "author": "Stephanie Garber",
+        "isbns": [
+          {
+            "isbn10": "1250268427",
+            "isbn13": "9781250268426"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 1,
+        "publisher": "Disney",
+        "description": "Sally, the new Queen of Halloween Town, must save her town from a sleeping curse.",
+        "price": 24.99,
+        "title": "LONG LIVE THE PUMPKIN QUEEN",
+        "author": "Shea Ernshaw",
+        "isbns": [
+          {
+            "isbn10": "1368069606",
+            "isbn13": "9781368069601"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 2,
+        "publisher": "Disney",
+        "description": "An Illustrated Novelization that retells the story of the film.",
+        "price": 31.99,
+        "title": "HOCUS POCUS: The Illustrated Novelization",
+        "author": "A.W. Jantha.",
+        "isbns": [
+          {
+            "isbn10": "1368076688",
+            "isbn13": "9781368076685"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 0,
+        "publisher": "Flatiron",
+        "description": "Evangeline seeks the help of the Prince of Hearts when her love, Luc is bewitched.",
+        "price": 16.98,
+        "title": "ONCE UPON A BROKEN HEART",
+        "author": "Stephanie Garber",
+        "isbns": [
+          {
+            "isbn10": "1250268397",
+            "isbn13": "9781250268396"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 6,
+        "publisher": "Little, Brown",
+        "description": "Signa Farrow enters an alliance with Death in order to find a killer.",
+        "price": 14.32,
+        "title": "BELLADONNA",
+        "author": "Adalyn Grace",
+        "isbns": [
+          {
+            "isbn10": "0316158232",
+            "isbn13": "9780316158237"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 4,
+        "publisher": "Amulet",
+        "description": "Every 100 years the island of Lightlark appears and a deadly competition called the Centennial takes place.",
+        "price": 11.99,
+        "title": "LIGHTLARK",
+        "author": "Alex Aster",
+        "isbns": [
+          {
+            "isbn10": "1419760866",
+            "isbn13": "9781419760860"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 7,
+        "publisher": "Delacorte",
+        "description": "For five students, a detour into detention ends in murder.",
+        "price": 14.95,
+        "title": "ONE OF US IS LYING",
+        "author": "Karen M. McManus",
+        "isbns": [
+          {
+            "isbn10": "1524714682",
+            "isbn13": "9781524714680"
+          },
+          {
+            "isbn10": "1524714690",
+            "isbn13": "9781524714697"
+          },
+          {
+            "isbn10": "1432876856",
+            "isbn13": "9781432876852"
+          },
+          {
+            "isbn10": "0593565371",
+            "isbn13": "9780593565377"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 5,
+        "publisher": "Delacorte",
+        "description": "Brynn investigates the murder of her favorite teacher at Saint Ambrose School, Mr. Larkin.",
+        "price": 27.87,
+        "title": "NOTHING MORE TO TELL",
+        "author": "Karen M. McManus",
+        "isbns": [
+          {
+            "isbn10": "0593175905",
+            "isbn13": "9780593175903"
+          },
+          {
+            "isbn10": "0593175921",
+            "isbn13": "9780593175927"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 3,
+        "publisher": "Feiwel & Friends",
+        "description": "Every decade the Sunbearer Trials are held to determine who will light the Sun Stones and the loser is sacrificed to fuel them.",
+        "price": 15.97,
+        "title": "THE SUNBEARER TRIALS",
+        "author": "Aiden Thomas",
+        "isbns": [
+          {
+            "isbn10": "1250822130",
+            "isbn13": "9781250822130"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 9,
+        "publisher": "Scholastic",
+        "description": "Georgia, a British teenager, works on accepting her aro-ace identity.",
+        "price": 20.9,
+        "title": "LOVELESS",
+        "author": "Alice Oseman",
+        "isbns": [
+          {
+            "isbn10": "133875193X",
+            "isbn13": "9781338751932"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2022-09-24",
+    "published_date": "2022-10-09",
+    "published_date_description": "",
+    "next_published_date": "2022-10-16",
+    "previous_published_date": "2022-10-02",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 2,
+        "publisher": "Disney",
+        "description": "Sally, the new Queen of Halloween Town, must save her town from a sleeping curse.",
+        "price": 24.99,
+        "title": "LONG LIVE THE PUMPKIN QUEEN",
+        "author": "Shea Ernshaw",
+        "isbns": [
+          {
+            "isbn10": "1368069606",
+            "isbn13": "9781368069601"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 3,
+        "publisher": "Disney",
+        "description": "An Illustrated Novelization that retells the story of the film.",
+        "price": 31.99,
+        "title": "HOCUS POCUS: The Illustrated Novelization",
+        "author": "A.W. Jantha.",
+        "isbns": [
+          {
+            "isbn10": "1368076688",
+            "isbn13": "9781368076685"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 0,
+        "publisher": "Bloomsbury",
+        "description": "Tessa and Corrick set out on a journey to find a new source of the lifesaving elixir Moonflower.",
+        "price": 19.96,
+        "title": "DEFEND THE DAWN",
+        "author": "Brigid Kemmerer",
+        "isbns": [
+          {
+            "isbn10": "1547610077",
+            "isbn13": "9781547610075"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 1,
+        "publisher": "Flatiron",
+        "description": "After vowing to never trust the Prince of Hearts again, Evangeline finds that he may be the only one she can trust.",
+        "price": 15.99,
+        "title": "THE BALLAD OF NEVER AFTER",
+        "author": "Stephanie Garber",
+        "isbns": [
+          {
+            "isbn10": "1250268427",
+            "isbn13": "9781250268426"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 0,
+        "publisher": "jimmy patterson",
+        "description": "The lives of two girls named Hannah from different time periods and locations, mysteriously intertwine.",
+        "price": 13.99,
+        "title": "THE GIRL IN THE CASTLE",
+        "author": "James Patterson and Emily Raymond",
+        "isbns": [
+          {
+            "isbn10": "0316411728",
+            "isbn13": "9780316411721"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 7,
+        "publisher": "Delacorte",
+        "description": "For five students, a detour into detention ends in murder.",
+        "price": 14.95,
+        "title": "ONE OF US IS LYING",
+        "author": "Karen M. McManus",
+        "isbns": [
+          {
+            "isbn10": "1524714682",
+            "isbn13": "9781524714680"
+          },
+          {
+            "isbn10": "1524714690",
+            "isbn13": "9781524714697"
+          },
+          {
+            "isbn10": "1432876856",
+            "isbn13": "9781432876852"
+          },
+          {
+            "isbn10": "0593565371",
+            "isbn13": "9780593565377"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 5,
+        "publisher": "Little, Brown",
+        "description": "Signa Farrow enters an alliance with Death in order to find a killer.",
+        "price": 14.32,
+        "title": "BELLADONNA",
+        "author": "Adalyn Grace",
+        "isbns": [
+          {
+            "isbn10": "0316158232",
+            "isbn13": "9780316158237"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 4,
+        "publisher": "Flatiron",
+        "description": "Evangeline seeks the help of the Prince of Hearts when her love, Luc is bewitched.",
+        "price": 16.98,
+        "title": "ONCE UPON A BROKEN HEART",
+        "author": "Stephanie Garber",
+        "isbns": [
+          {
+            "isbn10": "1250268397",
+            "isbn13": "9781250268396"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 8,
+        "publisher": "Delacorte",
+        "description": "Brynn investigates the murder of her favorite teacher at Saint Ambrose School, Mr. Larkin.",
+        "price": 27.87,
+        "title": "NOTHING MORE TO TELL",
+        "author": "Karen M. McManus",
+        "isbns": [
+          {
+            "isbn10": "0593175905",
+            "isbn13": "9780593175903"
+          },
+          {
+            "isbn10": "0593175921",
+            "isbn13": "9780593175927"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 6,
+        "publisher": "Amulet",
+        "description": "Every 100 years the island of Lightlark appears and a deadly competition called the Centennial takes place.",
+        "price": 11.99,
+        "title": "LIGHTLARK",
+        "author": "Alex Aster",
+        "isbns": [
+          {
+            "isbn10": "1419760866",
+            "isbn13": "9781419760860"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2022-10-01",
+    "published_date": "2022-10-16",
+    "published_date_description": "",
+    "next_published_date": "2022-10-23",
+    "previous_published_date": "2022-10-09",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 1,
+        "publisher": "Disney",
+        "description": "Sally, the new Queen of Halloween Town, must save her town from a sleeping curse.",
+        "price": 24.99,
+        "title": "LONG LIVE THE PUMPKIN QUEEN",
+        "author": "Shea Ernshaw",
+        "isbns": [
+          {
+            "isbn10": "1368069606",
+            "isbn13": "9781368069601"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 2,
+        "publisher": "Disney",
+        "description": "An Illustrated Novelization that retells the story of the film.",
+        "price": 31.99,
+        "title": "HOCUS POCUS: The Illustrated Novelization",
+        "author": "A.W. Jantha.",
+        "isbns": [
+          {
+            "isbn10": "1368076688",
+            "isbn13": "9781368076685"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 0,
+        "publisher": "Margaret K. McElderry",
+        "description": "After a string of murders in Shanghai, Rosalind and Orion infiltrate the Japanese government-funded Seagreen Press.",
+        "price": 29.99,
+        "title": "FOUL LADY FORTUNE",
+        "author": "Chloe Gong",
+        "isbns": [
+          {
+            "isbn10": "1665905581",
+            "isbn13": "9781665905589"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 5,
+        "publisher": "jimmy patterson",
+        "description": "The lives of two girls named Hannah from different time periods and locations, mysteriously intertwine.",
+        "price": 13.99,
+        "title": "THE GIRL IN THE CASTLE",
+        "author": "James Patterson and Emily Raymond",
+        "isbns": [
+          {
+            "isbn10": "0316411728",
+            "isbn13": "9780316411721"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 4,
+        "publisher": "Flatiron",
+        "description": "After vowing to never trust the Prince of Hearts again, Evangeline finds that he may be the only one she can trust.",
+        "price": 15.99,
+        "title": "THE BALLAD OF NEVER AFTER",
+        "author": "Stephanie Garber",
+        "isbns": [
+          {
+            "isbn10": "1250268427",
+            "isbn13": "9781250268426"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 7,
+        "publisher": "Little, Brown",
+        "description": "Signa Farrow enters an alliance with Death in order to find a killer.",
+        "price": 14.32,
+        "title": "BELLADONNA",
+        "author": "Adalyn Grace",
+        "isbns": [
+          {
+            "isbn10": "0316158232",
+            "isbn13": "9780316158237"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 6,
+        "publisher": "Delacorte",
+        "description": "For five students, a detour into detention ends in murder.",
+        "price": 14.95,
+        "title": "ONE OF US IS LYING",
+        "author": "Karen M. McManus",
+        "isbns": [
+          {
+            "isbn10": "1524714682",
+            "isbn13": "9781524714680"
+          },
+          {
+            "isbn10": "1524714690",
+            "isbn13": "9781524714697"
+          },
+          {
+            "isbn10": "1432876856",
+            "isbn13": "9781432876852"
+          },
+          {
+            "isbn10": "0593565371",
+            "isbn13": "9780593565377"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 10,
+        "publisher": "Amulet",
+        "description": "Every 100 years the island of Lightlark appears and a deadly competition called the Centennial takes place.",
+        "price": 11.99,
+        "title": "LIGHTLARK",
+        "author": "Alex Aster",
+        "isbns": [
+          {
+            "isbn10": "1419760866",
+            "isbn13": "9781419760860"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 9,
+        "publisher": "Delacorte",
+        "description": "Brynn investigates the murder of her favorite teacher at Saint Ambrose School, Mr. Larkin.",
+        "price": 27.87,
+        "title": "NOTHING MORE TO TELL",
+        "author": "Karen M. McManus",
+        "isbns": [
+          {
+            "isbn10": "0593175905",
+            "isbn13": "9780593175903"
+          },
+          {
+            "isbn10": "0593175921",
+            "isbn13": "9780593175927"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 8,
+        "publisher": "Flatiron",
+        "description": "Evangeline seeks the help of the Prince of Hearts when her love, Luc is bewitched.",
+        "price": 16.98,
+        "title": "ONCE UPON A BROKEN HEART",
+        "author": "Stephanie Garber",
+        "isbns": [
+          {
+            "isbn10": "1250268397",
+            "isbn13": "9781250268396"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2022-10-08",
+    "published_date": "2022-10-23",
+    "published_date_description": "",
+    "next_published_date": "2022-10-30",
+    "previous_published_date": "2022-10-16",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 0,
+        "publisher": "Quill Tree",
+        "description": "In this prequel to \"They Both Die at the End,\" Orion and Valentino attend the premier of Death-Cast in Times Square.",
+        "price": 31.05,
+        "title": "THE FIRST TO DIE AT THE END",
+        "author": "Adam Silvera",
+        "isbns": [
+          {
+            "isbn10": "0063240807",
+            "isbn13": "9780063240803"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 1,
+        "publisher": "Disney",
+        "description": "Sally, the new Queen of Halloween Town, must save her town from a sleeping curse.",
+        "price": 24.99,
+        "title": "LONG LIVE THE PUMPKIN QUEEN",
+        "author": "Shea Ernshaw",
+        "isbns": [
+          {
+            "isbn10": "1368069606",
+            "isbn13": "9781368069601"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 2,
+        "publisher": "Disney",
+        "description": "An Illustrated Novelization that retells the story of the film.",
+        "price": 31.99,
+        "title": "HOCUS POCUS: The Illustrated Novelization",
+        "author": "A.W. Jantha.",
+        "isbns": [
+          {
+            "isbn10": "1368076688",
+            "isbn13": "9781368076685"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 3,
+        "publisher": "Margaret K. McElderry",
+        "description": "After a string of murders in Shanghai, Rosalind and Orion infiltrate the Japanese government-funded Seagreen Press.",
+        "price": 29.99,
+        "title": "FOUL LADY FORTUNE",
+        "author": "Chloe Gong",
+        "isbns": [
+          {
+            "isbn10": "1665905581",
+            "isbn13": "9781665905589"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 4,
+        "publisher": "jimmy patterson",
+        "description": "The lives of two girls named Hannah from different time periods and locations, mysteriously intertwine.",
+        "price": 13.99,
+        "title": "THE GIRL IN THE CASTLE",
+        "author": "James Patterson and Emily Raymond",
+        "isbns": [
+          {
+            "isbn10": "0316411728",
+            "isbn13": "9780316411721"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 5,
+        "publisher": "Flatiron",
+        "description": "After vowing to never trust the Prince of Hearts again, Evangeline finds that he may be the only one she can trust.",
+        "price": 15.99,
+        "title": "THE BALLAD OF NEVER AFTER",
+        "author": "Stephanie Garber",
+        "isbns": [
+          {
+            "isbn10": "1250268427",
+            "isbn13": "9781250268426"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 7,
+        "publisher": "Delacorte",
+        "description": "For five students, a detour into detention ends in murder.",
+        "price": 14.95,
+        "title": "ONE OF US IS LYING",
+        "author": "Karen M. McManus",
+        "isbns": [
+          {
+            "isbn10": "1524714682",
+            "isbn13": "9781524714680"
+          },
+          {
+            "isbn10": "1524714690",
+            "isbn13": "9781524714697"
+          },
+          {
+            "isbn10": "1432876856",
+            "isbn13": "9781432876852"
+          },
+          {
+            "isbn10": "0593565371",
+            "isbn13": "9780593565377"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 9,
+        "publisher": "Delacorte",
+        "description": "Brynn investigates the murder of her favorite teacher at Saint Ambrose School, Mr. Larkin.",
+        "price": 27.87,
+        "title": "NOTHING MORE TO TELL",
+        "author": "Karen M. McManus",
+        "isbns": [
+          {
+            "isbn10": "0593175905",
+            "isbn13": "9780593175903"
+          },
+          {
+            "isbn10": "0593175921",
+            "isbn13": "9780593175927"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 8,
+        "publisher": "Amulet",
+        "description": "Every 100 years the island of Lightlark appears and a deadly competition called the Centennial takes place.",
+        "price": 11.99,
+        "title": "LIGHTLARK",
+        "author": "Alex Aster",
+        "isbns": [
+          {
+            "isbn10": "1419760866",
+            "isbn13": "9781419760860"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 0,
+        "publisher": "Dutton",
+        "description": "In the summer of 2013, Aria discovers her sexuality in California's Bay Area.",
+        "price": 22.75,
+        "title": "A SCATTER OF LIGHT",
+        "author": "Malinda Lo",
+        "isbns": [
+          {
+            "isbn10": "0525555285",
+            "isbn13": "9780525555285"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2022-10-15",
+    "published_date": "2022-10-30",
+    "published_date_description": "one_before_latest",
+    "next_published_date": "2022-11-06",
+    "previous_published_date": "2022-10-23",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 1,
+        "publisher": "Quill Tree",
+        "description": "In this prequel to \"They Both Die at the End,\" Orion and Valentino attend the premier of Death-Cast in Times Square.",
+        "price": 31.05,
+        "title": "THE FIRST TO DIE AT THE END",
+        "author": "Adam Silvera",
+        "isbns": [
+          {
+            "isbn10": "0063240807",
+            "isbn13": "9780063240803"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 2,
+        "publisher": "Disney",
+        "description": "Sally, the new Queen of Halloween Town, must save her town from a sleeping curse.",
+        "price": 24.99,
+        "title": "LONG LIVE THE PUMPKIN QUEEN",
+        "author": "Shea Ernshaw",
+        "isbns": [
+          {
+            "isbn10": "1368069606",
+            "isbn13": "9781368069601"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 3,
+        "publisher": "Disney",
+        "description": "An Illustrated Novelization that retells the story of the film.",
+        "price": 31.99,
+        "title": "HOCUS POCUS: The Illustrated Novelization",
+        "author": "A.W. Jantha.",
+        "isbns": [
+          {
+            "isbn10": "1368076688",
+            "isbn13": "9781368076685"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 5,
+        "publisher": "jimmy patterson",
+        "description": "The lives of two girls named Hannah from different time periods and locations, mysteriously intertwine.",
+        "price": 13.99,
+        "title": "THE GIRL IN THE CASTLE",
+        "author": "James Patterson and Emily Raymond",
+        "isbns": [
+          {
+            "isbn10": "0316411728",
+            "isbn13": "9780316411721"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 6,
+        "publisher": "Flatiron",
+        "description": "After vowing to never trust the Prince of Hearts again, Evangeline finds that he may be the only one she can trust.",
+        "price": 15.99,
+        "title": "THE BALLAD OF NEVER AFTER",
+        "author": "Stephanie Garber",
+        "isbns": [
+          {
+            "isbn10": "1250268427",
+            "isbn13": "9781250268426"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 7,
+        "publisher": "Delacorte",
+        "description": "For five students, a detour into detention ends in murder.",
+        "price": 14.95,
+        "title": "ONE OF US IS LYING",
+        "author": "Karen M. McManus",
+        "isbns": [
+          {
+            "isbn10": "1524714682",
+            "isbn13": "9781524714680"
+          },
+          {
+            "isbn10": "1524714690",
+            "isbn13": "9781524714697"
+          },
+          {
+            "isbn10": "1432876856",
+            "isbn13": "9781432876852"
+          },
+          {
+            "isbn10": "0593565371",
+            "isbn13": "9780593565377"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 4,
+        "publisher": "Margaret K. McElderry",
+        "description": "After a string of murders in Shanghai, Rosalind and Orion infiltrate the Japanese government-funded Seagreen Press.",
+        "price": 29.99,
+        "title": "FOUL LADY FORTUNE",
+        "author": "Chloe Gong",
+        "isbns": [
+          {
+            "isbn10": "1665905581",
+            "isbn13": "9781665905589"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 8,
+        "publisher": "Delacorte",
+        "description": "Brynn investigates the murder of her favorite teacher at Saint Ambrose School, Mr. Larkin.",
+        "price": 27.87,
+        "title": "NOTHING MORE TO TELL",
+        "author": "Karen M. McManus",
+        "isbns": [
+          {
+            "isbn10": "0593175905",
+            "isbn13": "9780593175903"
+          },
+          {
+            "isbn10": "0593175921",
+            "isbn13": "9780593175927"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 9,
+        "publisher": "Amulet",
+        "description": "Every 100 years the island of Lightlark appears and a deadly competition called the Centennial takes place.",
+        "price": 11.99,
+        "title": "LIGHTLARK",
+        "author": "Alex Aster",
+        "isbns": [
+          {
+            "isbn10": "1419760866",
+            "isbn13": "9781419760860"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 0,
+        "publisher": "Little, Brown",
+        "description": "Signa Farrow enters an alliance with Death in order to find a killer.",
+        "price": 14.32,
+        "title": "BELLADONNA",
+        "author": "Adalyn Grace",
+        "isbns": [
+          {
+            "isbn10": "0316158232",
+            "isbn13": "9780316158237"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2022-10-22",
+    "published_date": "2022-11-06",
+    "published_date_description": "latest",
+    "next_published_date": "",
+    "previous_published_date": "2022-10-30",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 2,
+        "publisher": "Disney",
+        "description": "Sally, the new Queen of Halloween Town, must save her town from a sleeping curse.",
+        "price": 24.99,
+        "title": "LONG LIVE THE PUMPKIN QUEEN",
+        "author": "Shea Ernshaw",
+        "isbns": [
+          {
+            "isbn10": "1368069606",
+            "isbn13": "9781368069601"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 1,
+        "publisher": "Quill Tree",
+        "description": "In this prequel to \"They Both Die at the End,\" Orion and Valentino attend the premier of Death-Cast in Times Square.",
+        "price": 31.05,
+        "title": "THE FIRST TO DIE AT THE END",
+        "author": "Adam Silvera",
+        "isbns": [
+          {
+            "isbn10": "0063240807",
+            "isbn13": "9780063240803"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 0,
+        "publisher": "Scholastic",
+        "description": "Angel meets the front man of her favorite boy band, the Ark.",
+        "price": 13.94,
+        "title": "I WAS BORN FOR THIS",
+        "author": "Alice Oseman",
+        "isbns": [
+          {
+            "isbn10": "1338830937",
+            "isbn13": "9781338830934"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 3,
+        "publisher": "Disney",
+        "description": "An Illustrated Novelization that retells the story of the film.",
+        "price": 31.99,
+        "title": "HOCUS POCUS: The Illustrated Novelization",
+        "author": "A.W. Jantha.",
+        "isbns": [
+          {
+            "isbn10": "1368076688",
+            "isbn13": "9781368076685"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 5,
+        "publisher": "Flatiron",
+        "description": "After vowing to never trust the Prince of Hearts again, Evangeline finds that he may be the only one she can trust.",
+        "price": 15.99,
+        "title": "THE BALLAD OF NEVER AFTER",
+        "author": "Stephanie Garber",
+        "isbns": [
+          {
+            "isbn10": "1250268427",
+            "isbn13": "9781250268426"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 6,
+        "publisher": "Delacorte",
+        "description": "For five students, a detour into detention ends in murder.",
+        "price": 14.95,
+        "title": "ONE OF US IS LYING",
+        "author": "Karen M. McManus",
+        "isbns": [
+          {
+            "isbn10": "1524714682",
+            "isbn13": "9781524714680"
+          },
+          {
+            "isbn10": "1524714690",
+            "isbn13": "9781524714697"
+          },
+          {
+            "isbn10": "1432876856",
+            "isbn13": "9781432876852"
+          },
+          {
+            "isbn10": "0593565371",
+            "isbn13": "9780593565377"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 4,
+        "publisher": "jimmy patterson",
+        "description": "The lives of two girls named Hannah from different time periods and locations, mysteriously intertwine.",
+        "price": 13.99,
+        "title": "THE GIRL IN THE CASTLE",
+        "author": "James Patterson and Emily Raymond",
+        "isbns": [
+          {
+            "isbn10": "0316411728",
+            "isbn13": "9780316411721"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 9,
+        "publisher": "Amulet",
+        "description": "Every 100 years the island of Lightlark appears and a deadly competition called the Centennial takes place.",
+        "price": 11.99,
+        "title": "LIGHTLARK",
+        "author": "Alex Aster",
+        "isbns": [
+          {
+            "isbn10": "1419760866",
+            "isbn13": "9781419760860"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 7,
+        "publisher": "Margaret K. McElderry",
+        "description": "After a string of murders in Shanghai, Rosalind and Orion infiltrate the Japanese government-funded Seagreen Press.",
+        "price": 29.99,
+        "title": "FOUL LADY FORTUNE",
+        "author": "Chloe Gong",
+        "isbns": [
+          {
+            "isbn10": "1665905581",
+            "isbn13": "9781665905589"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 8,
+        "publisher": "Delacorte",
+        "description": "Brynn investigates the murder of her favorite teacher at Saint Ambrose School, Mr. Larkin.",
+        "price": 27.87,
+        "title": "NOTHING MORE TO TELL",
+        "author": "Karen M. McManus",
+        "isbns": [
+          {
+            "isbn10": "0593175905",
+            "isbn13": "9780593175903"
+          },
+          {
+            "isbn10": "0593175921",
+            "isbn13": "9780593175927"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+]

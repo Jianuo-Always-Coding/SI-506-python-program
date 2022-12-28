@@ -1,0 +1,43 @@
+{
+  "url": "https://starwars.fandom.com/wiki/Mace_Windu",
+  "name": "Mace Windu",
+  "birth_date": {
+    "year": 72,
+    "era": "BBY"
+  },
+  "height_cm": 192.0,
+  "mass_kg": 84.0,
+  "homeworld": {
+    "url": "https://starwars.fandom.com/wiki/Haruun_Kal",
+    "name": "Haruun Kal",
+    "location": {
+      "region": "Mid Rim",
+      "sector": "Dustig sector"
+    },
+    "suns": 1,
+    "moons": null,
+    "orbital_period_days": 383.0,
+    "diameter_km": 10120,
+    "gravity_std": 0.98,
+    "climate": [
+      "Temperate"
+    ],
+    "terrain": [
+      "Toxic cloudsea",
+      "Plateaus",
+      "Volcanoes",
+      "Jungles"
+    ],
+    "population": 705300
+  },
+  "species": {
+    "url": "https://swapi.py4e.com/api/species/1/",
+    "name": "Human",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_lifespan": 120,
+    "average_height_cm": 180.0,
+    "language": "Galactic Basic"
+  },
+  "force_sensitive": true
+}

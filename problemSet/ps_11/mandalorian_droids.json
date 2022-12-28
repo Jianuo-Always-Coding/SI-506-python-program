@@ -1,0 +1,13 @@
+[
+    {
+    "url": "https://starwars.fandom.com/wiki/IG-11",
+    "name": "IG-11",
+    "model": "IG-series assassin droid",
+    "manufacturer": "Holowan Mechanicals",
+    "create_year": "9 ABY",
+    "height": "219",
+    "mass": null,
+    "equipment": "E-11 medium blaster rifle|DLT-20A blaster rifle|Self-destruct mechanism|Bacta spray",
+    "instructions": "Capture Grogu and return to Imperial forces"
+    }
+]

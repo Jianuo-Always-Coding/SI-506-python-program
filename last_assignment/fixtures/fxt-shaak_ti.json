@@ -1,0 +1,42 @@
+{
+  "url": "https://starwars.fandom.com/wiki/Shaak_Ti",
+  "name": "Shaak Ti",
+  "birth_date": null,
+  "height_cm": 187.0,
+  "mass_kg": 57.0,
+  "homeworld": {
+    "url": "https://starwars.fandom.com/wiki/Shili",
+    "name": "Shili",
+    "location": {
+      "region": "Expansion Region",
+      "sector": "Shili system"
+    },
+    "suns": 1,
+    "moons": 6,
+    "orbital_period_days": null,
+    "diameter_km": null,
+    "gravity_std": 1.0,
+    "climate": [
+      "Temperate"
+    ],
+    "terrain": [
+      "Cities",
+      "Savannahs",
+      "Seas",
+      "Plains",
+      "Rainforest valleys",
+      "Mountains"
+    ],
+    "population": null
+  },
+  "species": {
+    "url": "https://swapi.py4e.com/api/species/35/",
+    "name": "Togruta",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_lifespan": 94,
+    "average_height_cm": 180.0,
+    "language": "Togruti"
+  },
+  "force_sensitive": true
+}

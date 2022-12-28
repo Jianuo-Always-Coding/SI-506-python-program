@@ -1,0 +1,117 @@
+[
+  {
+    "name": "Anakin Skywalker",
+    "height": "188",
+    "hair_color": "blond",
+    "eye_color": "blue",
+    "birth_year": "41.9BBY",
+    "homeworld": {
+      "name": "Tatooine",
+      "rotation_period": "34",
+      "orbital_period": "304",
+      "climate": "Hot, Arid",
+      "gravity": "1 standard",
+      "terrain": "Canyons, Desert, Mountains, Rocky bluffs",
+      "surface_water": "1",
+      "population": "200000",
+      "region": "Outer Rim Territories",
+      "sector": "Arkanis sector",
+      "system": "Tatoo system",
+      "atmosphere": "Type I (breathable)",
+      "primary_languages": "Bocce, Galactic Basic, Huttese, Jawaese, Tusken"
+    },
+    "species": "Human"
+  },
+  {
+    "name": "Dooku",
+    "height": "193",
+    "hair_color": "white",
+    "eye_color": "brown",
+    "birth_year": "102BBY",
+    "homeworld": {
+      "name": "Serenno",
+      "rotation_period": "",
+      "orbital_period": "",
+      "climate": "",
+      "gravity": "unknown",
+      "terrain": "Forests, Mountains, Plains, Savannah",
+      "surface_water": "unknown",
+      "population": "",
+      "region": "Outer Rim Territories, Northern Dependencies",
+      "sector": "D'Astan sector",
+      "system": "Serenno system",
+      "atmosphere": "Breathable",
+      "primary_languages": "Galactic Basic Standard"
+    },
+    "species": "Human"
+  },
+  {
+    "name": "Grievous",
+    "height": "216",
+    "hair_color": "none",
+    "eye_color": "green, yellow",
+    "birth_year": "unknown",
+    "homeworld": {
+      "name": "Kalee",
+      "rotation_period": "",
+      "orbital_period": "",
+      "climate": "",
+      "gravity": "1",
+      "terrain": "",
+      "surface_water": "unknown",
+      "population": "",
+      "region": "Wild Space",
+      "sector": "",
+      "system": "",
+      "atmosphere": "",
+      "primary_languages": ""
+    },
+    "species": "Kaleesh"
+  },
+  {
+    "name": "Palpatine",
+    "height": "170",
+    "hair_color": "grey",
+    "eye_color": "yellow",
+    "birth_year": "82BBY",
+    "homeworld": {
+      "name": "Naboo",
+      "rotation_period": "26",
+      "orbital_period": "312",
+      "climate": "Temperate",
+      "gravity": "1 standard",
+      "terrain": "Swamps, Hills, Plains, Cities, Mountains",
+      "surface_water": "12",
+      "population": "4500000000",
+      "region": "Mid Rim Territories",
+      "sector": "Chommell sector",
+      "system": "Naboo system",
+      "atmosphere": "Type I (breathable)",
+      "primary_languages": "Galactic Basic, Gunganese"
+    },
+    "species": "Human"
+  },
+  {
+    "name": "Wilhuff Tarkin",
+    "height": "180",
+    "hair_color": "auburn, grey",
+    "eye_color": "blue",
+    "birth_year": "64BBY",
+    "homeworld": {
+      "name": "Eriadu",
+      "rotation_period": "",
+      "orbital_period": "",
+      "climate": "Temperate",
+      "gravity": "1 standard",
+      "terrain": "Jungles, Mountains",
+      "surface_water": "unknown",
+      "population": "",
+      "region": "Outer Rim Territories, Greater Seswenna",
+      "sector": "Seswenna sector",
+      "system": "Eriadu system",
+      "atmosphere": "Breathable",
+      "primary_languages": "Galactic Basic Standard"
+    },
+    "species": "Human"
+  }
+]

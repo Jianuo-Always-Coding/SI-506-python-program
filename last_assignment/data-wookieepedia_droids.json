@@ -1,0 +1,35 @@
+[
+    {
+      "url": "https://starwars.fandom.com/wiki/BB-8",
+      "name": "BB8",
+      "model": "BB-series astromech droid",
+      "manufacturer": "Industrial Automaton",
+      "create_year": "29ABY",
+      "height": "67",
+      "mass": "18",
+      "equipment": "Arc welder|Grappling Spike Launcher|Holoprojector|Welding torch",
+      "instructions": null
+    },
+    {
+      "url": "https://starwars.fandom.com/wiki/C-3PO/Legends",
+      "name": "C-3PO",
+      "model": "3PO-series protocol droid",
+      "manufacturer": "Cybot Galactica",
+      "create_year": "112BBY",
+      "height": "167",
+      "mass": "75",
+      "equipment": null,
+      "instructions": null
+    },
+    {
+      "url": "https://starwars.fandom.com/wiki/R2-D2",
+      "name": "R2-D2",
+      "model": "R2-series astromech droid",
+      "manufacturer": "Industrial Automaton",
+      "create_year": "32BBY",
+      "height": "108",
+      "mass": "32",
+      "equipment": "Ascension cable|Buzz saw|Data probe|Electric pike|Fusion welder|Holoprojector|Power recharge coupler|Rocket booster|Water spout",
+      "instructions": null
+    }
+  ]

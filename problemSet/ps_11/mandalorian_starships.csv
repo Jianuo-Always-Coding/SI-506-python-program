@@ -1,0 +1,4 @@
+name,model,starship_class,manufacturer,cost_in_credits,length,width,height,max_atmosphering_speed,crew,passengers,cargo_capacity,consumables,hyperdrive_rating,MGLT,armament,url
+Hovering pram,,,,,,,,,,1,,,,,,https://starwars.fandom.com/wiki/Hovering_pram
+Razor Crest,ST-70 class Razor Crest M-111,gunship,,,80,54,28,,1,4,,,,,2 x Mk 3e/W heavy laser cannons,https://starwars.fandom.com/wiki/Razor_Crest
+Imperial transport,,transport,,,,,,,4,36,,,,,2 x twin laser cannons,https://starwars.fandom.com/wiki/Imperial_transport
